@@ -1,41 +1,11 @@
-# Solucja do Gothic II: New Balance
+# Solucja do Gothic I: Ucieczka od Wolności
 
-Na tej stronie znajdziesz kompletną solucję do modyfikacji _Gothic II: New Balance_. Została przygotowana z myślą o graczach, którzy chcą dokładnie poznać wszystkie zadania i możliwe ścieżki fabularne dostępne w grze. Solucja prowadzi krok po kroku przez kolejne etapy rozgrywki, pomagając w podejmowaniu istotnych decyzji i pełnym zrozumieniu historii.
-
----
-
-# 📦 **[Spis wszystkich przedmiotów – kliknij tutaj](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=757649261#gid=757649261)**
-
----
-
-## Specjalne podziękowania
-
-Serdeczne podziękowania dla **Marka Z** — autora oryginalnej wersji solucji. Jego praca stanowiła fundament dla tego opracowania i była nieocenionym źródłem wiedzy przy tworzeniu niniejszej wersji.
-
----
-
-## Osoby, które przyczyniły się do aktualizacji i rozbudowy solucji
-
-**Członkowie Teamu Sefaris:**
-
-- Sebastian
-- Tulipan
-- fyryNy
-
-**Inni współtwórcy:**
-
-- xez20003
-- Flopson
-- FortyNest22
-- Deetom554
-- Delph
-- Katspa
----
+Na tej stronie znajdziesz kompletną solucję do modyfikacji _Gothic I: Ucieczka od Wolności_. Została przygotowana z myślą o graczach, którzy chcą dokładnie poznać wszystkie zadania i możliwe ścieżki fabularne dostępne w grze. Solucja prowadzi krok po kroku przez kolejne etapy rozgrywki, pomagając w podejmowaniu istotnych decyzji i pełnym zrozumieniu historii.
 
 ## Jak aktualizować solucję
 
 Solucja znajduje się w publicznym repozytorium GitHub:  
-🔗 **[https://github.com/Sefaris/nb-wiki](https://github.com/Sefaris/nb-wiki)**
+🔗 **[https://github.com/Sefaris/EFF_WIKI_PL](https://github.com/Sefaris/EFF_WIKI_PL)**
 
 Każdy może zaproponować poprawki lub rozszerzenia, korzystając ze standardowego procesu open source. Jeśli chcesz dodać nowe informacje, poprawić błędy lub rozbudować istniejące sekcje, postępuj według poniższych kroków:
 
@@ -44,13 +14,13 @@ Każdy może zaproponować poprawki lub rozszerzenia, korzystając ze standardow
 ### 🛠️ Kroki do aktualizacji:
 
 1. **Sforkuj repozytorium**  
-   Przejdź do [repozytorium](https://github.com/Sefaris/nb-wiki) i kliknij przycisk `Fork`, aby utworzyć własną kopię.
+   Przejdź do [repozytorium](https://github.com/Sefaris/EFF_WIKI_PL) i kliknij przycisk `Fork`, aby utworzyć własną kopię.
 
 2. **Sklonuj repozytorium lokalnie**  
    Skopiuj link do swojego forka i wykonaj polecenie:
 
    ```bash
-   git clone https://github.com/twoj-nick/nb-wiki.git
+   git clone https://github.com/twoj-nick/eff_wiki_pl.git
    ```
 
 3. **Utwórz nową gałąź (branch)**

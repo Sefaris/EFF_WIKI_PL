@@ -1,6 +1,6 @@
-# Gothic II: New Balance - Wiki
+# Gothic I: Ucieczka od Wolności - Wiki
 
-Ten projekt zawiera solucję do Gothic II: New Balance od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)
+Ten projekt zawiera solucję do Gothic I: Ucieczka od Wolności od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://ucieczka-od-wolnosci.mody.sefaris.eu](https://ucieczka-od-wolnosci.mody.sefaris.eu)
 
 ## Instalacja oraz wymagania
 

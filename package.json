@@ -1,7 +1,7 @@
 {
-  "name": "nb-wiki",
+  "name": "eff-wiki",
   "version": "1.0.0",
-  "description": "Ten projekt zawiera solucję do Gothic II: New Balance od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)",
+  "description": "Ten projekt zawiera solucję do Gothic I: Ucieczka od Wolności od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://ucieczka-od-wolnosci.mody.sefaris.eu](https://ucieczka-od-wolnosci.mody.sefaris.eu)",
   "scripts": {
     "docs": "docsify serve docs",
     "parse": "ts-node ./parser/index.ts"
