@@ -79,7 +79,6 @@ __Zleca:__
 
 __Zleca:__
 
-
 ## Worki pszenicy
 
 __Zleca:__
@@ -91,7 +90,6 @@ __Zleca:__
 ## Zaginiona siostra
 
 __Zleca:__
-
 
 ## List ze świata zewnętrznego
 
