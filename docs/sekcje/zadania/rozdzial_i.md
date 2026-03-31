@@ -81,16 +81,21 @@ __Zleca:__
 
 ## Worki pszenicy
 
-__Zleca:__
+__Zleca: Spika__
 
 ## Zapracowana kobieta
 
-__Zleca:__
+__Zleca: Spika__
 
 ## Zaginiona siostra
 
-__Zleca:__
+__Zleca: Maia__
 
 ## List ze świata zewnętrznego
 
-__Zleca:__
+__Zleca: - __
+
+## Zaginienie w góach
+
+__Zleca: Deneb__
+
