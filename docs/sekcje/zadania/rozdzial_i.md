@@ -99,3 +99,5 @@ __Zleca: -__
 ## Zaginieni w góach
 __Zleca: Deneb__
 
+## Zaginiony brat
+__Zleca: Pollux__
