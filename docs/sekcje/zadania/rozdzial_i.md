@@ -42,7 +42,7 @@ __Zleca: Swiney__
 ## Zamieszki na polu ryżowym
 __Zleca: Spika__
 
-## Brón Baloro
+## Broń Baloro
 __Zleca: Baloro__
 
 ## Bestia
