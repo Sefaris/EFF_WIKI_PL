@@ -97,7 +97,19 @@ __Zleca: Spika__
 __Zleca: -__
 
 ## Zaginieni w góach
-__Zleca: Deneb__
+__Zleca:__
+
+## Alchemik
+__Zleca:__
+
+## Złto dla Regulusa
+__Zleca:__
+
+## Misja ratunkowa
+__Zleca:__
+
+## Runa Regulusa
+__Zleca:__
 
 ## Zaginiony brat
 __Zleca: Pollux__
