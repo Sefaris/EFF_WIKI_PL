@@ -32,18 +32,7 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
 ## Autorzy
 
-- Oryginalny twórca solucji: MarekZ
-
 - Członkowie Teamu Sefaris:
 
   - [Sebastian](https://github.com/met0rii)
-  - [Tulipan](https://github.com/tulipanov)
-  - [fyryNy](https://github.com/fyryNy)
-
-- Inni:
-  - xez20003
-  - Flopson
-  - FortyNest22
-  - Deetom554
-  - Delph
-  - Katspa
+  - [Deetom554](https://github.com/Deetom554)
