@@ -11,6 +11,9 @@ __Zleca: -__
 
 Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni możemy znaleźć fragment pancerza. Idąc dalej w górę drogi, przy wejściu do kopalni spotkamy Maię, której oddajemy fragment. Za przekazanie płytki otrzymamy nóż.
 
+## Zaginiona siostra
+__Zleca: Maia__
+
 ## Uprzejmy złodziej
 __Zleca: Gor Na Drak__
 
@@ -40,74 +43,59 @@ __Zleca: Swiney__
 __Zleca: Spika__
 
 ## Brón Baloro
-
-__Zleca:__
-
-## Zagrożenie na bagnach
-
-__Zleca:__
-
-## Dary natury
-
-__Zleca:__
-
-## Stado ścierwojadów
-
-__Zleca:__
-
-## List do Lee
-
-__Zleca:__
-
-## Ranny wąż błotny
-
-__Zleca:__
-
-## Nordmarczyk
-
-__Zleca:__
-
-## Pijany ork
-
-__Zleca:__
+__Zleca: Baloro__
 
 ## Bestia
+__Zleca: Kaus__
 
-__Zleca:__
+## Stado ścierwojadów
+__Zleca: Kaus__
+
+## Dary natury
+__Zleca: Kaus__
+
+## Zagrożenie na bagnach
+__Zleca: Kaus__
+
+## Pijany ork
+__Zleca: Kaus__
+
+## Rzadkie trofea
+__Zleca: Kaus__
+
+## Magiczne monstrum
+__Zleca: Kaus__
+
+## List do Lee
+__Zleca: Lee__
+
+## Zatrute ziele
+__Zleca: Altarf__
+
+## Nordmarczyk
+__Zleca: Deneb__
 
 ## Wolna Kopalnia
-
 __Zleca:__
 
 ## Lew Pustyni
-
 __Zleca:__
 
 ## Sekrety Obozu Bractwa
-
 __Zleca:__
 
 ## Infiltrator
-
 __Zleca:__
 
 ## Worki pszenicy
-
 __Zleca: Spika__
 
 ## Zapracowana kobieta
-
 __Zleca: Spika__
 
-## Zaginiona siostra
-
-__Zleca: Maia__
-
 ## List ze świata zewnętrznego
-
 __Zleca: -__
 
 ## Zaginieni w góach
-
 __Zleca: Deneb__
 
