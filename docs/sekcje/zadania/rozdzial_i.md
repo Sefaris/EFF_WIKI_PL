@@ -104,19 +104,51 @@ __Zleca: -__
 __Zleca:__
 
 ## Droga do zamku
-__Zleca:__
+__Zleca: Regulus__
+
+Regulus wyjaśnia nam, jak dostać się do zamku. Misję możemy rozpocząć dopiero po osiągnięciu co najmniej 10 poziomu doświadczenia.
+
+Po jej rozpoczęciu udajemy się do Świstaka. Od niego dowiadujemy się, że aby dostać się do składowiska, musimy otworzyć kratę za pomocą przycisku znajdującego się w magazynie Fiska.
+
+Czekamy do północy, następnie upijamy strażnika stojącego przed chatą Fiska i wchodzimy do środka. Klucz znajduje się obok kominka, za skrzynką z drewnem. Zabrany klucz zanosimy najpierw do Świstaka, a następnie udajemy się do magazynu Fiska, gdzie otwieramy kratę.
+
+W składowisku natrafimy na nagiego strażnika, którego musimy zabić. Z jego ciała zabieramy klucz i otwieramy kolejne drzwi. Po drodze spotkamy jeszcze jednego takiego strażnika, jego również eliminujemy.
+
+Następnie rozmawiamy z niewolnicą i używamy na niej zwoju kontroli. Kierujemy ją do kuchni w siedzibie magnatów, gdzie zabieramy klucz (opcjonalnie możemy też udać się do komnat i wynieść książki).
+
+Z kluczem wracamy do Bezimiennego i udajemy się do kuchni. Na miejscu podnosimy drabinę i ustawiamy ją pod kominem, po czym wspinamy się na górę.
+
+Na jednym z pięter czeka nas walka z falami nieumarłych. Po ich pokonaniu oraz przestawieniu trzech dźwigni wspinamy się na platformę przy suficie. Tam pokonujemy kolejnego szkieleta i idziemy jeszcze wyżej.
+
+Na końcu spotykamy Antaresa. Po krótkiej rozmowie udajemy się wyżej, co kończy zadanie.
 
 ## Alchemik
-__Zleca:__
+__Zleca: Regulus__
+
+Zadanie rozpoczyna się podczas rozmowy z Regulusem na temat Antaresa, a kończy po rozmowie z alchemikiem.
 
 ## Złoto dla Regulusa
-__Zleca:__
+__Zleca: Regulus__
+
+Regulus zleca nam zdobycie 20 000 sztuk złota, które znajdują się w skrzyniach w wieży. Podczas wykonywania misji [Droga do zamku](#droga-do-zamku) możemy zebrać wymaganą ilość i następnie przekazać ją zleceniodawcy.
 
 ## Misja ratunkowa
-__Zleca:__
+__Zleca: Regulus__
+
+Zadanie można wykonać podczas wykonywania misji [Droga do zamku](#droga-do-zamku).
+
+Po wejściu do pierwszego pomieszczenia składowiska zauważymy na ścianie charakterystyczne miejsce, które możemy wyburzyć. Po jego zniszczeniu schodzimy niżej, ustawiamy drabinę, a następnie używamy zwoju kontroli na strażniku, aby otworzyć kratę.
+
+Gdy przejdziemy dalej, zabijamy strażnika i uwalniamy strażników królewskich. Po ich wypuszczeniu udają się oni do zawalonej wieży, gdzie będą na nas czekać.
+
+Po spotkaniu w wieży, musimy dostarczyć im: 2 szynki, 2 chleby, 2 jabłka, 2 piwa oraz mapę kolonii.
+
+Następnie przekazujemy im pierścień oraz runę teleportacji do Regulusa.
+
+Po spotkaniu u Regulusa zadanie zostaje zakończone.
 
 ## Runa Regulusa
-__Zleca:__
+__Zleca: Regulus__
 
 ## Zaginiony brat
 __Zleca: Pollux__
