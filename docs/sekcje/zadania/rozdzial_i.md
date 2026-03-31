@@ -90,6 +90,10 @@ __Zleca:__
 ## Worki pszenicy
 __Zleca: Spika__
 
+Spika zleca nam kradzież worków ze zbożem ze składowiska zamku w Starym Obozie. Dostaniemy się tam podczas misji [Droga do zamku](#droga-do-zamku). Zebrane worki należy odnieść do zleceniodawcy.
+
+Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci Esencji Siły.
+
 ## Zapracowana kobieta
 __Zleca: Spika__
 
@@ -97,6 +101,9 @@ __Zleca: Spika__
 __Zleca: -__
 
 ## Zaginieni w góach
+__Zleca:__
+
+## Droga do zamku
 __Zleca:__
 
 ## Alchemik
