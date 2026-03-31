@@ -1,4 +1,7 @@
-# Zadania - Rozdział 1
+# Rozdział 1
+
+## Ważne informacje!
+- Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
 
 ## Moja własna ścieżka
 __Zleca: Diego__
