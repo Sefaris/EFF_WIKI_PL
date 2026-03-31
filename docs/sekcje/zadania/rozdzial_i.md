@@ -102,7 +102,7 @@ __Zleca:__
 ## Alchemik
 __Zleca:__
 
-## Złto dla Regulusa
+## Złoto dla Regulusa
 __Zleca:__
 
 ## Misja ratunkowa
