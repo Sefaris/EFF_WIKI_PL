@@ -93,7 +93,7 @@ __Zleca: Maia__
 
 ## List ze świata zewnętrznego
 
-__Zleca: - __
+__Zleca: -__
 
 ## Zaginieni w góach
 
