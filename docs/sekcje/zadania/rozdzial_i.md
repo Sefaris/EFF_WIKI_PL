@@ -150,5 +150,9 @@ Po spotkaniu u Regulusa zadanie zostaje zakończone.
 ## Runa Regulusa
 __Zleca: Regulus__
 
+Po rozmowie z Regulusem na temat dostania się do zamku Magnatów zostaniemy zapytani o powód naszej wyprawy. Jeśli wybierzemy opcję dialogową „Muszę kogoś stamtąd wydostać”, a następnie „W wieży zamknięto kobietę…”, otrzymamy od niego runę teleportacji.
+
+Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
+
 ## Zaginiony brat
 __Zleca: Pollux__
