@@ -95,7 +95,7 @@ __Zleca: Maia__
 
 __Zleca: - __
 
-## Zaginienie w góach
+## Zaginieni w góach
 
 __Zleca: Deneb__
 
