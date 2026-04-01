@@ -35,7 +35,7 @@ Następnie udajemy się kolejno do: Aidana, Jarvisa, Baal Kagana, Kosy, Wilka, L
 
 Po zebraniu informacji możemy udać się w stronę orkowej areny. Przed drzwiami znajdziemy zwój przemiany w chrząszcza. Używamy go, aby przedostać się pod drzwiami do kryjówki Regulusa.
 
-Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości: oddać wyposażenie, skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone lub powiedzieć, że Regulus został najemnikiem orków. Niezależnie od wyboru wracamy z informacją do Regulusa.
+Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości: oddać wyposażenie, skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone) lub powiedzieć, że Regulus został najemnikiem orków. Niezależnie od wyboru wracamy z informacją do Regulusa.
 
 ## Mapy dla Ratforda
 __Zleca: Ratford__
