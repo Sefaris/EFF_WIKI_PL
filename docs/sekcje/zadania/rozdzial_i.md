@@ -128,6 +128,7 @@ Horacy, zbieracz ryżu z Nowego Obozu, może nauczyć nas, jak skuteczniej zadaw
 __Zleca: Swiney__
 
 Swiney zleca nam pozbycie się rzadkiego ścierwojada, który zadomowił się w górach Wolnej Kopalni. Jego lokalizacja jest losowa. Na poniższej mapie zaznaczono cztery możliwe miejsca jego występowania. Po jego zabiciu i zebraniu mięsa wracamy do zleceniodawcy.
+
 ![wolnakopscier](fotki/wolnakopscier.png)
 
 ## Broń Baloro
