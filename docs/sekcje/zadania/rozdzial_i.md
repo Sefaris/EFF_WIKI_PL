@@ -69,10 +69,13 @@ Jeśli przyznamy się Gilbertowi, że Drax powiedział nam, gdzie go szukać, zl
 
 ## Zioła nasenne
 __Zleca: Gilbert__
+
 Gilbert prosi nas o zaniesienie ziół dla Gravo. Po ich dostarczeniu otrzymujemy jedzenie dla Gilberta, które następnie mu odnosimy.
 
 ## Zapracowana kobieta
 __Zleca: Spika__
+
+Gdy tylko wejdziemy do Nowego Obozu, zagaduje nas Spika. Misja ma charakter czysto informacyjny i zostaje zakończona po wykonaniu wszystkich zadań dla niej.
 
 ## Worki pszenicy
 __Zleca: Spika__
@@ -101,6 +104,20 @@ Po zebraniu roślin wracamy do zleceniodawcy. Następnie musimy odczekać 2 dni 
 
 ## Szpital polowy
 __Zleca: Spika__
+
+Jeśli spotkamy Spikę w szpitalu, zleci nam udanie się do Wolnej Kopalni. Tam najpierw rozmawiamy z Okylem, a następnie z Saifem.
+
+Podczas prowadzenia Kreta do szpitala natkniemy się na ciało, które musimy przeszukać i zabrać kieł. Następnie wracamy do Spiki.
+
+Teraz mamy dwa wybory:
+
+Postępowanie zgodnie z poleceniem Spiki:
+Idziemy do Alistaira, a następnie do Wilka. Potem udajemy się do Jarvisa i rozmawiamy ze Szkodnikami przy bramie. Następnie odwiedzamy Aidana i wracamy do Jarvisa. Kolejnym krokiem jest plac Corda, pytamy najemnika o Corda. W szpitalu odnajdujemy Corda, a Spika znajduje się na półce skalnej naprzeciwko szpitala. Po rozmowie z nią wracamy do Alistaira, Vindemiatrixa i Corda.
+
+Śledzenie Spiki (lepsza opcja):
+Biegniemy za Spiką, zatrzymuje nas Jarvis, następnie rozmawiamy z nią przy Aidanie i rozmawiamy z samym Aidanem, po czym wracamy do Jarvisa. Dalej udajemy się na plac Corda i pytamy najemnika o Corda. Idąc dalej, spotykamy go. Następnie odnajdujemy Spikę na półce skalnej po prawej stronie i zabijamy warga. Po wszystkim wracamy do szpitala, rozmawiamy ze Spiką i kończymy misję. Ta ścieżka odblokowuje również dodatkowe zadanie [Najlepszy przyjaciel człowieka](#Najlepszy-przyjaciel-człowieka). Warto też porozmawiać z Alistairem i Cordem.
+
+Niezależnie od wyboru, misja zostaje zakończona.
 
 ## Naprawa młynów
 __Zleca: Spika__
@@ -197,7 +214,7 @@ Regulusa spotkamy podczas wykonywania zadania [Uprzejmy złodziej](#uprzejmy-zł
 ## List ze świata zewnętrznego
 __Zleca: -__
 
-## Zaginieni w góach
+## Zaginieni w górach
 __Zleca:__
 
 ## Droga do zamku
