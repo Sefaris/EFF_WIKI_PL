@@ -138,6 +138,12 @@ __Zleca: Spika__
 ## Najlepszy przyjaciel człowieka
 __Zleca: Spika__
 
+Jeśli w misji [Szpital polowy](#szpital-polowy) zabijemy warga, będziemy musieli znaleźć dla Spiki nowego zwierzaka.
+
+W wyznaczonym miejscu na mapie znajdziemy psa, któremu należy dać surowe mięso. Następnie prowadzimy go do Spiki, aby zakończyć zadanie.
+
+![piesek](fotki/piesek.png)
+
 ## Zbieracz Horacy
 Horacy, zbieracz ryżu z Nowego Obozu, może nauczyć nas, jak skuteczniej zadawać ciosy. Wykonanie tego zadania staje się dostępne dopiero w trakcie wykonywania [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
 
