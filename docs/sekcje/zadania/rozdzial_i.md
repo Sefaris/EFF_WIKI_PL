@@ -83,14 +83,30 @@ Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w po
 ## Zamieszki na polu ryżowym
 __Zleca: Spika__
 
+Jeśli spotkamy Spikę u Jeremiasza, zleci nam rozprawienie się z Ryżowym Księciem. W pierwszej kolejności rozmawiamy z Jeremiaszem, który odsyła nas do Horacego.
+
+Po rozmowie z Horacym, udajemy się do Księcia. Po rozmowie z Ryżowym Księciem będziemy zmuszeni stoczyć walkę z nim oraz Lewusem.
+
+Po zwycięstwie rozmawiamy z Ryżowym Księciem i jego bandytami. Następnie wracamy do Spiki, a na końcu ponownie udajemy się do Horacego.
+
 ## Bimber jak dawniej
 __Zleca: Spika__
+
+Zadanie dostępne po ukończeniu [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
+
+Jeśli spotkamy Spikę u Jeremiasza, poprosi nas o przyniesienie 15 alkojagód. Najwięcej tych roślin znajdziemy w górach, w okolicach Wolnej Kopalni.
+
+Po zebraniu roślin wracamy do zleceniodawcy. Następnie musimy odczekać 2 dni i ponownie porozmawiać ze Spiką.
 
 ## Szpital polowy
 __Zleca: Spika__
 
 ## Naprawa młynów
 __Zleca: Spika__
+
+Jeśli spotkamy Spikę przy młynach, zleci nam ich naprawę. W pierwszej kolejności należy wejść na oba młyny i pociągnąć za dźwignie. Następnie schodzimy na dół i rozmawiamy ze Spiką, która wyśle nas do Starej Kopalni po koło zębate.
+
+Poszukiwany element znajdziemy w pobliżu Santino. Możemy również zapytać go o zębatkę, choć nie jest to konieczne. Po zdobyciu koła wracamy do Spiki i naprawiamy oba młyny.
 
 ## Robotnik od zaraz
 __Zleca: Spika__
