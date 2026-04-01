@@ -69,6 +69,7 @@ Jeśli przyznamy się Gilbertowi, że Drax powiedział nam, gdzie go szukać, zl
 
 ## Zioła nasenne
 __Zleca: Gilbert__
+Gilbert prosi nas o zaniesienie ziół dla Gravo. Po ich dostarczeniu otrzymujemy jedzenie dla Gilberta, które następnie mu odnosimy.
 
 ## Zapracowana kobieta
 __Zleca: Spika__
@@ -120,8 +121,14 @@ __Zleca: Spika__
 ## Najlepszy przyjaciel człowieka
 __Zleca: Spika__
 
+## Zbieracz Horacy
+Horacy, zbieracz ryżu z Nowego Obozu, może nauczyć nas, jak skuteczniej zadawać ciosy. Wykonanie tego zadania staje się dostępne dopiero w trakcie wykonywania [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
+
 ## Nieprzespane noce
 __Zleca: Swiney__
+
+Swiney zleca nam pozbycie się rzadkiego ścierwojada, który zadomowił się w górach Wolnej Kopalni. Jego lokalizacja jest losowa. Na poniższej mapie zaznaczono cztery możliwe miejsca jego występowania. Po jego zabiciu i zebraniu mięsa wracamy do zleceniodawcy.
+![wolnakopscier](fotki/wolnakopscier.png)
 
 ## Broń Baloro
 __Zleca: Baloro__
