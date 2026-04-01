@@ -56,11 +56,42 @@ Jeśli przyznamy się Gilbertowi, że Drax powiedział nam, gdzie go szukać, zl
 ## Zioła nasenne
 __Zleca: Gilbert__
 
-## Nieprzespane noce
-__Zleca: Swiney__
+## Zapracowana kobieta
+__Zleca: Spika__
+
+## Worki pszenicy
+__Zleca: Spika__
+
+Spika zleca nam kradzież worków ze zbożem ze składowiska zamku w Starym Obozie. Dostaniemy się tam podczas misji [Droga do zamku](#droga-do-zamku). Zebrane worki należy odnieść do zleceniodawcy.
+
+Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci Esencji Siły.
 
 ## Zamieszki na polu ryżowym
 __Zleca: Spika__
+
+## Bimber jak dawniej
+__Zleca: Spika__
+
+## Szpital polowy
+__Zleca: Spika__
+
+## Naprawa młynów
+__Zleca: Spika__
+
+## Robotnik od zaraz
+__Zleca: Spika__
+
+## Wsparcie dla biedoty
+__Zleca: Spika__
+
+## Rozszerzenie działalności
+__Zleca: Spika__
+
+## Najlepszy przyjaciel człowieka
+__Zleca: Spika__
+
+## Nieprzespane noce
+__Zleca: Swiney__
 
 ## Broń Baloro
 __Zleca: Baloro__
@@ -114,16 +145,6 @@ Naszym celem jest znalezienie strażnika królewskiego, który pomoże nam dosta
 Po rozmowie z nimi udajemy się do Lee, który wskazuje nam Okyla. Ten z kolei kieruje nas do Regulusa. Alternatywnie możemy zapytać o Regulusa Polluxa, który przebywa na wieży w starej cytadeli.
 
 Regulusa spotkamy podczas wykonywania zadania [Uprzejmy złodziej](#uprzejmy-złodziej), w tym momencie misja zostaje zakończona.
-
-## Worki pszenicy
-__Zleca: Spika__
-
-Spika zleca nam kradzież worków ze zbożem ze składowiska zamku w Starym Obozie. Dostaniemy się tam podczas misji [Droga do zamku](#droga-do-zamku). Zebrane worki należy odnieść do zleceniodawcy.
-
-Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci Esencji Siły.
-
-## Zapracowana kobieta
-__Zleca: Spika__
 
 ## List ze świata zewnętrznego
 __Zleca: -__
