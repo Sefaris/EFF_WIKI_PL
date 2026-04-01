@@ -165,7 +165,17 @@ __Zleca: Altarf__
 __Zleca: Deneb__
 
 ## Wolna Kopalnia
-__Zleca:__
+__Zleca: Regulus__
+
+W liście do Regulusa Lee wspomina o przełęczy nad Wolną Kopalnią. Najpierw musimy porozmawiać z Okylem.
+
+Po rozmowie z nim należy zbadać dwie przełęcze. W trakcie eksploracji musimy odnaleźć: dwie notatki, miecz, kozła oraz Deneba wysoko w górach.
+
+Po zebraniu wszystkich elementów wracamy do Okyla, a następnie do Lee. Lee informuje nas, że jego ludzie pilnują przełęczy.
+
+Na końcu udajemy się do miejsca, w którym znaleźliśmy miecz, i rozmawiamy z Crowem, co kończy zadanie.
+
+![wk](fotki/wk.png)
 
 ## Lew Pustyni
 __Zleca:__
