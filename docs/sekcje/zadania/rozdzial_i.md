@@ -55,7 +55,7 @@ Po zebraniu brakujących 500 bryłek rudy zanosimy całość do Scatty’ego, a 
 
 Choć lokalizacja skrzyni jest stała, złodziej zmienia się w zależności od miejsca rozmowy z Fletcherem. Potencjalnych złodziei jest tylko trzech, więc nawet jeśli nie zapamiętamy miejsca rozmowy, możemy sprawdzić każdego z nich. Miecz można odzyskać poprzez kradzież lub walkę.
 
-
+![fm](fotki/fm.png)
 
 Po odzyskaniu broni wracamy do zleceniodawcy, kończąc zadanie.
 
