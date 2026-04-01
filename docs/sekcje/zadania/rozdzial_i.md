@@ -184,3 +184,8 @@ Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
 ## Zaginiony brat
 __Zleca: Pollux__
+
+## Z dala od gapiów
+__Zleca: Aldebar__
+
+Zadanie dostępne po wykonaniu [Zaginiona siostra](#Zaginiona-siostra) i rozmowie z Lee.
