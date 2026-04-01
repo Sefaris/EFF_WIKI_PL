@@ -14,13 +14,13 @@ Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni 
 ## Zaginiona siostra
 __Zleca: Maia__
 
-Maia opowiada nam, że przybyła do Kolonii w poszukiwaniu swojej siostry. Pierwszą osobą, która może coś wiedzieć na ten temat, jest Gilbert (po wykonaniu zadania [Zioła nasenne](#ziola-nasenne)). Odsyła nas on do Gravo. Dodatkowo możemy wypytać strażników pilnujących przejścia na ziemie orków, wybierając opcję dialogową „Zaskoczyło mnie to…”.
+Maia opowiada nam, że przybyła do Kolonii w poszukiwaniu swojej siostry. Pierwszą osobą, która może coś wiedzieć na ten temat, jest Gilbert (po wykonaniu zadania [Zioła nasenne](#zioła-nasenne)). Odsyła nas on do Gravo. Dodatkowo możemy wypytać strażników pilnujących przejścia na ziemie orków, wybierając opcję dialogową „Zaskoczyło mnie to…”.
 
 Od Gravo dowiadujemy się, że coś mogą wiedzieć Cienie. W związku z tym rozmawiamy ze Złym, Rączką oraz Świstakiem (wymagane jest wcześniejsze wykonanie ich zadań). Po rozmowie ze Świstakiem musimy spotkać się z nim w godzinach 23:30–4:30.
 
 Po zebraniu informacji wracamy do Mai i przekazujemy jej wszystko, czego się dowiedzieliśmy. Następnie udaje się ona do Nowego Obozu. Jeśli zdobyliśmy chatę Krzykacza, możemy zaproponować jej zamieszkanie w niej.
 
-Na tym etapie należy wykonać zadania [Infiltrator](#Infiltrator) oraz [Uprzejmy złodziej](#uprzejmy-zlodziej). Po ich ukończeniu możemy poprosić Regulusa o pomoc.
+Na tym etapie należy wykonać zadania [Infiltrator](#infiltrator) oraz [Uprzejmy złodziej](#uprzejmy-złodziej). Po ich ukończeniu możemy poprosić Regulusa o pomoc.
 
 W trakcie wykonywania misji [Droga do zamku](#droga-do-zamku) uwalniamy Meropę i wracamy do kryjówki Regulusa. Po poznaniu jej stanu udajemy się z wiadomością do Mai.
 
@@ -29,7 +29,7 @@ Opcjonalnie możemy udać się do Gilberta po amulet odwagi. Warto także porozm
 ## Uprzejmy złodziej
 __Zleca: Gor Na Drak__
 
-Przy obozowisku Draxa i Ratforda spotykamy Gor Na Draka, który został okradziony. Rozmawiamy z Draxem, który kieruje nas do Gilberta. Jeśli przyznamy się Gilbertowi, że przysłał nas Drax, otrzymamy dodatkowe zadanie ([Skóry dla Gilberta](#skory-dla-gilberta)) oraz więcej informacji.
+Przy obozowisku Draxa i Ratforda spotykamy Gor Na Draka, który został okradziony. Rozmawiamy z Draxem, który kieruje nas do Gilberta. Jeśli przyznamy się Gilbertowi, że przysłał nas Drax, otrzymamy dodatkowe zadanie ([Skóry dla Gilberta](#skóry-dla-gilberta)) oraz więcej informacji.
 
 Następnie udajemy się kolejno do: Aidana, Jarvisa, Baal Kagana, Kosy, Wilka, Lee oraz Cavalorna.
 
