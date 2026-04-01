@@ -44,6 +44,9 @@ __Zleca: Ratford__
 
 Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Grahama. Ewentualnie można mu zanieść mapę Saturasa. Mapa drogi do starej kopalni oraz mapa Y’beriona nie nadają się, ale zapewniają dodatkowe punkty doświadczenia.
 
+## Mapa orkowych terenów
+__Zleca: Graham__
+
 ## Dłużnik
 __Zleca: Fletcher__
 
