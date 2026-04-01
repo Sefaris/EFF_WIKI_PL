@@ -241,6 +241,12 @@ Po rozmowie z Regulusem na temat dostania się do zamku Magnatów zostaniemy zap
 
 Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
+## Dezerter
+__Zleca: Świstak__
+
+## Alarm w Starym Obozie
+__Zleca: Strażnik bramy__
+
 ## Zaginiony brat
 __Zleca: Pollux__
 
