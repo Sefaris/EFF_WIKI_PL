@@ -138,11 +138,39 @@ Poszukiwany element znajdziemy w pobliżu Santino. Możemy również zapytać go
 ## Robotnik od zaraz
 __Zleca: Spika__
 
+Jeśli spotkamy Spikę w wodnym młynie, poprosi nas o znalezienie rzemieślnika w Starym Obozie. Okazuje się, że odpowiednią osobą jest Kyle, jednak potrzebuje on narzędzi.
+
+Aby je zdobyć, musimy ukraść klucz Bullitowi, a następnie otworzyć jego skrzynię. Z narzędziami wracamy do Kyla. Jeśli posiadamy pierścień teleportacji, możemy mu go przekazać, co pozwoli zaoszczędzić czas.
+
+Następnie udajemy się do Nowego Obozu i rozmawiamy z Kylem oraz Spiką, co kończy zadanie.
+
 ## Wsparcie dla biedoty
 __Zleca: Spika__
 
+Jeśli spotkamy Spikę przy chatach zbieraczy między godziną 22:00 a 01:30, zleci nam zdobycie 100 sztuk mięsa oraz 70 wilczych skór.
+
+Surowce możemy zdobyć samodzielnie lub skorzystać z pomocy myśliwych:
+
+- Aidan daje nam 20 sztuk mięsa oraz ma na sprzedaż 10 skór za 150 bryłek rudy. Warto powiedzieć mu, że nie mamy rudy, wtedy zleci nam krótkie zadanie i przekaże 15 skór za darmo. Aby je zdobyć, musimy udać się do starej krypty i przynieść mu stamtąd notatkę.
+- U Ratforda i Draxa otrzymamy 10 sztuk mięsa, ponieważ jakaś bestia żeruje na ich terenie. Musimy ją zabić. Znajdziemy ją w tunelu prowadzącym do Starej Kopalni. Po jej pokonaniu i zebraniu trofeów wracamy do Draxa, który daje nam 20 skór za darmo. Dodatkowo możemy kupić u niego 30 skór za 400 bryłek rudy.
+Po dwóch dniach możemy odebrać od myśliwych dodatkowe 40 sztuk mięsa.
+- Mięso można także kupić u Cavalorna.
+
+Po zebraniu wymaganej ilości mięsa i skór zanosimy je Spice, co kończy zadanie.
+
 ## Rozszerzenie działalności
 __Zleca: Spika__
+
+Jeśli obudzimy Spikę w wodnym młynie między godziną 01:30 a 04:00, zleci nam kolejne zadanie.
+
+Musimy udać się do Jacko, który przebywa przed Nowym Obozem. Zleci nam on zdobycie dwóch receptur: „Zew Nocy” oraz „Mrok Północy”.
+
+Recepturę „Zew Nocy” posiada Baal Orun, musimy ją ukraść.
+Recepturę „Mrok Północy” znajdziemy w laboratorium Kaloma, również trzeba ją wykraść.
+
+Po zdobyciu obu receptur zanosimy je do Jacko. Następnie odczekujemy 2 dni i ponownie z nim rozmawiamy. Otrzymamy od niego nowy skręt „Zew Życia”, który zwiększa maksymalne punkty życia o 5.
+
+Po wypaleniu skręta rozmawiamy z Jacko i odbieramy paczkę, którą należy zanieść Spice, co kończy zadanie.
 
 ## Najlepszy przyjaciel człowieka
 __Zleca: Spika__
@@ -285,6 +313,20 @@ Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
 ## Dezerter
 __Zleca: Świstak__
+
+Po incydencie w zamku Świstak chce dołączyć do Nowego Obozu. Udajemy się więc do Laresa i prosimy go o zgodę, którą otrzymujemy.
+
+Wracamy z wiadomością do chaty Świstaka, jednak nie zastajemy go na miejscu. Na stole znajduje się jedynie wiadomość, którą należy przeczytać.
+
+Świstaka znajdziemy w lochach zamku. Do samego zamku dostaniemy się w trakcie wykonywania zadania [Alarm w Starym Obozie](#alarm-w-starym-obozie).
+
+Po rozmowie ze Świstakiem musimy udać się na bagna, aby zdobyć przepaskę nowicjusza oraz ukraść zwój teleportacji od Cor Angara. Po zdobyciu tych przedmiotów zanosimy je Świstakowi.
+
+Następnie spotykamy się z nim u Fortuno. Po krótkiej rozmowie idziemy ostrzec Laresa. Teraz musimy odczekać około 5 dni, a następnie zanieść zbroję Świstakowi.
+
+W tym momencie możemy udać się razem ze Świstakiem do Nowego Obozu. Jeśli posiadamy pierścień teleportacji do szpitala, możemy mu go wręczyć, co pozwoli zaoszczędzić czas oraz zdobyć dodatkowe 500 bryłek rudy.
+
+Po spotkaniu Świstaka u Laresa zadanie dobiega końca.
 
 ## Alarm w Starym Obozie
 __Zleca: Strażnik bramy__
