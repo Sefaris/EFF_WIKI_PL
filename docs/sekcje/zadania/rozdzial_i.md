@@ -14,8 +14,28 @@ Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni 
 ## Zaginiona siostra
 __Zleca: Maia__
 
+Maia opowiada nam, że przybyła do Kolonii w poszukiwaniu swojej siostry. Pierwszą osobą, która może coś wiedzieć na ten temat, jest Gilbert (po wykonaniu zadania [Zioła nasenne](#ziola-nasenne)). Odsyła nas on do Gravo. Dodatkowo możemy wypytać strażników pilnujących przejścia na ziemie orków, wybierając opcję dialogową „Zaskoczyło mnie to…”.
+
+Od Gravo dowiadujemy się, że coś mogą wiedzieć Cienie. W związku z tym rozmawiamy ze Złym, Rączką oraz Świstakiem (wymagane jest wcześniejsze wykonanie ich zadań). Po rozmowie ze Świstakiem musimy spotkać się z nim w godzinach 23:30–4:30.
+
+Po zebraniu informacji wracamy do Mai i przekazujemy jej wszystko, czego się dowiedzieliśmy. Następnie udaje się ona do Nowego Obozu. Jeśli zdobyliśmy chatę Krzykacza, możemy zaproponować jej zamieszkanie w niej.
+
+Na tym etapie należy wykonać zadania [Infiltrator](#Infiltrator) oraz [Uprzejmy złodziej](#uprzejmy-zlodziej). Po ich ukończeniu możemy poprosić Regulusa o pomoc.
+
+W trakcie wykonywania misji [Droga do zamku](#droga-do-zamku) uwalniamy Meropę i wracamy do kryjówki Regulusa. Po poznaniu jej stanu udajemy się z wiadomością do Mai.
+
+Opcjonalnie możemy udać się do Gilberta po amulet odwagi. Warto także porozmawiać z Lee, a następnie z Aldebarem, który stoi przy drodze niedaleko Lewusa.
+
 ## Uprzejmy złodziej
 __Zleca: Gor Na Drak__
+
+Przy obozowisku Draxa i Ratforda spotykamy Gor Na Draka, który został okradziony. Rozmawiamy z Draxem, który kieruje nas do Gilberta. Jeśli przyznamy się Gilbertowi, że przysłał nas Drax, otrzymamy dodatkowe zadanie ([Skóry dla Gilberta](#skory-dla-gilberta)) oraz więcej informacji.
+
+Następnie udajemy się kolejno do: Aidana, Jarvisa, Baal Kagana, Kosy, Wilka, Lee oraz Cavalorna.
+
+Po zebraniu informacji możemy udać się w stronę orkowej areny. Przed drzwiami znajdziemy zwój przemiany w chrząszcza. Używamy go, aby przedostać się pod drzwiami do kryjówki Regulusa.
+
+Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości: oddać wyposażenie, skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone lub powiedzieć, że Regulus został najemnikiem orków. Niezależnie od wyboru wracamy z informacją do Regulusa.
 
 ## Mapy dla Ratforda
 __Zleca: Ratford__
@@ -85,7 +105,15 @@ __Zleca:__
 __Zleca:__
 
 ## Infiltrator
-__Zleca:__
+__Zleca: Świstak__
+
+Zadanie rozpoczyna się po nocnym spotkaniu ze Świstakiem w ramach misji [Zaginiona siostra](#zaginiona-siostra).
+
+Naszym celem jest znalezienie strażnika królewskiego, który pomoże nam dostać się do zamku Magnatów. Jeśli mamy aktywne zadanie [Worki pszenicy](#worki-pszenicy), Spika poda nam kilka imion: Kosa, Jarvis, Cord, Torlof oraz Orik.
+
+Po rozmowie z nimi udajemy się do Lee, który wskazuje nam Okyla. Ten z kolei kieruje nas do Regulusa. Alternatywnie możemy zapytać o Regulusa Polluxa, który przebywa na wieży w starej cytadeli.
+
+Regulusa spotkamy podczas wykonywania zadania [Uprzejmy złodziej](#uprzejmy-złodziej), w tym momencie misja zostaje zakończona.
 
 ## Worki pszenicy
 __Zleca: Spika__
