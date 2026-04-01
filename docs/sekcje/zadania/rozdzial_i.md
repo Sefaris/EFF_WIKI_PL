@@ -47,6 +47,10 @@ Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Graham
 ## Mapa orkowych terenów
 __Zleca: Graham__
 
+Zadanie można rozpocząć między godziną 12:00 a 15:00.
+
+Polega ono na podążaniu za Grahamem przez tereny orków. Po powrocie należy odczekać do następnego dnia, aby odebrać od Grahama mapę oraz nagrodę.
+
 ## Dłużnik
 __Zleca: Fletcher__
 
