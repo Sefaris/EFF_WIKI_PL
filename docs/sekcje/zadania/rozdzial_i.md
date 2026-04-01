@@ -45,6 +45,20 @@ Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Graham
 ## Dłużnik
 __Zleca: Fletcher__
 
+Fletcher ma dług u Scatty’ego, który pomagamy mu spłacić. W tym celu udajemy się na bagna do Melvina i przekazujemy mu pozdrowienia od Fletchera. Na miejscu stajemy przed wyborem:
+
+„To za mało.” -> Melvin wskazuje nam miejsce z dobrym ekwipunkiem na start. Znajdującą się tam roślinę możemy sprzedać Fortuno za 300 bryłek rudy, a od Fletchera otrzymamy dodatkowe 200.
+
+„Umowa stoi.” -> Otrzymujemy bezpośrednio 200 bryłek od Melvina oraz 300 od Fletchera.
+
+Po zebraniu brakujących 500 bryłek rudy zanosimy całość do Scatty’ego, a następnie wracamy do Fletchera. Ten informuje nas, gdzie ukrył miecz. Niestety, we wskazanej skrzyni broni już nie ma. Wracamy do Fletchera.
+
+Choć lokalizacja skrzyni jest stała, złodziej zmienia się w zależności od miejsca rozmowy z Fletcherem. Potencjalnych złodziei jest tylko trzech, więc nawet jeśli nie zapamiętamy miejsca rozmowy, możemy sprawdzić każdego z nich. Miecz można odzyskać poprzez kradzież lub walkę.
+
+
+
+Po odzyskaniu broni wracamy do zleceniodawcy, kończąc zadanie.
+
 ## Niespodziewany gość
 __Zleca: Nowicjusz__
 
