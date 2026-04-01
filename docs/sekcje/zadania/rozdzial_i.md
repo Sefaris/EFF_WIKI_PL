@@ -181,7 +181,12 @@ W wyznaczonym miejscu na mapie znajdziemy psa, któremu należy dać surowe mię
 
 ![piesek](fotki/piesek.png)
 
+## Starzec
+__Zleca: Spika__
+
 ## Zbieracz Horacy
+__Zleca: Horacy__
+
 Horacy, zbieracz ryżu z Nowego Obozu, może nauczyć nas, jak skuteczniej zadawać ciosy. Wykonanie tego zadania staje się dostępne dopiero w trakcie wykonywania [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
 
 ## Nieprzespane noce
