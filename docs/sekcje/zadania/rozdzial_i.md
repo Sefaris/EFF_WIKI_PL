@@ -281,6 +281,16 @@ __Zleca: Świstak__
 ## Alarm w Starym Obozie
 __Zleca: Strażnik bramy__
 
+Nasza wycieczka do zamku wywołała spore zamieszanie w Starym Obozie. Najpierw musimy porozmawiać z Siekaczem, który zajął miejsce Thorusa, a następnie z Fiskiem w jego magazynie.
+
+Kolejnym krokiem jest udanie się do Regulusa. Od niego otrzymujemy notatkę, z którą wracamy do Fiska. Po jej pokazaniu idziemy ponownie do Siekacza.
+
+Po otwarciu bramy udajemy się do Thorusa, który wciąga nas w śledztwo. Naszym zadaniem jest odnalezienie trzech osób: Złego, Rączki oraz Dextera. 
+
+Rączka znajduje się w kuchni, Zły przebywa w lochach, Dexter jest w pomieszczeniu, przez które wcześniej dostaliśmy się do składowiska.
+
+Po rozmowie z nimi wracamy do Thorusa i kończymy zadanie.
+
 ## Zaginiony brat
 __Zleca: Pollux__
 
