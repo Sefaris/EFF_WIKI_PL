@@ -2,6 +2,7 @@
 
 ## Ważne informacje!
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
+- za zjedzenie 5 plastrów miodu dostaniemy +5PN
 - za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 
 ## Moja własna ścieżka
