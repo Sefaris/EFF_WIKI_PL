@@ -479,3 +479,18 @@ Naszym celem jest udanie się do Węża w Starej Kopalni po paczkę ze sztabkami
 __Zleca: Aldebar__
 
 Zadanie dostępne po wykonaniu [Zaginiona siostra](#Zaginiona-siostra) i rozmowie z Lee.
+
+Lee zleca nam odnalezienie Antaresa. W tym celu udajemy się do Aldebara, który stoi przy Ryżowym Księciu. Otrzymujemy od niego koło zębate i zostajemy wysłani do Opuszczonej Kopalni. Podczas eksploracji natrafiamy na nieumarłego strażnika, który informuje nas, że przebywali tu jedynie nekromanta i sekciarz, a także wspomina o skorpionie.
+
+Wracamy do Aldebara, który tym razem znajduje się w Wolnej Kopalni. Okazuje się, że nie sprawdził on dokładnie miejsca, więc musimy zrobić to sami. Udajemy się do Okyla po klucz, a po wejściu do kopalni zagaduje nas Acrux. W środku rozmawiamy również z Rice, który wspomina o dziwnym owadzie.
+
+Podczas wykonywania zadania [Problemy w Wolnej Kopalni](#problemy-w-wolnej-kopalni) znajdujemy notatkę Antaresa. Z nią udajemy się do Gacruxa, a następnie do Aldebara. Najemnik wyrusza do Magów Wody, a my mamy sprawdzić Starą Kopalnię. Na miejscu Drake wręcza nam kolejną notatkę od Antaresa.
+
+Opcjonalnie możemy odnaleźć pozostawiony przez niego prezent. Runę oraz zwój kontroli, które znajdują się na samym dole kopalni, w jednej z odnóg na kamiennej półce.
+
+Następnie udajemy się do biblioteki Magów Wody, aby porozmawiać z Aldebarem. Ostatecznie kierujemy się do zatopionej wieży Xardasa. Po spotkaniu z Antaresem misja dobiega końca.
+
+## Problemy w wolnej kopalni
+__Zleca: Acrux__
+
+Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do Wolnej Kopalni, w której pojawia się problem z pełzaczami. Musimy odnaleźć i zabić królową pełzaczy. Po jej pokonaniu wracamy do Gacruxa, co kończy zadanie.
