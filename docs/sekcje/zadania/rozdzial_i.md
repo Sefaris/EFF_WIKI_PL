@@ -72,6 +72,26 @@ Po odzyskaniu broni wracamy do zleceniodawcy, kończąc zadanie.
 ## Niespodziewany gość
 __Zleca: Nowicjusz__
 
+Obok Baal Cadara zaczepiają nas dwaj nowicjusze, którzy opowiadają o mężczyźnie zajmującym ich chatę. Znajdziemy go niedaleko chaty Caine. Po rozmowie zgodzi się ją opuścić, jednak musimy znaleźć mu nowe lokum. Odpowiednią opcją okaże się chata wskazana przez Guya w Starym Obozie. Informację przekazujemy Altarfowi, który przebywa w chacie obok Fortuno.
+
+Po zaprowadzeniu go na miejsce wracamy na bagna do nowicjuszy. Następnie możemy odwiedzić Altarfa w Starym Obozie, gdzie dowiadujemy się, że przeprowadził gruntowny remont i nie odpowiada mu ta chata. Musimy więc znaleźć mu inne mieszkanie. Tym razem będzie to chata Krzykacza, do której go odprowadzamy.
+
+Po kilku dniach, wchodząc do obozu, zagaduje nas Jarvis. Musimy udać się do byłej chaty Krzykacza, gdzie przed wejściem zastajemy tłum najemników z Lee na czele. Po krótkiej rozmowie ponownie odprowadzamy Altarfa na bagna.
+
+Na tym etapie zadanie rozgałęzia się na dwie ścieżki:
+
+- jeśli spotkamy nowicjuszy w chacie, Altarf zamieszka obok Fortuno, a po kilku dniach zleci nam zadanie [Atak węży błotnych](#atak-węży-błotnych).
+
+- jeśli ich nie spotkamy, Altarf zamieszka w ich chacie, a po kilku dniach zleci nam zadanie [Zatrute ziele](#zatrute-ziele).
+
+Niezależnie od sytuacji, misja dobiega końca.
+
+## Atak węży błotnych
+__Zleca: Altarf__
+
+## Zatrute ziele
+__Zleca: Altarf__
+
 ## Skóry dla Gilberta
 __Zleca: Gilbert__
 
@@ -271,14 +291,15 @@ Po pokonaniu bestii i zebraniu trofeów wracamy do zleceniodawcy, który obecnie
 
 ![mutant](fotki/mutant.png)
 
-## List do Lee
+## List od Lee
 __Zleca: Lee__
 
-## Zatrute ziele
-__Zleca: Altarf__
+W momencie, w którym Lee mówi nam, gdzie szukać Regulusa, wręcza nam również list dla niego. Warto go przeczytać przed oddaniem. Po przekazaniu listu misja dobiega końca.
 
 ## Nordmarczyk
 __Zleca: Deneb__
+
+Za Wolną Kopalnią, wysoko w górach, spotykamy Deneba. Informację o jego odnalezieniu przekazujemy Lee, który wręcza nam zwój teleportacji. Zanosimy go Denebowi, a następnie wracamy do Lee, aby zakończyć misję.
 
 ## Wolna Kopalnia
 __Zleca: Regulus__
