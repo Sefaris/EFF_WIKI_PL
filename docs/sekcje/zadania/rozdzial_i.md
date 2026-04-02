@@ -236,6 +236,10 @@ Swiney zleca nam pozbycie się rzadkiego ścierwojada, który zadomowił się w 
 ## Broń Baloro
 __Zleca: Baloro__
 
+Regulus ostrzega nas przed Baloro, jednak mimo to możemy się do niego udać i przyjąć zadanie. Nie powinniśmy jednak oddawać mu przedmiotów z własnej kieszeni. Zamiast tego wracamy do Regulusa po odpowiednią paczkę. Po dostarczeniu jej Baloro informujemy o wszystkim Regulusa.
+
+Następnie możemy udać się do szpitala i spotkać Baloro w wychodku.
+
 ## Bestia
 __Zleca: Kaus__
 
