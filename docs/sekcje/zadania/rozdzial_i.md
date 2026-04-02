@@ -80,17 +80,21 @@ Po kilku dniach, wchodząc do obozu, zagaduje nas Jarvis. Musimy udać się do b
 
 Na tym etapie zadanie rozgałęzia się na dwie ścieżki:
 
-- jeśli spotkamy nowicjuszy w chacie, Altarf zamieszka obok Fortuno, a po kilku dniach zleci nam zadanie [Atak węży błotnych](#atak-węży-błotnych).
+- jeśli spotkamy nowicjuszy w chacie, Altarf zamieszka obok Fortuno, a po kilku dniach zleci nam zadanie [Atak węży błotnych](#atak-węży-błotnych)
 
-- jeśli ich nie spotkamy, Altarf zamieszka w ich chacie, a po kilku dniach zleci nam zadanie [Zatrute ziele](#zatrute-ziele).
+- jeśli ich nie spotkamy, Altarf zamieszka w ich chacie, a po kilku dniach zleci nam zadanie [Zatrute ziele](#zatrute-ziele)
 
 Niezależnie od sytuacji, misja dobiega końca.
 
 ## Atak węży błotnych
 __Zleca: Altarf__
 
+Altarf mówi nam, że błotne węże ostatnio pożarły kilku nowicjuszy. Po więcej informacji udajemy się do Baal Oruna, który kieruje nas do Gor Na Rana. Gor Na Ran prosi nas o dobicie rannego węża, którego znajdziemy na bagnach przy orkowej lampie. Na miejscu znajdujemy również martwych nowicjuszy oraz notatkę przy jednym z ciał. Czytamy ją, a następnie wracamy do Gor Na Rana i później do Baal Oruna, co kończy misję.
+
 ## Zatrute ziele
 __Zleca: Altarf__
+
+Altarf mówi nam, że w obozie pojawiło się szkodliwe bagienne ziele. Po więcej informacji udajemy się do Baal Oruna, który informuje nas, że jeden z nowicjuszy już zmarł przez to ziele. Jego ciało znajdziemy na bagnie w pobliżu orkowej lampy. Przeszukujemy je, zabieramy notatkę, czytamy ją, a następnie zanosimy do Baal Oruna, co kończy zadanie.
 
 ## Skóry dla Gilberta
 __Zleca: Gilbert__
