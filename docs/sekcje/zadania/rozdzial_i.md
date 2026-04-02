@@ -232,11 +232,29 @@ Po wybiciu wszystkich i zebraniu skór udajemy się do Gor Na Totha po nagrodę,
 ## Pijany ork
 __Zleca: Kaus__
 
+Kaus opowiada nam historię o orku alkoholiku, którego musimy odnaleźć i ograbić z alkoholu. Lokacji orka jest łącznie 7 i są one wybierane losowo. Poniżej na mapie zaznaczono wszystkie możliwe miejsca jego występowania.
+
+Po odnalezieniu, zabiciu i ograbieniu orka wracamy do Kausa, który przebywa u Cavalorna.
+
+![pijak](fotki/pijak.png)
+
 ## Rzadkie trofea
 __Zleca: Kaus__
 
+Kaus rzuca nam kolejne wyzwanie. Musimy zdobyć po pięć kłów trolla, rogów cieniostwora, języków ognistego jaszczura oraz kłów błotnego węża.
+
+Trofea możemy ukraść orkom z namiotów lub zdobyć podczas polowań.
+
+Po zebraniu wymaganych przedmiotów zanosimy je do zleceniodawcy, który obecnie przebywa w karczmie na jeziorze w Nowym Obozie.
+
 ## Magiczne monstrum
 __Zleca: Kaus__
+
+Naszym kolejnym zadaniem od Kausa jest znalezienie pewnego potwora. Lokacji jest łącznie 7 i są one wybierane losowo. Poniżej na mapie zaznaczono wszystkie możliwe miejsca jego występowania.
+
+Po pokonaniu bestii i zebraniu trofeów wracamy do zleceniodawcy, który obecnie przebywa u Grahama w Starym Obozie.
+
+![mutant](fotki/mutant.png)
 
 ## List do Lee
 __Zleca: Lee__
