@@ -211,11 +211,23 @@ __Zleca: Kaus__
 ## Stado ścierwojadów
 __Zleca: Kaus__
 
+W lesie nad wybrzeżem, w okolicach Wieży Mgieł, możemy spotkać Kausa. Pierwszym zadaniem, jakie od niego otrzymamy, jest zabicie grupy ścierwojadów.
+
+Znajdziemy je niedaleko miejsca, w którym Nyras szukał kamienia ogniskującego. Po zabiciu bestii spotykamy się z Kausem przy północnej bramie Starego Obozu.
+
 ## Dary natury
 __Zleca: Kaus__
 
+Kolejnym zadaniem od Kausa jest zebranie roślin z listy. Po ich zebraniu zanosimy je do obozu Aidana i przekazujemy Kausowi, co kończy etap zadania.
+
 ## Zagrożenie na bagnach
 __Zleca: Kaus__
+
+Kaus informuje nas, że w pobliżu obozu na bagnie pojawiły się wargi. Jest ich łącznie dziesięć, a ich przybliżone lokalizacje są zaznaczone na poniższej mapie.
+
+Po wybiciu wszystkich i zebraniu skór udajemy się do Gor Na Totha po nagrodę, a następnie wracamy do Kausa w Wieży Mgieł, co kończy zadanie.
+
+![warg](fotki/warg.png)
 
 ## Pijany ork
 __Zleca: Kaus__
