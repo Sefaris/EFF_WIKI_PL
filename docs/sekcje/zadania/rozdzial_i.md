@@ -4,6 +4,7 @@
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
 - za zjedzenie 5 plastrów miodu dostaniemy +5PN
 - za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
+- za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii
 
 ## Moja własna ścieżka
 __Zleca: Diego__
@@ -398,6 +399,28 @@ Po rozmowie z nimi wracamy do Thorusa i kończymy zadanie.
 
 ## Zaginiony brat
 __Zleca: Pollux__
+
+Na jednej z wież w Starej Cytadeli możemy spotkać Polluxa, który chce odnaleźć swojego brata, Kastora. W tym celu każe nam porozmawiać ze Skorpionem. Do zamku dostaniemy się w trakcie wykonywania zadania [Alarm w Starym Obozie](#alarm-w-starym-obozie).
+
+Po rozmowie ze Skorpionem wracamy do Polluxa. Ten odsyła nas do obozu na bagnie, aby skontaktować się z Y’Berionem.
+
+Aby móc z nim porozmawiać, musimy wykonać szereg zadań dla Kausa i Guru: [Stado ścierwojadów](#stado-ścierwojadów), [Dary natury](#dary-natury), [Zagrożenie na bagnach](#zagrożenie-na-bagnach), [Nowi wyznawcy dla Bractwa](#nowi-wyznawcy-dla-bractwa), [Zbiory bagiennego ziela](#zbiory-bagiennego-ziela), użycie zwoju snu na nowicjuszu Baal Cadara, zaaranżowanie rozmowy z Lesterem przy Baal Namibie.
+
+Następnie rozmawiamy z Lesterem i udajemy się do Y’Beriona. Powie nam, że potrzebuje przedmiotu należącego do zaginionej osoby.
+
+Polluxa spotkamy po drodze z Obozu Śniącego, otrzymamy od niego amulet Kastora. Z tym przedmiotem wracamy do Y’Beriona. Po krótkiej wizji ponownie udajemy się do Polluxa i przekazujemy mu informacje.
+
+Kolejnym krokiem jest wizyta u Magów Ognia w Starym Obozie. W rozmowie z Miltenem mamy wybór:
+
+„Skąd mam to wiedzieć?” → odblokowuje dodatkowe zadanie [Ruda dla magów](#ruda-dla-magów); dopiero po jego wykonaniu mamy zaplanowane spotkanie z Drago nocą w zawalonej wieży
+
+„Ten człowiek jest jednym z byłych królewskich strażników.” → Drago od razu będzie czekał na nas nocą w zawalonej wieży
+
+Po spotkaniu z Drago wracamy do Polluxa (przebywa w jaskini obok mostu przy północnej bramie). Po napisaniu listu przez Polluxa teleportujemy się do siedziby Magów Ognia.
+
+Na miejscu rozmawiamy z Drago, a następnie z Corristo. Korzystając ze zwoju teleportacji, przenosimy się do Saturasa.
+
+Po rozmowie z nim udajemy się do karczmy w Nowym Obozie. Na górnym piętrze rozmawiamy z Kastorem (wybory dialogowe nie mają większego znaczenia). Po tej rozmowie zadanie dobiega końca.
 
 ## Z dala od gapiów
 __Zleca: Aldebar__
