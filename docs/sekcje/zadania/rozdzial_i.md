@@ -316,6 +316,22 @@ __Zleca: -__
 ## Zaginieni w górach
 __Zleca:__
 
+Po sprowadzeniu Deneba do Lee dowiadujemy się, że musimy odnaleźć jego towarzyszy: Javiera, Korta oraz Rolanda. Najemnik pilnujący wejścia do siedziby Lee może przekazać nam informację o orku przebywającym w pobliżu Nowego Obozu. Orka znajdziemy w jaskini niedaleko mostu prowadzącego do Starej Kopalni. Po rozmowie z nim zaprowadzamy go do szpitala.
+
+Po upływie 2 dni odwiedzamy go ponownie. Gunok informuje nas o „wielkim wojowniku Morra”, jednak aby nas do niego zaprowadził, potrzebujemy zwoju teleportacji, który otrzymamy od Lee. Ze zwojem wracamy do Gunoka i podążamy za nim do starej cytadeli. W ruinach naciskamy przełącznik na ścianie i zjeżdżamy na dół, gdzie spotykamy Rolanda i wręczamy mu zwój teleportacji. Aby opuścić to miejsce, używamy rogu otrzymanego od Gunoka.
+
+Następnie odsyłamy orka do Nowego Obozu i udajemy się do szpitala, gdzie rozmawiamy z Denebem i Rolandem. Po odczekaniu jednego dnia ponownie rozmawiamy z Denebem. Lee i Deneb udają się do lasu, a my rozmawiamy z Okylem, po czym również tam wyruszamy. Miejsce spotkania znajduje się w tym samym miejscu co notatki z misji [Wolna Kopalnia](#wolna-kopalnia).
+
+Na miejscu rozmawiamy z towarzyszami i czekamy do północy. Następnie musimy odeprzeć atak bestii. Ważne jest, aby nikt nie zginął, ponieważ zablokuje to dalszy postęp zadania. Jeśli nadal jest noc (między 00:00 a 04:00), możemy porozmawiać z towarzyszami i przemienić się w orkowego psa. W tej formie podążamy za nimi do orkowych lochów.
+
+Lochy okazują się puste, dlatego rozmawiamy z Denebem i czekamy. Po pewnym czasie orkowie przyprowadzają człowieka, musimy ich zabić i uwolnić więźnia. Teraz z nim rozmawiamy. Okazuje się, że zwoje Lee zamokły, więc trzeba zdobyć nowe. Korzystając z przenośnego ogniska, czekamy do godziny 19:00, rozmawiamy z Javierem i używamy na nim zwoju kontroli.
+
+Następnie zakradamy się do orka i kradniemy zwoje przemiany w orkowego psa. Ze zwojami wracamy do Bezimiennego i oddajemy Javierowi kontrolę nad ciałem. Po powrocie do towarzyszy rozmawiamy z nimi, a następnie pokonujemy grupę orków. Ponownie przemieniamy się w psy i uciekamy z orkowych terenów.
+
+Po rozmowie z towarzyszami wracamy do siedziby Lee i rozmawiamy z nim. Ostatnim etapem jest uratowanie Korta. W tym celu ponownie, jako orkowy pies, udajemy się na tereny orków, do sali tronowej, gdzie w skrzyni znajdujemy klucz do wieży. Wieża znajduje się w pobliżu starej krypty. W środku odnajdujemy Korta. Rozmawiamy z nim, pokonujemy go i odsyłamy do Nowego Obozu.
+
+Na końcu wracamy do Lee i rozmawiamy z Denebem, co kończy zadanie.
+
 ## Droga do zamku
 __Zleca: Regulus__
 
