@@ -429,6 +429,9 @@ Po rozmowie z Regulusem na temat dostania się do zamku Magnatów zostaniemy zap
 
 Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
+## Fatalne konsekwencje
+__Zleca: Maia__
+
 ## Dezerter
 __Zleca: Świstak__
 
