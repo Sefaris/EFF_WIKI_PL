@@ -208,6 +208,20 @@ __Zleca: Baloro__
 ## Bestia
 __Zleca: Kaus__
 
+Podczas pierwszej rozmowy z Kausem opowiada nam on o tajemniczej bestii, którą widział tylko raz. Aby pomóc mu w polowaniu, musimy najpierw wykonać dla niego szereg zadań.
+
+Po ukończeniu ostatniego z nich ([Magiczne monstrum](#magiczne-monstrum)) możemy ponownie zapytać go o polowanie. Kaus uda się wtedy do lasu za rzeką (idąc ze Starego Obozu w stronę bagien). Będzie czekał na drzewie.
+
+Musimy mieć przy sobie co najmniej 2 demoniczne grzyby. Wchodzimy na drzewo i rozmawiamy z myśliwym. Następnie kładziemy grzyby przy mięsie (znajduje się ono na wprost, przy krzakach, w kierunku, w którym patrzy Kaus). Wracamy do niego i czekamy do wieczora.
+
+Kolejnym krokiem jest zdobycie dodatkowych 4 demonicznych grzybów oraz udanie się do Wilka po przynętę. Po powrocie i rozmowie z Kausem przygotowujemy dwie kolejne przynęty, a następnie ponownie z nim rozmawiamy. Czekamy do wieczora, po czym pojawią się trzy opcje dialogowe:
+
+- „No, uderz mnie idioto.” → walka na śmierć, zadanie niezaliczone
+- „Och, naprawdę?!” → pojawia się bestia (najlepszy wybór)
+- „To pocałuj mnie w dupę!” → kłótnia, zadanie niezaliczone
+
+Jeśli dojdzie do walki z bestią i ją wygramy, a Kaus przeżyje, możemy odwiedzić go później w karczmie w Nowym Obozie. Dowiemy się tam, że został handlarzem i skupuje specjalne trofea. W tym momencie misja dobiega końca.
+
 ## Stado ścierwojadów
 __Zleca: Kaus__
 
