@@ -184,6 +184,12 @@ W wyznaczonym miejscu na mapie znajdziemy psa, któremu należy dać surowe mię
 ## Starzec
 __Zleca: Spika__
 
+Spika informuje nas, że ze szpitala zniknął starszy mężczyzna. Po więcej informacji udajemy się do Regulusa.
+
+Dowiadujemy się od niego, że Sadalsuuda należy szukać w pobliżu zbiorników wodnych, a w szczególności przy wodospadach.
+
+Mężczyznę znajdziemy na szczycie zatopionej wieży Xardasa. Po rozmowie z magiem wracamy do Spiki, co kończy zadanie.
+
 ## Zbieracz Horacy
 __Zleca: Horacy__
 
