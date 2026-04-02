@@ -112,6 +112,17 @@ __Zleca: Gilbert__
 
 Gilbert prosi nas o zaniesienie ziół dla Gravo. Po ich dostarczeniu otrzymujemy jedzenie dla Gilberta, które następnie mu odnosimy.
 
+## Banda Quentina
+__Zleca: Notatka szantażysty__
+
+Zabijając szantażystów na moście prowadzącym do Nowego Obozu, możemy zabrać z jednego z nich notatkę. Po jej przeczytaniu udajemy się do obozu Quentina, który zleca nam zaniesienie listu do kotła w Wolnej Kopalni dla Calasha.
+
+Jeśli otworzymy list i zapoznamy się z jego treścią, możemy wrócić do Quentina i poinformować go o tym. Wówczas zleci nam nowe zadanie. Musimy zdobyć znak bractwa. Jeden z nich znajduje się w skrzyni Kaloma. Po jego zdobyciu odnosimy go do Quentina.
+
+Następnie udajemy się do Gilberta po duplikat klucza, który otrzymujemy bez problemu, po czym oddajemy go zleceniodawcy. Kolejnym krokiem jest uwolnienie Alexa z więzienia. W tym celu potrzebujemy mapy Starego Obozu, którą sprzedaje Graham. Wchodzimy do lochów, otwieramy drzwi i wyprowadzamy Alexa.
+
+Na końcu wracamy do Quentina, aby zakończyć zadanie.
+
 ## Zapracowana kobieta
 __Zleca: Spika__
 
@@ -475,6 +486,7 @@ Po rozmowie z nim udajemy się do karczmy w Nowym Obozie. Na górnym piętrze ro
 
 ## Ruda dla magów
 __Zleca: Milten__
+
 Zadanie dostępne tylko wtedy, gdy podczas wykonywania misji [Zaginiony brat](#zaginiony-brat) odpowiedzieliśmy Miltenowi: „Skąd mam to wiedzieć?”.
 
 Naszym celem jest udanie się do Węża w Starej Kopalni po paczkę ze sztabkami rudy, a następnie zaniesienie jej do Miltena, co kończy zadanie.
