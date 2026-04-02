@@ -57,9 +57,9 @@ __Zleca: Fletcher__
 
 Fletcher ma dług u Scatty’ego, który pomagamy mu spłacić. W tym celu udajemy się na bagna do Melvina i przekazujemy mu pozdrowienia od Fletchera. Na miejscu stajemy przed wyborem:
 
-„To za mało.” -> Melvin wskazuje nam miejsce z dobrym ekwipunkiem na start. Znajdującą się tam roślinę możemy sprzedać Fortuno za 300 bryłek rudy, a od Fletchera otrzymamy dodatkowe 200.
+„To za mało.” → Melvin wskazuje nam miejsce z dobrym ekwipunkiem na start. Znajdującą się tam roślinę możemy sprzedać Fortuno za 300 bryłek rudy, a od Fletchera otrzymamy dodatkowe 200.
 
-„Umowa stoi.” -> Otrzymujemy bezpośrednio 200 bryłek od Melvina oraz 300 od Fletchera.
+„Umowa stoi.” → Otrzymujemy bezpośrednio 200 bryłek od Melvina oraz 300 od Fletchera.
 
 Po zebraniu brakujących 500 bryłek rudy zanosimy całość do Scatty’ego, a następnie wracamy do Fletchera. Ten informuje nas, gdzie ukrył miecz. Niestety, we wskazanej skrzyni broni już nie ma. Wracamy do Fletchera.
 
@@ -421,6 +421,12 @@ Po spotkaniu z Drago wracamy do Polluxa (przebywa w jaskini obok mostu przy pó�
 Na miejscu rozmawiamy z Drago, a następnie z Corristo. Korzystając ze zwoju teleportacji, przenosimy się do Saturasa.
 
 Po rozmowie z nim udajemy się do karczmy w Nowym Obozie. Na górnym piętrze rozmawiamy z Kastorem (wybory dialogowe nie mają większego znaczenia). Po tej rozmowie zadanie dobiega końca.
+
+## Ruda dla magów
+__Zleca: Milten__
+Zadanie dostępne tylko wtedy, gdy podczas wykonywania misji [Zaginiony brat](#zaginiony-brat) odpowiedzieliśmy Miltenowi: „Skąd mam to wiedzieć?”.
+
+Naszym celem jest udanie się do Węża w Starej Kopalni po paczkę ze sztabkami rudy, a następnie zaniesienie jej do Miltena, co kończy zadanie.
 
 ## Z dala od gapiów
 __Zleca: Aldebar__
