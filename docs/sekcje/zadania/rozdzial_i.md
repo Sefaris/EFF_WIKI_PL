@@ -484,13 +484,24 @@ Lee zleca nam odnalezienie Antaresa. W tym celu udajemy się do Aldebara, który
 
 Wracamy do Aldebara, który tym razem znajduje się w Wolnej Kopalni. Okazuje się, że nie sprawdził on dokładnie miejsca, więc musimy zrobić to sami. Udajemy się do Okyla po klucz, a po wejściu do kopalni zagaduje nas Acrux. W środku rozmawiamy również z Rice, który wspomina o dziwnym owadzie.
 
-Podczas wykonywania zadania [Problemy w Wolnej Kopalni](#problemy-w-wolnej-kopalni) znajdujemy notatkę Antaresa. Z nią udajemy się do Gacruxa, a następnie do Aldebara. Najemnik wyrusza do Magów Wody, a my mamy sprawdzić Starą Kopalnię. Na miejscu Drake wręcza nam kolejną notatkę od Antaresa.
+Podczas wykonywania zadania [Problemy w Wolnej Kopalni](#Problemy-w-Wolnej-Kopalni) znajdujemy notatkę Antaresa. Z nią udajemy się do Gacruxa, a następnie do Aldebara. Najemnik wyrusza do Magów Wody, a my mamy sprawdzić Starą Kopalnię. Na miejscu Drake wręcza nam kolejną notatkę od Antaresa.
 
 Opcjonalnie możemy odnaleźć pozostawiony przez niego prezent. Runę oraz zwój kontroli, które znajdują się na samym dole kopalni, w jednej z odnóg na kamiennej półce.
 
 Następnie udajemy się do biblioteki Magów Wody, aby porozmawiać z Aldebarem. Ostatecznie kierujemy się do zatopionej wieży Xardasa. Po spotkaniu z Antaresem misja dobiega końca.
 
-## Problemy w wolnej kopalni
+## Miłość aż po grób 
+__Zleca: Zombie w Opusczonej Kopalni__
+
+Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) w Wolnej Kopalni spotykamy nieumarłego. Aby mu pomóc, musimy odnaleźć Antaresa i spotkać się z nim przed Opuszczoną Kopalnią. Po wejściu do środka prowadzimy Antaresa do zombie, gdzie opowiada nam o swoim planie.
+
+Następnie udajemy się do Scatty’ego, który informuje nas, że Magnaci pojawią się na arenie dziś lub następnego dnia. Na Bliźnie możemy użyć zwoju strachu poprzez dialog w godzinach 23:10–01:30. Po użyciu zwoju możemy wręczyć mu zwój teleportacji lub nie. Jeśli tego nie zrobimy, zatrzyma się w jaskini niedaleko południowej bramy, natomiast jeśli damy mu zwój, teleportuje się do jaskini w lesie obok Ratforda i Draxa.
+
+Po doprowadzeniu Bliźny do Antaresa używamy na nim kolejnego zaklęcia, przez co wpada on w trans. Następnie, korzystając ze zwoju kontroli, przejmujemy ciało nieumarłego i zabijamy strażnika dusz. Kolejno wręczamy duszę i berło Bliźnie, przejmujemy nad nim kontrolę i zabijamy zombie.
+
+Po udanym rytuale wychodzimy z kopalni. Przed wejściem rozmawiamy z Antaresem i Carlenem, co kończy misję.
+
+## Problemy w Wolnej Kopalni
 __Zleca: Acrux__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do Wolnej Kopalni, w której pojawia się problem z pełzaczami. Musimy odnaleźć i zabić królową pełzaczy. Po jej pokonaniu wracamy do Gacruxa, co kończy zadanie.
