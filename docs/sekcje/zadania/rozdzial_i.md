@@ -9,6 +9,12 @@
 ## Moja własna ścieżka
 __Zleca: Diego__
 
+W pierwszej rozmowie Diego mówi nam, że są osoby, które zdecydowały się wieść życie samotnika. Na Placu Wymian możemy spotkać śmiejących się strażników nad ciałem kopacza, który popełnił samobójstwo. Musimy go przeszukać i przeczytać notatkę z jego przemyśleniami.
+
+Idąc dalej, możemy porozmawiać kolejno z Orrym, Maią, Ratfordem i Draxem. W późniejszym etapie na ten temat rozmawiamy również z Gilbertem, Cavalornem oraz Aidanem.
+
+Ostatecznie, wykonując zadanie [Uprzejmy złodziej](#uprzejmy-złodziej), poznajemy Regulusa. Po rozmowie z nim misja zostaje zakończona. Dodatkowy wpis możemy uzyskać od Sadalsuuda, ale dopiero po dołączeniu do Regulusa.
+
 ## Dziwna rzecz
 __Zleca: -__
 
