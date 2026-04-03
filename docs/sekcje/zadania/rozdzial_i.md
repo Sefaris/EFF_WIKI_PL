@@ -343,7 +343,22 @@ Na końcu udajemy się do miejsca, w którym znaleźliśmy miecz, i rozmawiamy z
 __Zleca:__
 
 ## Sekrety Obozu Bractwa
-__Zleca:__
+__Zleca: ?__
+
+Misja staje się dostępna po wykonaniu [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#zatrute-ziele). 
+
+Jeśli ukończyliśmy [Zaginiona siostra](#Zaginiona-siostra) oraz [Fatalne konsekwencje](#Fatalne-konsekwencje), możemy udać się do Mai, która pomoże nam z notatką i odeśle do Alrishy.
+
+Alrisha odkrywa na notatce pieczęć Magów Ognia. W związku z tym udajemy się kolejno do Lee, następnie do Adelbera, który kieruje nas do Altarfa. Z Altarfem wyruszamy do Regulusa, jednak przy bramie zatrzymuje nas strażnik i pyta, kto zabił nowicjuszy. 
+
+Do wyboru mamy: „Magowie Ognia”, „Ktoś z byłej straży królewskiej” lub „Król” (opcja dostępna tylko, jeśli otworzyliśmy list i oddaliśmy Miltenowi).
+
+Po rozmowie musimy jak najszybciej dotrzeć do Regulusa. Na miejscu rozmawiamy z Altarfem, który informuje nas, że aby zapobiec wojnie, musimy dostarczyć list ze świata zewnętrznego do sekciarzy.
+
+Jeśli oddaliśmy już list Magom Ognia, będziemy musieli wykraść go z kieszeni Coristo. Następnie zanosimy list na bagna, przekazujemy go strażnikowi bramy i idziemy do Angara. Jeśli natomiast nadal go posiadamy, możemy od razu udać się do świrów. Po rozmowie z Cor Angarem misja dobiega końca.
+
+## Szpieg w Bractwie
+__Zleca: Cor Angar__
 
 ## Infiltrator
 __Zleca: Świstak__
