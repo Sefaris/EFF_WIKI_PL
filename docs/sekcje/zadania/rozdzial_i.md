@@ -432,6 +432,27 @@ Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 ## Fatalne konsekwencje
 __Zleca: Maia__
 
+Aby pomóc Meropie z efektami izolacji, musimy udać się do Spiki. Ta chce spotkać się z nami wieczorem w jej wodnym młynie. Nie otrzymujemy od niej wielu informacji. Znacznie więcej dowiadujemy się od Antaresa po wykonaniu zadania [Miłość aż po grób](#Miłość-aż-po-grób). Alrishe możemy znaleźć w podwodnej jaskini w pobliżu zatopionej wieży Xardasa.
+
+Na tym etapie pojawiają się trzy rozgałęzienia:
+
+- „Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”
+
+Alrisha ucieka i trafia pod wodospad obok Nowego Obozu. Rozmawiamy z nią, a następnie spotykamy ją w szpitalu. Przekazuje nam 2 zwoje teleportacji dla Mai i Merope. Po ich dostarczeniu wracamy do szpitala i ponownie rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Merope zostaje uratowana, więc udajemy się do Spiki, która wręcza nam nową sukienkę dla Merope. Zanosimy ją do niej, po czym rozmawiamy z Merope, a następnie z Maią. Zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Następnie spotykamy się z Maią, która zaprasza nas wieczorem do karczmy. Wcześniej musimy znaleźć dla niej kwiat, który rośnie na przełęczy Wolnej Kopalni (blisko Crowa). Maię możemy odwiedzić w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+
+- „Spika przesyła Ci pozdrowienia.”
+
+Alrisha trafia przed bramę Nowego Obozu. Stamtąd prowadzimy ją do szpitala. Na miejscu rozmawiamy ze Spiką. Ta wręcza nam 2 zwoje teleportacji dla Mai i Merope. Po ich dostarczeniu wracamy do szpitala i rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Merope zostaje uratowana, po czym udajemy się do Spiki, która daje nam nową sukienkę dla Merope. Zanosimy ją jej, następnie rozmawiamy z Merope i Maią, po czym zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Następnie spotykamy się z Maią, która zaprasza nas wieczorem do karczmy. Wwcześniej musimy znaleźć kwiat na przełęczy Wolnej Kopalni (blisko Crowa). Maię odwiedzamy w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+
+- „Potrzebuję twojej pomocy.”
+
+Alrisha udaje się do Regulusa. Leczenie trwa 5 dni. Po jego zakończeniu prowadzimy Alrishę do szpitala w Nowym Obozie. Tam rozmawiamy ze Spiką i Maią. Następnie zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Potem spotykamy Maię, która zaprasza nas wieczorem do karczmy. Wcześniej musimy zdobyć kwiat z przełęczy Wolnej Kopalni (blisko Crowa). Maię odwiedzamy w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+
+Wybór **„Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”** oraz **„Spika przesyła Ci pozdrowienia.”** odblokowuje zadanie [Duchy przyszłości](#Duchy-przyszłości).
+
+## Duchy przyszłości
+__Zleca: Alrisha__
+
 ## Dezerter
 __Zleca: Świstak__
 
