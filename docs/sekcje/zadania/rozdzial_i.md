@@ -578,3 +578,6 @@ Po udanym rytuale wychodzimy z kopalni. Przed wejściem rozmawiamy z Antaresem i
 __Zleca: Acrux__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do Wolnej Kopalni, w której pojawia się problem z pełzaczami. Musimy odnaleźć i zabić królową pełzaczy. Po jej pokonaniu wracamy do Gacruxa, co kończy zadanie.
+
+## Pancerz dla samotnika
+__Zleca: Regulus__
