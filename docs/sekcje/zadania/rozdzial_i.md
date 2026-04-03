@@ -581,3 +581,6 @@ Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do 
 
 ## Pancerz dla samotnika
 __Zleca: Regulus__
+
+## Szpieg
+__Zleca: Świstak__
