@@ -453,6 +453,14 @@ Wybór **„Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”** ora
 ## Duchy przyszłości
 __Zleca: Alrisha__
 
+Po zaprowadzeniu Meropy do Kosy, w szpitalu zaczepia nas Alrisha i mówi, że chce spotkać się na wieży strażniczej. Musimy pojawić się tam około północy. Następnie prowadzimy ją do swojej chaty, po czym teleportuje się z powrotem na wieżę. Wracamy tam, przekazujemy jej 10 butelek wina oraz 10 Mroków Północy.
+
+Alrisha opowiada nam, że widziała orka w jaskini przed Nowym Obozem. Udajemy się tam, jednak znajdujemy jedynie lodowy kwarc. Wracamy do Alrishy, która postanawia stworzyć z niego magiczną runę. Między godziną 01:00 a 04:00 w szpitalu możemy spotkać Myxira i poprosić go o pomoc. Zleca nam zdobycie kamienia runicznego, który znajdziemy na półce w domku Deneba.
+
+Z kamieniem wracamy do Myxira, czekamy jeden dzień i odbieramy runę. Następnie przekazujemy ją Alrishy i podążamy za nią. Po krótkim dialogu na plaży przenosimy się w okolice Nowego Obozu z przyszłości.
+
+Naszym pierwszym celem jest odnalezienie Alrishy, która znajduje się na poddaszu w chacie Ryżowego Księcia. Następnie udajemy się w głąb obozu i zabijamy smoka. Po splądrowaniu jego skarbu wracamy do Alrishy, która wręcza nam miksturę pozwalającą się wybudzić.
+
 ## Dezerter
 __Zleca: Świstak__
 
