@@ -357,6 +357,16 @@ Po rozmowie musimy jak najszybciej dotrzeć do Regulusa. Na miejscu rozmawiamy z
 
 Jeśli oddaliśmy już list Magom Ognia, będziemy musieli wykraść go z kieszeni Coristo. Następnie zanosimy list na bagna, przekazujemy go strażnikowi bramy i idziemy do Angara. Jeśli natomiast nadal go posiadamy, możemy od razu udać się do świrów. Po rozmowie z Cor Angarem misja dobiega końca.
 
+## Spokojne miejsce
+__Zleca: Altarf__
+
+Altarf chce zamieszkać u Cavalorna w magazynie, więc udajemy się do właściciela z prośbą o zgodę. Cavalorn przystaje na to bez problemu. Następnie zaprowadzamy Altarfa do magazynu i odczekujemy kilka dni. Po tym czasie rozmawiamy z Cavalornem, a następnie z Altarfem, co kończy misję.
+
+## Plan Altarfa
+__Zleca: Altarf__
+
+Altarf prosi nas o zaniesienie listu do Lee. Po dostarczeniu go wracamy do zleceniodawcy, co kończy zadanie.
+
 ## Szpieg w Bractwie
 __Zleca: Cor Angar__
 
