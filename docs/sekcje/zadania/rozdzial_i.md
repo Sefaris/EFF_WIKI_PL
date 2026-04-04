@@ -340,7 +340,15 @@ Na końcu udajemy się do miejsca, w którym znaleźliśmy miecz, i rozmawiamy z
 ![wk](fotki/wk.png)
 
 ## Lew Pustyni
-__Zleca:__
+__Zleca: Regulus__
+
+Zadanie rozpoczyna się po poznaniu Regulusa, a naszym celem jest zdobycie informacji na jego temat.
+
+Pierwszą osobą, która może nam coś powiedzieć, jest Gor Na Drak, pod warunkiem że powiemy mu, iż to Regulus ukradł jego pancerz. Kolejną osobą jest Thordir, jeśli uratujemy go podczas zadania [Misja ratunkowa](#Misja-ratunkowa). W nagrodę otrzymamy od niego klucz do skrzyni w koszarach, znajdującej się na piętrze nad Bullitem. Po przeczytaniu książki ze skrzyni udajemy się do Lee.
+
+Lee poleci nam odnalezienie ostatniego tomu. Znajduje się on w kuźni w zamku, więc musimy wykraść klucz ze skrzyni, otworzyć drzwi do magazynu i zabrać książkę ze skrzyni. Po jej przeczytaniu wracamy do Regulusa.
+
+Kolejne informacje zdobędziemy od Al-Shemali w ramach misji [Poszukiwania asasynów](#Poszukiwania-asasynów). Na końcu ponownie rozmawiamy z Regulusem, co kończy zadanie.
 
 ## Sekrety Obozu Bractwa
 __Zleca: ?__
@@ -622,6 +630,12 @@ Lee zgadza się przyjąć Arto, więc udajemy się do karczmy, aby go o tym poin
 
 ## Poszukiwania asasyna
 __Zleca: Arto__
+
+Arto opowiada nam o obawach Magnatów dotyczących asasynów. W związku z tym udajemy się do Thorusa, który prosi o spotkanie nocą (między 22:00 a 08:00) w zamkowej kuchni. Po rozmowie kierujemy się do Cavalorna.
+
+Cavalorn informuje nas, że coś wydarzyło się w pobliskim obozie myśliwskim. Udajemy się na miejsce, gdzie spotykamy Brzytwę oraz ciała włóczęgów. Po pokonaniu potwora zbieramy fragment materiału i wracamy z nim do Cavalorna.
+
+Następnie musimy odnaleźć dwóch asasynów. Pierwszego znajdziemy w podwodnej jaskini obok północnej bramy Starego Obozu. Po rozmowie sam uda się do Regulusa. Drugiego odnajdziemy, kierując się od bramy obozu na bagnie w stronę polany z jaszczurami. Znajduje się po lewej stronie, we wnęce blisko rzeki, Rozmawiamy z nim, a następnie prowadzimy go do kryjówki Regulusa, co kończy zadanie.
 
 ## Czas na zmiany
 __Zleca: Lee__
