@@ -370,6 +370,15 @@ Altarf prosi nas o zaniesienie listu do Lee. Po dostarczeniu go wracamy do zlece
 ## Szpieg w Bractwie
 __Zleca: Cor Angar__
 
+Cor Angar prosi nas o odnalezienie szpiega ze Starego Obozu. Aby poznać jego tożsamość, musimy najpierw wykonać misję [Szpieg](#Szpieg). Istnieje kilka sposobów rozprawienia się z Bloodwynem:
+
+- Rozmawiamy z Angarem i jeśli daliśmy zwój teleportacji Bloodwynowi: między 23:30 a 04:30 rozmawiamy z nim na placu świątynnym. Gdy zacznie używać teleportacji, zabijamy go.
+- Rozmawiamy z Angarem i jeśli nie rozmawialiśmy wcześniej z Bloodwynem i nie daliśmy mu zwoju: podchodzimy do niego, wyprowadzamy go poza obóz i zabijamy.
+-  Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i nie rozmawialiśmy z nim wcześniej: mówimy Bloodwynowi, że Tondral chce się z nim spotkać w swojej chacie wieczorem. W godzinach 22:30–06:30 spotykamy go tam i zabijamy.
+-  Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i wcześniej z nim rozmawialiśmy: Angar wyśle go na bagna, w okolice Baloro. Tam go zabijamy.
+
+Niezależnie od wybranej metody, po pozbyciu się Bloodwyna wracamy do Cor Angara.
+
 ## Infiltrator
 __Zleca: Świstak__
 
