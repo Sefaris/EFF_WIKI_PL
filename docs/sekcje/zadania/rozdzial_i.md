@@ -691,3 +691,20 @@ W jednej z jaskiń spotkamy rannego orka, dla którego musimy zdobyć lekarstwo.
 Po wykonaniu tego zadania wracamy do Ur-Shaka, który wręcza nam odpowiednią miksturę. Zanosimy ją rannemu orkowi, a po jego śmierci przeszukujemy ciało i czytamy znalezioną notatkę.
 
 Na końcu wracamy do Regulusa, co kończy zadanie. Opcjonalnie możemy jeszcze wrócić do Ur-Shaka.
+
+## Cmentarzysko Orków
+
+__Zleca: Regulus__
+
+Wraz z Regulusem wyruszamy zbadać cmentarzysko. Po wejściu do środka przeszukujemy mumie, podczas gdy nasz towarzysz stoi na straży. Po splądrowaniu grobowców ruszamy dalej i sprawdzamy kolejne pomieszczenia, zaczynając od skrajnie prawego.
+
+Schodzimy na dół, pokonujemy orków, otwieramy kratę i zabieramy fragment zwoju. W następnym pomieszczeniu znajdujemy drugą część zwoju, po czym kierujemy się do dużej sali. Na środku rozmawiamy z Regulusem, który wręcza nam zwój teleportacji. Msimy go użyć.
+
+Po teleportacji kontynuujemy eksplorację cmentarzyska. W pewnym momencie pojawi się nieumarły kapłan. Pokonujemy go i zabieramy kostur z ołtarza. Następnie kierujemy się do wyjścia, jednak kołowrót okazuje się uszkodzony. Regulus go naprawia, po czym ponownie z nim rozmawiamy.
+
+Udając się na górne piętro, spotykamy Varrag-Nag-Daha. Po rozmowie z nim wracamy do Regulusa i podążamy za nim. Przy wyjściu stajemy przed wyborem:
+
+„Nie mam już siły. Wynośmy się stąd.” → opuszczamy cmentarzysko
+„Dobrze. Powiedz mi, co trzeba zrobić.” → Regulus pokazuje nam sekretne miejsce z miniaturką Śniącego
+
+Po opuszczeniu cmentarzyska zadanie dobiega końca. Pozostaje wrócić do kryjówki Regulusa.
