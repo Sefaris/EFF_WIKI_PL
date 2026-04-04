@@ -669,3 +669,25 @@ Rozmawiamy z Arto, Carlenem i Aldebarem. O północy udajemy się do siedziby Ma
 Rezygnujemy z zadania, misja kończy się niepowodzeniem.
 
 Niezależnie od wybranego planu, po jego realizacji zadanie dobiega końca.
+
+## Jaskinie w kolonii
+
+__Zleca: Regulus__
+
+Regulus zleca nam sprawdzenie jaskiń w Kolonii i wręcza w tym celu mapę. Naszym zadaniem jest splądrowanie wszystkich wskazanych jaskiń, a następnie powrót do zleceniodawcy.
+
+## Strażnicy grobowców
+
+__Zleca: -__
+
+Podczas wykonywania zadania [Jaskinie w Kolonii](#Jaskinie-w-Kolonii) natkniemy się na nieumarłych orków. Po ich pokonaniu wracamy do Regulusa.
+
+## Orkowe lekarstwo
+
+__Zleca: Nieumarły ork kapłan__
+
+W jednej z jaskiń spotkamy rannego orka, dla którego musimy zdobyć lekarstwo. W tym celu udajemy się do Wolnej Kopalni i rozmawiamy z Acruxem. Następnie kierujemy się do Ur-Shaka. Zgodzi się nam pomóc, ale najpierw musimy odnaleźć orkowe lekarstwo i zanieść je Tarrokowi.
+
+Po wykonaniu tego zadania wracamy do Ur-Shaka, który wręcza nam odpowiednią miksturę. Zanosimy ją rannemu orkowi, a po jego śmierci przeszukujemy ciało i czytamy znalezioną notatkę.
+
+Na końcu wracamy do Regulusa, co kończy zadanie. Opcjonalnie możemy jeszcze wrócić do Ur-Shaka.
