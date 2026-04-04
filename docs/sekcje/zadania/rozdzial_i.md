@@ -644,22 +644,28 @@ Misja dostępna po wykonaniu zadań: [Niespodziewany gość](#Niespodziewany-go�
 
 Lee przystępuje do realizacji planu. Na początku musimy porozmawiać z Regulusem, Antaresem, Aldebarem, Carlenem, Arto, Georgem oraz Thordirem. Następnie udajemy się do Altarfa, który wysyła nas do Grahama po mapy. Z mapami idziemy do Cavalorna i rozmawiamy z nim około północy. Po tym udajemy się na obrady, gdzie wybieramy jeden z planów działania:
 
-- „Zajmę się tym sam.”
+- **„Zajmę się tym sam.”**
+
 Rozmawiamy z Chironem, a następnie spotykamy się z nim w kuchni w zamku. Naszym zadaniem jest zabicie Gomeza i Kruka tak, aby nikt tego nie zauważył. Możemy wykorzystać zwoje snu, wino oraz zaproszenie od niewolnicy dla strażnika. Warto też wygonić niewolnicę z sali Gomeza. Po udanej egzekucji zabieramy rzeczy Gomeza i teleportujemy jego ciało. Wracamy do Chirona, następnie do Lee, rozmawiamy z Arto i Carstenem i ponownie udajemy się do zamku na spotkanie z Chironem.
 
-- „Plan Regulusa.”
+- **„Plan Regulusa.”**
+
 Wręczamy zbroje Georgowi i Thordirowi, po czym rozmawiamy z Regulusem. Spotykamy się z nim nocą w pobliżu chaty Świstaka. Następnie wspinamy się na dach i przy użyciu zwoju przemiany w chrząszcza dostajemy się do komnaty Gomeza. Usypiamy Velayę i zabijamy Gomeza. Po chwili pojawia się Chiron. Przekazujemy mu ekwipunek Gomeza, przejmujemy nad nim kontrolę i zabijamy Kruka. Wracamy do komnaty Gomeza, rozmawiamy z Chironem i teleportujemy się na zewnątrz. Następnie udajemy się do Lee, Arto i Carstena, potem do Regulusa, ponownie do Lee i rekrutujemy Arto oraz Carstena. Na końcu wracamy do zamku na spotkanie z Chironem.
 
-- „Plan Altarfa.”
+- **„Plan Altarfa.”**
+
 Zakładamy zbroję świątynną (możemy zdobyć z misji [Pancerz dla samotnika](#Pancerz-dla-samotnika)). W nocy musimy w dialogu "założyć" amulety Gomezowi i Krukowi. Gomezowi w przedziale 01:06–01:09, a Krukowi w przedziale 02:06–02:09 oraz 02:12–09:02. Dodatkowo przy Kruku wybieramy dialog „Znalazłem go.” lub „Y’Berion przekazał go dla ciebie.” (jeśli wcześniej z nim rozmawialiśmy).
 
-- „Plan Antaresa.”
+- **„Plan Antaresa.”**
+
 Rozmawiamy z Arto, Carlenem i Antaresem. Około północy udajemy się do kuchni w zamku, gdzie zatruwamy jedzenie w kotłach. Następnie biegniemy do sali tronowej i rozmawiamy z Antaresem. Jeśli kucharz nadal śpi, używamy na nim zwoju snu, a niewolnice zastraszamy wyciągając broń. Czekamy, aż przyniosą jedzenie, po czym przekazujemy je Antaresowi i czekamy na działanie trucizny. Okradamy Gomeza, używamy pierścienia i przenosimy ciało. Następnie rozmawiamy z Antaresem i Chironem, wracamy do Lee i ponownie do Chirona.
 
-- „Plan Aldebara.”
+- **„Plan Aldebara.”**
+
 Rozmawiamy z Arto, Carlenem i Aldebarem. O północy udajemy się do siedziby Magnatów, dajemy sygnał Aldebarowi i zabijamy Gomeza oraz Kruka. Okradamy ciało Gomeza, teleportujemy je, rozmawiamy z Aldebarem i Chironem, następnie udajemy się do Lee i ponownie do Chirona.
 
-- „Zostawmy Gomeza w spokoju.”
+- **„Zostawmy Gomeza w spokoju.”**
+
 Rezygnujemy z zadania, misja kończy się niepowodzeniem.
 
 Niezależnie od wybranego planu, po jego realizacji zadanie dobiega końca.
