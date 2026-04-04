@@ -593,3 +593,25 @@ __Zleca: Regulus__
 
 ## Szpieg
 __Zleca: Świstak__
+
+Świstak w Nowym Obozie informuje nas, że Gomez wysłał kogoś na zwiad. W związku z tym udajemy się kolejno do Spiki, a następnie do Horacego, który kieruje nas do chatek rybackich. Na miejscu znajdujemy dziwną rybę, w której ukryta jest notatka. Po jej przeczytaniu wracamy do Horacego, a ten odsyła nas do Rufusa. Warto też zagadać do Pocka.
+
+Kolejnym krokiem jest wizyta w karczmie i rozmowa z Silasem, który wskazuje nam Wolną Kopalnię. Po rozmowie z Okylem udajemy się do wodnego młyna, gdzie spotykamy Bustera. Następnie idziemy do Laresa. Przed wejściem zatrzyma nas Roscoe. Po rozmowie z Laresem ponownie rozmawiamy z Roscoe i udajemy się do Pocka.
+
+Pock zażąda od nas 10 kiści winogron. Po ich przyniesieniu otrzymujemy trzy opcje dialogowe. Najlepiej wybrać „Czego jeszcze chcesz?”. Następnie udajemy się do Myxira po lekarstwo i zanosimy je Pockowi. W kolejnym kroku musimy przynieść mu 3 smocze korzenie. W zamian poda nam jedynie pierwszą literę imienia szpiega. Następnego dnia możemy odebrać od niego miksturę siły.
+
+Teraz odnajdujemy Świstaka. Znajduje się na końcu drogi przy starej kopalni, ukryty w krzakach. Wspólnie sprawdzamy miejsce zasadzki. Przeszukując ciała, znajdujemy kolejną notatkę w krzakach. Po jej przeczytaniu rozmawiamy ze Świstakiem i udajemy się do Laresa.
+
+Po rozmowie kierujemy się do Starego Obozu, gdzie możemy porozmawiać z: Złym, Jessem, Grahamem, Grimem, Herekiem oraz Gravo. Jeśli pomogliśmy Gravo zdobyć amulet i zgodziliśmy się na pokój, przekaże nam cenne informacje. Następnie udajemy się do Miltena, a potem do sekciarzy. Bloodwyna znajdziemy na placu świątynnym (sposoby jego eliminacji opisane są w misji [Szpieg w Bractwie](#Szpieg-w-Bractwie)).
+
+Po rozprawieniu się z Bloodwynem wracamy do Świstaka. Ten wspomina o Omidzie, więc udajemy się do zamku Magnatów i rozmawiamy z Balamem. Omida znajdziemy pod wodospadem przy moście prowadzącym do Starej Kopalni. Odsyłamy go do szpitala i tam z nim rozmawiamy, po czym wracamy do Świstaka.
+
+Przed wejściem ponownie zatrzyma nas Roscoe. Informuje, że Pock nas szuka. Idziemy więc do Pocka, a następnie wracamy do Świstaka. Kolejno udajemy się do Okyla, który wspomina o Krecie. Znajdziemy go na wieży strażniczej. Po rozmowie z Arto wracamy do Laresa, a następnie do Lee.
+
+Lee zgadza się przyjąć Arto, więc udajemy się do karczmy, aby go o tym poinformować. W tym momencie misja dobiega końca.
+
+## Poszukiwania asasyna
+__Zleca: Arto__
+
+## Czas na zmiany
+__Zleca: Lee__
