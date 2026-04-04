@@ -591,6 +591,16 @@ Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do 
 ## Pancerz dla samotnika
 __Zleca: Regulus__
 
+Po dołączeniu do Regulusa musimy zdobyć dla siebie pancerz. W tym celu udajemy się do obozu sekciarzy i rozmawiamy ze Shratem. Ten wspomina o Gor Na Tothu, któremu musimy wykraść klucz do magazynu.
+
+Magazyn znajduje się niedaleko placu treningowego i jest pilnowany przez strażnika. Aby się do niego dostać, zagadujemy strażnika dwukrotnie, a wieczorem częstujemy go skrętem z bagiennego ziela. Następnie otwieramy magazyn i zabieramy zbroję.
+
+Po wszystkim wracamy do Shrata. Najlepiej oddać mu ciężki pancerz. Następnie udajemy się do Regulusa.
+
+Regulus może ulepszyć ten pancerz oraz wykonać hełm, jeśli dostarczymy mu 15 płytek pełzaczy. Umiejętności ich pozyskiwania nauczy nas Wilk, a same pełzacze znajdziemy w Wolnej Kopalni (dostępnej w ramach misji [Z dala od gapiów](#Z-dala-od-gapiów)). Płytki można również wykraść z magazynów kupców.
+
+Po dostarczeniu płytek musimy odczekać jeden dzień, a następnie odebrać gotowe wyposażenie od Regulusa, co kończy zadanie.
+
 ## Szpieg
 __Zleca: Świstak__
 
