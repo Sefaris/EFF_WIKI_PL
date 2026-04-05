@@ -642,6 +642,43 @@ Cavalorn informuje nas, że coś wydarzyło się w pobliskim obozie myśliwskim.
 
 Następnie musimy odnaleźć dwóch asasynów. Pierwszego znajdziemy w podwodnej jaskini obok północnej bramy Starego Obozu. Po rozmowie sam uda się do Regulusa. Drugiego odnajdziemy, kierując się od bramy obozu na bagnie w stronę polany z jaszczurami. Znajduje się po lewej stronie, we wnęce blisko rzeki, Rozmawiamy z nim, a następnie prowadzimy go do kryjówki Regulusa, co kończy zadanie.
 
+## Polowanie z Hamalem
+__Zleca: Hamal__
+
+Spotykając Hamala obok Cor Angara, możemy udać się z nim na wspólne polowanie.
+
+Najpierw wyruszamy na bagna, gdzie eliminujemy węże błotne. Po ich wybiciu rozmawiamy z Hamalem i ruszamy do lasu. Tam naszym celem jest pokonanie trzech starych cieniostworów.
+
+Następnie udajemy się dalej, gdzie musimy rozprawić się z trollami, a potem kierujemy się na plażę. Z plaży wyruszamy do jaskini pod Wieżą Mgieł. Na miejscu eliminujemy szkielety i czytamy Chromanin, co kończy zadanie.
+
+## Nieznajomy
+__Zleca: -__
+
+Chromaniny najlepiej zbierać podczas wyprawy z Hamalem. Ich lokalizacje są takie same jak w niezmodowanej wersji gry. Po zebraniu wszystkich sześciu części i ich przeczytaniu musimy pokonać hordę nieumarłych.
+
+Następnie Hamal poleci nam przyprowadzić Al-Shemaliego. Po doprowadzeniu go na miejsce wspólnie przeprowadzamy rytuał, po którym zadanie dobiega końca.
+
+## Mroczne rytuały
+__Zleca: -__
+
+Po zakończeniu rytuału spotykamy się z asasynami na wieży obok miasta orków, a następnie udajemy się przed most prowadzący do miasta. Po przemianie rozmawiamy z Hamalem i podążamy za Al-Shemalim. W jaskiniach orków ponownie z nim rozmawiamy.
+
+Przy orkowym tronie znajdujemy kamień i róg, które pokazujemy Al-Shemaliemu. Następnie schodzimy do lochów, gdzie odnajdujemy dziewczynę. Rozmawiamy z Al-Shemalim, próbujemy użyć przycisku (bez skutku), po czym ponownie z nim rozmawiamy. Po otwarciu krat rozmawiamy jeszcze raz z Al-Shemalim oraz z dziewczyną. Następnie spotykamy się z nimi obok chaty Fortuno.
+
+Po kilku dniach wracamy do Al-Shemaliego, który mówi o osobie uwięzionej w kamieniu. Udajemy się na klif obok obozu sekciarzy i przy piedestale przeprowadzamy rytuał. Po rozmowie z Al-Shemalim i Hamalem podnosimy kamień i pokonujemy stado harpii.
+
+Wracając do obozu, strażnik informuje nas o zaginionych nowicjuszach. Ich ciała znajdujemy przy dolnym wejściu do Wieży Mgieł, niedaleko morza. Następnie udajemy się do Cor Angara, potem do Algoli, a po rozmowie także do Balora i Virana. Przy orkowej lampie na bagnach eliminujemy harpie oraz bezgłowych nowicjuszy, po czym wracamy do Angara.
+
+W tym momencie stajemy przed wyborem:
+
+Pierwsza opcja polega na rozmowie z Hamalem. Wspólnie wyruszamy zabić Algolę, a następnie przekazujemy informacje Al-Shemaliemu, co kończy zadanie.
+
+Druga opcja (lepszy wybór) polega na rozmowie z Al-Shemalim, który twierdzi, że coś przeoczyliśmy u orków. Spotykamy się z nim w lesie niedaleko miasta orków, przemieniamy się w krwiopijcę i udajemy się do sali tronowej. W jednej z cel znajdujemy dziwny kamień (należy go podnieść z Al-Shemalim w celi). Pojawi się trup, z którym rozmawiamy, a następnie pokonujemy zombie.
+
+Wracamy na bagna i rozmawiamy z Al-Shemalim, po czym udajemy się do Tondrala. Przy orkowej lampie znajdujemy ciało Algoli przybite do drzewa oraz notatkę, którą czytamy. Następnie wracamy do Al-Shemaliego, który przenosi nas wraz z Hamalem do orkowych lochów. Na miejscu rozmawiamy z asasynami i sprawdzamy lochy, jednak niczego nie znajdujemy.
+
+Po powrocie do Hamala nasi towarzysze zostają zamienieni w kamień. Używamy rogu i stajemy do walki z Algolą. Po jej pokonaniu i rozmowie z asasynami zadanie dobiega końca.
+
 ## Czas na zmiany
 __Zleca: Lee__
 
