@@ -614,6 +614,15 @@ Regulus może ulepszyć ten pancerz oraz wykonać hełm, jeśli dostarczymy mu 1
 
 Po dostarczeniu płytek musimy odczekać jeden dzień, a następnie odebrać gotowe wyposażenie od Regulusa, co kończy zadanie.
 
+## Konkurencja
+__Zleca: Shrat__
+
+Po spotkaniu ze Shratem w karczmie na jeziorze udajemy się razem do laboratorium Jacko. Rozmawiamy z nim, odbieramy ziele od Shrata i ponownie rozmawiamy z Jacko. Następnie wracamy na spotkanie ze Shratem do karczmy.
+
+Kolejnym krokiem jest zdobycie zbroi nowicjusza, którą znajdziemy w jaskini z Almanachem. Następnie udajemy się do Balora. Dodatkowo musimy posiadać przy sobie 10 sztuk Zewu Nocy oraz Mroku Północy.
+
+Z kompletem przedmiotów udajemy się do Bartholo. Dla maksymalnego zysku warto powiedzieć mu, że w paczce znajduje się 200 sztuk. Po wszystkim wracamy do Shrata, co kończy zadanie.
+
 ## Szpieg
 __Zleca: Świstak__
 
