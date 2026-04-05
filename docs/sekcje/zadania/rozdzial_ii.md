@@ -18,6 +18,12 @@ Kierując się prosto od wyjścia z Ben Sali, trafimy do świątyni. W jej okoli
 ## Kuźnia w Ben Sali
 __Zleca: Enzo__
 
+Enzo prosi nas o pomoc z dostawą materiałów. W kopalniach Ben Sali znajdziemy skrzynki ze stalą, a jedną sztukę otrzymamy od Miguela.
+
+Dodatkowo musimy zdobyć 50 rud żelaza oraz 20 kawałków bryłek żelaza. Surowce możemy wydobyć w kopalniach w Ben Sali oraz Lago.
+
+Po zebraniu wszystkich materiałów wracamy do Enzo, co kończy zadanie.
+
 ## Danina
 __Zleca: Julio__
 
