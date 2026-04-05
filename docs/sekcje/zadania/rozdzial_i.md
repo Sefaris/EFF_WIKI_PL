@@ -586,7 +586,7 @@ Opcjonalnie możemy odnaleźć pozostawiony przez niego prezent. Runę oraz zwó
 Następnie udajemy się do biblioteki Magów Wody, aby porozmawiać z Aldebarem. Ostatecznie kierujemy się do zatopionej wieży Xardasa. Po spotkaniu z Antaresem misja dobiega końca.
 
 ## Miłość aż po grób 
-__Zleca: Zombie w Opusczonej Kopalni__
+__Zleca: Zombie w Opuszczonej Kopalni__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) w Wolnej Kopalni spotykamy nieumarłego. Aby mu pomóc, musimy odnaleźć Antaresa i spotkać się z nim przed Opuszczoną Kopalnią. Po wejściu do środka prowadzimy Antaresa do zombie, gdzie opowiada nam o swoim planie.
 
