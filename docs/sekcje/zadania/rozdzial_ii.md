@@ -27,8 +27,16 @@ __Zleca:__
 ## Pustynni rozbójnicy
 __Zleca: Sugut__
 
+Sugut zleca nam pozbycie się grupy koczowniczych rabusiów. Wychodząc z Ben Sali i kierując się cały czas w prawo, trafimy do ich jaskini. Na miejscu rozmawiamy z bezimiennym koczownikiem, a następnie z Vardarem.
+
+Nie warto od razu ich eliminować. Lepiej najpierw wykonać ich zadania.
+
 ## Paczka bagiennego ziela
-__Zleca:__
+__Zleca: Vardar__
+
+Vardar prosi nas o przyniesienie paczki bagiennego ziela. Możemy ją zdobyć za darmo, wykonując zadanie [Uciążliwi krwiopijcy](#Uciążliwi-krwiopijcy).
+
+Po dostarczeniu paczki do Vardara zadanie dobiega końca.
 
 ## Skrzynia Julio
 __Zleca:__
