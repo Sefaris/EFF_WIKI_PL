@@ -1,4 +1,4 @@
-# Rozdział 1
+# Część 1 - Górnicza Dolina 
 
 ## Ważne informacje!
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
@@ -749,19 +749,3 @@ Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzą
 
 ## Ucieczka do wolności
 __Zleca: Regulus__
-
-
-## Niebezpieczne szakale
-__Zleca: Basir__
-
-## Kaktusy dla Basira
-__Zleca: Basir__
-
-## Serce golema
-__Zleca: Basir__
-
-## Kuźmia w Ben Sali
-__Zleca: Enzo__
-
-## Danina
-__Zleca: Julio__
