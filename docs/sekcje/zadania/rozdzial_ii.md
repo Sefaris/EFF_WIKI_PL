@@ -20,3 +20,20 @@ __Zleca: Enzo__
 
 ## Danina
 __Zleca: Julio__
+
+## Klątwa starożytnych
+__Zleca:__
+
+## Pustynni rozbójnicy
+__Zleca: Sugut__
+
+## Paczka bagiennego ziela
+__Zleca:__
+
+## Skrzynia Julio
+__Zleca:__
+
+## Uciążliwi krwiopijcy
+__Zleca: Rasul__
+
+Rasul w Lago zleca nam pozbycie się krwiopijców, które niszczą jego uprawy. Znajdziemy je na wzgórzu obok pól. Po rozprawieniu się z nimi wracamy do Rasula, co kończy zadanie.
