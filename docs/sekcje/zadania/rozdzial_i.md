@@ -724,3 +724,18 @@ __Zleca: Regulus__
 Musimy poznać plany sekciarzy, dlatego udajemy się do Lestera. Opowiada nam o Nyrasie, który wyruszył po kamień ogniskujący.
 
 Odnajdujemy Nyrasa i podczas rozmowy mamy wybór: możemy go zaatakować lub wybrać drugą opcję i wykraść kamień bez zabijania go. Po zdobyciu kamienia zanosimy go do Regulusa, co kończy zadanie.
+
+## Tajemnica kamieni ogniskujących
+__Zleca: Regulus__
+
+Wraz z Regulusem musimy odnaleźć cztery kamienie ogniskujące. Do każdej lokacji możemy udać się samodzielnie, poprosić Regulusa o poprowadzenie lub samemu pełnić rolę przewodnika.
+
+Pierwszym miejscem jest Kanion Trolli. Na miejscu możemy zdecydować się na pokonanie trolla lub jego ominięcie. Następnie naprawiamy kołowrót i zabieramy kamień.
+
+Kolejnym celem jest Stara krypta. Po spotkaniu przed wejściem okazuje się, że potrzebujemy zwoju „Śmierć ożywieńcom”. Na potrzeby zadania pojawia się on na stole w kryjówce Regulusa. Po jego zdobyciu wracamy do Regulusa, a następnie wchodzimy do krypty, eliminujemy zagrożenie i zabieramy kamień.
+
+Następnie udajemy się do Starego klasztoru. Po spotkaniu z Regulusem najpierw badamy pobliski wąwóz. Po jego sprawdzeniu kierujemy się do klasztoru. Przy użyciu przemiany w chrząszcza przechodzimy na drugą stronę bramy i uruchamiamy kołowrót. Eliminujemy bestię i wchodzimy do pomieszczenia w jaskini, gdzie zabieramy zawartość skrzyń. Po powrocie na dziedziniec musimy jeszcze pokonać demonicznego strażnika.
+
+Ostatnim miejscem jest górska forteca. Spotykamy się z Regulusem przed mostem i najpierw pokonujemy golema. Następnie udajemy się do środka. Kamień możemy zdobyć przy użyciu zwoju przemiany w krwiopijcę lub eksplorując fortecę.
+
+Po zebraniu wszystkich kamieni informujemy o tym Regulusa i spotykamy się z nim w jego kryjówce.
