@@ -708,3 +708,19 @@ Udając się na górne piętro, spotykamy Varrag-Nag-Daha. Po rozmowie z nim wra
 „Dobrze. Powiedz mi, co trzeba zrobić.” → Regulus pokazuje nam sekretne miejsce z miniaturką Śniącego
 
 Po opuszczeniu cmentarzyska zadanie dobiega końca. Pozostaje wrócić do kryjówki Regulusa.
+
+## Orkowy pancerz
+__Zleca: Regulus__
+
+Regulus ustalił, w jaki sposób może przywrócić znaleziony przez nas pancerz do świetności. Potrzebuje do tego dziesięciu bryłek złota, srebra, rudy żelaza oraz czarnej rudy.
+
+W tym celu udajemy się do Deneba i otwieramy jego skrzynię, z której zabieramy potrzebne materiały. Następnie wracamy do Regulusa i przekazujemy mu surowce.
+
+Po dwóch dniach zgłaszamy się po gotowy pancerz. Możemy wybrać jego właściwości: pokrycie złotem zwiększa ochronę przed ogniem, natomiast srebrem przed magią. Po dokonaniu wyboru otrzymujemy pancerz, co kończy zadanie.
+
+## Plany Obozu Bractwa
+__Zleca: Regulus__
+
+Musimy poznać plany sekciarzy, dlatego udajemy się do Lestera. Opowiada nam o Nyrasie, który wyruszył po kamień ogniskujący.
+
+Odnajdujemy Nyrasa i podczas rozmowy mamy wybór: możemy go zaatakować lub wybrać drugą opcję i wykraść kamień bez zabijania go. Po zdobyciu kamienia zanosimy go do Regulusa, co kończy zadanie.
