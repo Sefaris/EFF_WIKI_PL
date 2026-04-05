@@ -51,3 +51,15 @@ __Zleca:__
 __Zleca: Rasul__
 
 Rasul w Lago zleca nam pozbycie się krwiopijców, które niszczą jego uprawy. Znajdziemy je na wzgórzu obok pól. Po rozprawieniu się z nimi wracamy do Rasula, co kończy zadanie.
+
+## Niebezpieczne polowanie
+__Zleca: Mamuk__
+
+Po pokonaniu Mamuka na arenie proponuje nam on wspólne polowanie na pająki skalne. W trakcie wyprawy możemy zebrać sporą ilość żuwaczek, które następnie możemy sprzedać wybranemu kupcowi:
+
+- Fabio oferuje 1500 złotych monet.
+- Delazar zapłaci 1000 złotych monet oraz da ekstrakt ducha.
+- Aldo oferuje 800 złotych monet oraz da duży eliksir życia.
+- Ningal zapłaci 1000 złotych monet oraz da duży eliksir ducha.
+
+Niezależnie od wybranego kupca zadanie dobiega końca.
