@@ -398,6 +398,11 @@ Po rozmowie z nimi udajemy się do Lee, który wskazuje nam Okyla. Ten z kolei k
 
 Regulusa spotkamy podczas wykonywania zadania [Uprzejmy złodziej](#uprzejmy-złodziej), w tym momencie misja zostaje zakończona.
 
+## Zazdrośnik
+__Zleca: Kosa__
+
+Podczas wykonywania zadania [Infiltrator](#Infiltrator) możemy powiedzieć Kosie „Muszę dostać się do zamku.”, co rozpocznie to zadanie. Ukończyć je możemy dopiero po przyprowadzeniu do niego Meropy w ramach misji [Fatalne konsekwencje](#Fatalne-konsekwencje).
+
 ## List ze świata zewnętrznego
 __Zleca: -__
 
