@@ -739,3 +739,29 @@ Następnie udajemy się do Starego klasztoru. Po spotkaniu z Regulusem najpierw 
 Ostatnim miejscem jest górska forteca. Spotykamy się z Regulusem przed mostem i najpierw pokonujemy golema. Następnie udajemy się do środka. Kamień możemy zdobyć przy użyciu zwoju przemiany w krwiopijcę lub eksplorując fortecę.
 
 Po zebraniu wszystkich kamieni informujemy o tym Regulusa i spotykamy się z nim w jego kryjówce.
+
+## Almanach dla Regulusa
+__Zleca: Regulus__
+
+Musimy zdobyć Almanach dla Regulusa od Magów Ognia. W tym celu udajemy się do Corristo, który informuje nas, że Cor Kalom już wykupił księgę. Przy okazji zapyta nas, czy rozważamy ucieczkę przy pomocy planu Magów Wody. Możemy odpowiedzieć „Tak” lub „Nie”. Jeśli wcześniej dostarczyliśmy list do Miltena, pojawi się dodatkowa opcja dialogowa: „Wszystko jest o wiele bardziej skomplikowane niż się wydaje”, dzięki której możemy powiedzieć prawdę o Śniącym.
+
+Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzącym do siedliska goblinów spotykamy Talasa i z nim rozmawiamy. Następnie eliminujemy gobliny, odnajdujemy Almanach i zanosimy go do Regulusa, co kończy zadanie.
+
+## Ucieczka do wolności
+__Zleca: Regulus__
+
+
+## Niebezpieczne szakale
+__Zleca: Basir__
+
+## Kaktusy dla Basira
+__Zleca: Basir__
+
+## Serce golema
+__Zleca: Basir__
+
+## Kuźmia w Ben Sali
+__Zleca: Enzo__
+
+## Danina
+__Zleca: Julio__
