@@ -205,3 +205,13 @@ Niezależnie od wyboru zadanie dobiega końca.
 
 ## Patrol
 __Zleca: Ateras__
+
+Ateras zleca nam rozprawienie się z asasynami na wyspie. Możemy ich zabić lub przepędzić, w zależności od decyzji podjętych w zadaniu [Niewolnica na wolności](#Niewolnica-na-wolności).
+
+Możemy również zdradzić asasynom informacje o koczownikach. Jeśli się na to zdecydujemy, pojawią się dwie opcje:
+
+- „W porządku, pomogę wam.” → wspólnie z asasynami atakujemy koczowników, a następnie udajemy się do Silvio.
+
+- „Obawiam się, że w trzech nie damy sobie z nimi rady.” → idziemy do Silvio i od Amula otrzymujemy zaklęcie. Używamy go tak, aby koczownicy nas nie zauważyli, po czym wracamy do Silvio.
+
+Niezależnie od wybranej drogi zadanie dobiega końca.
