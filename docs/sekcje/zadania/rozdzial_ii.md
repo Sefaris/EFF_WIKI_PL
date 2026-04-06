@@ -251,3 +251,10 @@ Akrabor informuje nas o koczownikach, którzy napadli na karawanę. Znajdziemy i
 __Zleca: Akrabor__
 
 Akrabor wspomina, że Aschnu oferuje nagrodę za pozbycie się topielców. Po ich wybiciu wracamy do Akrabora, a następnie udajemy się do Aschnu, co kończy zadanie.
+
+## Antyczny artefakt
+__Zleca: Amul__
+
+Amul informuje nas o artefakcie znajdującym się na wyspie w pobliżu Bakareshu. Udajemy się tam, pokonujemy nieumarłych i zabieramy zawartość skrzyni.
+
+Następnie wracamy do Amula, co kończy zadanie.
