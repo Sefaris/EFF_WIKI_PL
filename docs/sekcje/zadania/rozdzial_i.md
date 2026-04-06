@@ -5,6 +5,7 @@
 - za zjedzenie 5 plastrów miodu dostaniemy +5PN
 - za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 - za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii
+- warto nauczyć się górnictwa od Swineya, może być przydatne w późniejszym etapie rozgrywki
 
 ## Moja własna ścieżka
 __Zleca: Diego__
