@@ -105,7 +105,9 @@ Vardar prosi nas o przyniesienie paczki bagiennego ziela. Możemy ją zdobyć za
 Po dostarczeniu paczki do Vardara zadanie dobiega końca.
 
 ## Skrzynia Julio
-__Zleca:__
+__Zleca: Vardar__
+
+Vardar zleca nam okradzenie skrzyń Julio. W tym celu wykradamy mu klucz, otwieramy kufry i zabieramy ich zawartość. Następnie zanosimy łup do Vardara, co kończy zadanie.
 
 ## Uciążliwi krwiopijcy
 __Zleca: Rasul__
