@@ -63,7 +63,7 @@ Nasif zaprowadza nas do koczowników, którzy porwali Adbę. Na miejscu stajemy 
 
 Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif i pojawią się kolejne opcje:
 
-„Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.” → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój władzy. Z wieściami udajemy się do Juno, a potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+„Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.” → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój potęgi. Z wieściami udajemy się do Juno, a potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
 
 „Zaatakujmy ich we dwoje.” → wspólnie z Nasifem atakujemy koczowników. Po walce możemy zdecydować się zabić Adbę (otrzymamy napój władzy) lub odesłać ją do Ben Sali. Następnie udajemy się do Juno, potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy dostaniemy duży eliksir ducha.
 
