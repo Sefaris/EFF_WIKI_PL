@@ -215,3 +215,13 @@ Możemy również zdradzić asasynom informacje o koczownikach. Jeśli się na t
 - „Obawiam się, że w trzech nie damy sobie z nimi rady.” → idziemy do Silvio i od Amula otrzymujemy zaklęcie. Używamy go tak, aby koczownicy nas nie zauważyli, po czym wracamy do Silvio.
 
 Niezależnie od wybranej drogi zadanie dobiega końca.
+
+## Najeźdźcy z Bakareshu
+__Zleca: Akrabor__
+
+Akrabor informuje nas o koczownikach, którzy napadli na karawanę. Znajdziemy ich w jaskini w pobliżu jego posterunku. Po ich wyeliminowaniu wracamy do Akrabora, co kończy zadanie.
+
+## Problem z topielcami
+__Zleca: Akrabor__
+
+Akrabor wspomina, że Aschnu oferuje nagrodę za pozbycie się topielców. Po ich wybiciu wracamy do Akrabora, a następnie udajemy się do Aschnu, co kończy zadanie.
