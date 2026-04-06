@@ -183,3 +183,25 @@ Po wszystkim rozmawiamy z Muffasem i Hernandem, co kończy zadanie.
 __Zleca: Carlos__
 
 Carlos zleca nam pozbycie się bestii z ruin w pobliżu Bakareshu. Po ich wyeliminowaniu wracamy do zleceniodawcy, co kończy zadanie.
+
+## Niewolnica na wolności
+__Zleca: Carlos__
+
+Carlos informuje nas, że uciekła mu niewolnica. Wyruszając w jej poszukiwaniu, natrafimy na grupę topielców pilnujących kobiety.
+
+Mamy dwa rozwiązania sytuacji:
+
+- Pierwsza opcja to siłowe podejście. Zabijamy topielców, ogłuszamy niewolnicę i odprowadzamy ją z powrotem do Carlosa.
+
+- Druga opcja wymaga sprytu. Przemieniamy się w topielca i na końcu ścieżki rozmawiamy z niewolnicą. Dzięki temu możemy ją odprowadzić albo do Carlosa, albo do koczowników przebywających na wyspie w pobliżu Bakareshu.
+
+Jeśli zaprowadzimy ją do koczowników, pojawi się dodatkowy wybór dialogowy:
+
+- „Tak, pochodzę z Myrtany.” → wpływa na przebieg zadania [Patrol](#Patrol), nie dowiemy się, że niewolnica jest siostrą Mai i Merope.
+
+- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope, możemy ją zabrać do sióstr.
+
+Niezależnie od wyboru zadanie dobiega końca.
+
+## Patrol
+__Zleca: Ateras__
