@@ -36,6 +36,7 @@ __Zleca: Nasif__
 Nasif zaprowadza nas do koczowników, którzy porwali Adbę. Na miejscu stajemy przed wyborem:
 
 - „Weź wszystko, co mamy.”
+
 Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif i pojawią się kolejne opcje:
 
 „Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.” → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój władzy. Z wieściami udajemy się do Juno, a potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
@@ -45,6 +46,7 @@ Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif
 „Pójdę do Ben Sali i porozmawiam z Regulusem.” → sprowadzamy Regulusa i wracamy z nim do Nasifa. Dalej przebieg jest taki sam. Możemy zabić Adbę lub odesłać ją do Ben Sali, a następnie udajemy się do Juno i do kopalni. W nocy możliwa jest wizyta u Adby z taką samą nagrodą.
 
 - „Chcesz złota? To będziesz musiał wyrwać je z naszych rąk.”
+
 Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę (nagroda: napój władzy), czy odesłać ją do Ben Sali. Następnie udajemy się do Juno i do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
 
 Niezależnie od wyboru dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
