@@ -179,7 +179,7 @@ Po przerwie Hernando mówi nam, że ktoś podejmie walkę z trollem. Udajemy si�
 
 Po wszystkim rozmawiamy z Muffasem i Hernandem, co kończy zadanie.
 
-## Ruiny w Bakareshu
+## Ruiny Bakareshu
 __Zleca: Carlos__
 
 Carlos zleca nam pozbycie się bestii z ruin w pobliżu Bakareshu. Po ich wyeliminowaniu wracamy do zleceniodawcy, co kończy zadanie.
