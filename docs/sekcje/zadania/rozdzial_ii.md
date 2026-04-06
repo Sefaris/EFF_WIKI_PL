@@ -27,6 +27,28 @@ Po zebraniu wszystkich materiałów wracamy do Enzo, co kończy zadanie.
 ## Danina
 __Zleca: Julio__
 
+## Asasyni i koczownicy
+__Zleca: Julio__
+
+## Więzień
+__Zleca: Nasif__
+
+Nasif zaprowadza nas do koczowników, którzy porwali Adbę. Na miejscu stajemy przed wyborem:
+
+- „Weź wszystko, co mamy.”
+Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif i pojawią się kolejne opcje:
+
+„Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.” → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój władzy. Z wieściami udajemy się do Juno, a potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+
+„Zaatakujmy ich we dwoje.” → wspólnie z Nasifem atakujemy koczowników. Po walce możemy zdecydować się zabić Adbę (otrzymamy napój władzy) lub odesłać ją do Ben Sali. Następnie udajemy się do Juno, potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy dostaniemy duży eliksir ducha.
+
+„Pójdę do Ben Sali i porozmawiam z Regulusem.” → sprowadzamy Regulusa i wracamy z nim do Nasifa. Dalej przebieg jest taki sam. Możemy zabić Adbę lub odesłać ją do Ben Sali, a następnie udajemy się do Juno i do kopalni. W nocy możliwa jest wizyta u Adby z taką samą nagrodą.
+
+- „Chcesz złota? To będziesz musiał wyrwać je z naszych rąk.”
+Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę (nagroda: napój władzy), czy odesłać ją do Ben Sali. Następnie udajemy się do Juno i do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+
+Niezależnie od wyboru dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
+
 ## Klątwa starożytnych
 __Zleca:__
 
