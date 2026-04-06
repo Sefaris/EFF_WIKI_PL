@@ -83,7 +83,7 @@ Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif
 
 - „Chcesz złota? To będziesz musiał wyrwać je z naszych rąk.”
 
-Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę (nagroda: napój władzy), czy odesłać ją do Ben Sali. Następnie udajemy się do Juno i do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę, czy odesłać ją do Ben Sali. Następnie udajemy się do Juno i do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
 
 Niezależnie od wyboru dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
 
