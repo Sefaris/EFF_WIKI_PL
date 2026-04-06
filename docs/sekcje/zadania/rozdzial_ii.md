@@ -150,6 +150,15 @@ Po pokonaniu Mamuka na arenie proponuje nam on wspólne polowanie na pająki ska
 
 Niezależnie od wybranego kupca zadanie dobiega końca.
 
+## Ruiny Ben Sali
+__Zleca: -__
+
+Podczas wykonywania zadania [Niebezpieczne polowanie](#Niebezpieczne-polowanie) natrafimy na dwóch agresywnych koczowników, których musimy zabić. Jeden z nich posiada notatkę. Warto ją przeczytać.
+
+Z notatką udajemy się do Regulusa, który poleci nam zanieść ją do Amula w Bakareshu. Jeśli nie znamy drogi, Regulus może nas tam zaprowadzić. Po rozmowie z Amulem zadanie dobiega końca.
+
+> Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolicach Ben Sala. Każde użycie przywoła przeciwników — po ich pokonaniu możemy otworzyć skrzynię z nagrodami.
+
 ## Niewolnica z Lago
 __Zleca: Shakyor__
 
