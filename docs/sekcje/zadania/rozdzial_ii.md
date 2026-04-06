@@ -27,6 +27,18 @@ Po zebraniu wszystkich materiałów wracamy do Enzo, co kończy zadanie.
 ## Danina
 __Zleca: Julio__
 
+Julio informuje nas, że Ben Sala jest winna Zubenowi 1000 samorodków oraz 500 bryłek złota daniny. Problem w tym, że wydobycie nie idzie tak sprawnie, jak oczekują asasyni.
+
+W pierwszej kolejności udajemy się do Basira, który odsyła nas do Nasifa i Murada. Po rozmowach z asasynami wracamy do Basira, a następnie kierujemy się do kopalni Nasifa. Przy wejściu zatrzyma nas strażnik, informując, że Nasif gdzieś się oddalił.
+
+Znajdziemy go, kierując się cały czas w prawo od wyjścia z kopalni, za dużym kamieniem. Podczas rozmowy stajemy przed wyborem:
+
+- „Jeszcze zobaczymy.” → zabijamy Nasifa i wracamy do Julio, który zleca nam zadanie [Asasyni i koczownicy](#Asasyni-i-koczownicy).
+
+- „Nie byłbym tego taki pewien.” → rozpoczynamy zadanie [Więzień](#Więzień).
+
+Po wykonaniu jednego z powyższych zadań oraz zebraniu 1000 samorodków i 500 bryłek złota (część możemy zdobyć w kopalniach), wracamy do Juno, co kończy zadanie.
+
 ## Asasyni i koczownicy
 __Zleca: Julio__
 
