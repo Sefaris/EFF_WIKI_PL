@@ -178,3 +178,8 @@ W pierwszej walce mierzymy się z Irhabarem, w drugiej z Ahmedem. Następnie wal
 Po przerwie Hernando mówi nam, że ktoś podejmie walkę z trollem. Udajemy się na miejsce i rozmawiamy z Muffasem. Po chwili troll zabija asasyna, a my razem z Muffasem musimy go pokonać.
 
 Po wszystkim rozmawiamy z Muffasem i Hernandem, co kończy zadanie.
+
+## Ruiny w Bakareshu
+__Zleca: Carlos__
+
+Carlos zleca nam pozbycie się bestii z ruin w pobliżu Bakareshu. Po ich wyeliminowaniu wracamy do zleceniodawcy, co kończy zadanie.
