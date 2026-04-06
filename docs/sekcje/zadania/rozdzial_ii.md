@@ -39,6 +39,23 @@ Znajdziemy go, kierując się cały czas w prawo od wyjścia z kopalni, za duży
 
 Po wykonaniu jednego z powyższych zadań oraz zebraniu 1000 samorodków i 500 bryłek złota (część możemy zdobyć w kopalniach), wracamy do Juno, co kończy zadanie.
 
+## Osobliwy prezent
+__Zleca: Basir__
+
+Basir wysyła nas do Vahida po niewolnicę. W drodze powrotnej do Ben Sali zaczepia nas Jane i prosi, abyśmy zaprowadzili ją do jaskini Sinikara (w pobliżu przejścia do Bakareshu). Stajemy przed wyborem:
+
+- Pierwsza opcja to pomoc Jane i zaprowadzenie jej do koczowników oraz okłamanie Basira. Po okłamaniu Basira przy jaskini Sinikara spotkamy łowców głów. Co prowadzi do kolejnych decyzji:
+
+„Rozumiem. Nikt was już więcej nie zobaczy.” → zabijamy asasynów i udajemy się do Sinikara.
+
+„Myślę, że tak. Wydaje mi się, że wiem, dlaczego tu jesteście.” → prowadzimy ich do Sinikara, gdzie dochodzi do walki z koczownikami. Po wszystkim możemy przyznać się asasynom (co trwale obniży nasze statystyki) lub ich zaatakować. Możemy też pominąć rozmowę przed jaskinią i wraz z Sinikarem od razu ich wyeliminować.
+
+- Druga opcja to zaprowadzenie Jane do Basira. Przed wioską zaczyna uciekać, więc musimy ją dogonić i ogłuszyć. Jeśli nam ucieknie, znajdziemy ją u Sinikara. Tam możemy zabić koczowników i sprowadzić ją do Basira albo wycofać się i poprosić Basira o wsparcie. Wyśle on łowców głów, którzy będą czekać w pobliżu jaskini Sinikara. Po pokonaniu koczowników odprowadzamy Jane do Ben Sali.
+
+Jeśli zarówno łowcy głów, jak i koczownicy zginą, możemy zaprowadzić Jane do paladyna w okolicach Mora Sul.
+
+Niezależnie od wybranej ścieżki zadanie dobiega końca.
+
 ## Asasyni i koczownicy
 __Zleca: Julio__
 
