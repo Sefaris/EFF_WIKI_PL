@@ -152,3 +152,29 @@ Fabio mówi nam o krokodylu, który zadomowił się w przystani. Możemy go zabi
 Jeśli wybierzemy drugą opcję, „rozmawiamy” z krokodylem, a następnie udajemy się do Rasula. Ten informuje nas, że zwierzęciu może pomóc roślina zwana Krwawą Trzciną. Ptrzebujemy 3 sztuk.
 
 Po zdobyciu roślin karmimy nimi krokodyla, a następnie prowadzimy go do Rasula. Ten powie nam, że w pobliżu oazy Vahida znajduje się więcej krokodyli. Udajemy się tam razem z naszym podopiecznym, co kończy zadanie.
+
+## Wybrzeże Bakareshu
+__Zleca: Silvio__
+
+Silvio zleca nam pozbycie się bestii z wybrzeża. Po ich zabiciu wracamy do zleceniodawcy, co kończy zadanie.
+
+## Jaskinie Bakareshu
+__Zleca: Silvio__
+
+Silvio ma dla nas kolejne zadanie. Musimy oczyścić jaskinię za areną z pełzaczy oraz ich królowej. Po wyeliminowaniu wszystkich potworów wracamy do Silvio, co kończy zadanie.
+
+## Starożytna statuetka
+__Zleca: Aldo__
+
+Aldo zleca nam odnalezienie statuetki w pobliskich ruinach. Podczas eksploracji bez problemu ją znajdziemy. Po odniesieniu jej do zleceniodawcy zadanie dobiega końca.
+
+## Arena w Bakareshu
+__Zleca: Hernando__
+
+Hernando informuje nas o walkach na arenie. Każda z nich kosztuje 1000 sztuk złota. Po każdej walce wracamy do niego.
+
+W pierwszej walce mierzymy się z Irhabarem, w drugiej z Ahmedem. Następnie walczymy z krokodylem, a potem z pustynnym cieniostworem. Przed kolejną walką musimy odczekać jeden dzień.
+
+Po przerwie Hernando mówi nam, że ktoś podejmie walkę z trollem. Udajemy się na miejsce i rozmawiamy z Muffasem. Po chwili troll zabija asasyna, a my razem z Muffasem musimy go pokonać.
+
+Po wszystkim rozmawiamy z Muffasem i Hernandem, co kończy zadanie.
