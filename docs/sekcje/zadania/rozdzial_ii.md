@@ -30,6 +30,30 @@ __Zleca: Julio__
 ## Asasyni i koczownicy
 __Zleca: Julio__
 
+Po zabiciu Nasifa udajemy się do Julio, który informuje nas, że koczownicy przetrzymują jego brata. Wychodząc z wioski, kierujemy się w stronę wielkiej świątyni i lekko odbijamy w lewo. Na wzgórzu trafimy na ruiny, gdzie spotykamy Nafisa.
+
+W rozmowie informujemy go o śmierci Nasifa i wybieramy jedną z opcji:
+
+- „Nie wiem.” → wracamy do Julio, co kończy zadanie.
+
+- „Ja go zabiłem.” → Nafis opowiada swoją historię i otrzymujemy kolejne wybory:
+
+„Nie, mam już dosyć.” → odrzucamy propozycję i wracamy do Julio, co kończy zadanie.
+
+„Dobrze, zajmijmy się tym.” → przekazujemy mu miecz brata i podążamy za nim. W oazie rozmawiamy z Vahidem, a następnie ponownie z Nafisem. Ten zaprowadzi nas do Sinikara, dla którego musimy zdobyć informacje o liczebności osady Vahida.
+
+Po zdobyciu informacji wracamy do Nafisa, który kieruje się do kopalni w Ben Sala. My udajemy się do jaskini w pobliżu Lago, gdzie rozmawiamy ze śpiącą kobietą, a następnie z Shakyorem. Po tym wracamy do Nafisa.
+
+Kolejne spotkanie odbywa się przed jaskinią Shakyora. Używamy zwoju snu i wybieramy dalszy los kobiety:
+
+- „Zabierzemy ją ze sobą do Ben Sali.” → rozmawiamy z Nafisem w kopalni i otrzymujemy duży eliksir życia.
+
+- „Beliar niech ją weźmie, chodźmy stąd.” → zostawiamy ją na pastwę losu i otrzymujemy jedynie doświadczenie.
+
+- „Wykończmy ją.” → zabijamy ją i otrzymujemy duży eliksir siły.
+
+Niezależnie od wyboru zadanie dobiega końca.
+
 ## Więzień
 __Zleca: Nasif__
 
