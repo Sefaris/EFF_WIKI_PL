@@ -87,6 +87,13 @@ Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif m
 
 Niezależnie od wyboru dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
 
+## Ogry
+__Zleca: Hassan__
+
+Zadanie dostępne po ukończeniu [Asasyni i koczownicy](#Asasyni-i-koczownicy) lub [Więzień](#Więzień).
+
+Hassan informuje nas, że w ruinach zalęgły się ogry. Udajemy się tam, eliminujemy je i zabieramy ich maczugi. Następnie z trofeami wracamy do Gioresa, co kończy zadanie.
+
 ## Klątwa starożytnych
 __Zleca:__
 
