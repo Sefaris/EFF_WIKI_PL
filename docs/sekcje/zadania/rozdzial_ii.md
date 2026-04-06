@@ -132,3 +132,23 @@ Po pokonaniu Mamuka na arenie proponuje nam on wspólne polowanie na pająki ska
 - Ningal zapłaci 1000 złotych monet oraz da duży eliksir ducha.
 
 Niezależnie od wybranego kupca zadanie dobiega końca.
+
+## Niewolnica z Lago
+__Zleca: Shakyor__
+
+W jaskini w pobliżu Lago spotykamy Shakyora, który prosi nas o uwolnienie niewolnicy z wioski.
+
+Najpierw musimy wykraść klucz od Fabio. Następnie rozmawiamy z nadzorcą stojącym przed celą oraz z samym Fabio, który zażąda od nas dwóch butelek wina. Po wręczeniu mu wina, udajemy się do Rasula, a potem ponownie do nadzorcy. Gdy dowie się o winie, również będzie go chciał.
+
+Około 00:30 strażnik odchodzi spod więzienia i kieruje się do namiotu, to nasza szansa. Otwieramy celę i wyprowadzamy niewolnicę pod daszek obok chaty Sibura. Następnie udajemy się do namiotu i wręczamy wino asasynowi.
+
+Po wszystkim wracamy do niewolnicy i odprowadzamy ją do Shakyora, co kończy zadanie.
+
+## Krokodyl
+__Zleca: Fabio__
+
+Fabio mówi nam o krokodylu, który zadomowił się w przystani. Możemy go zabić lub spróbować mu pomóc.
+
+Jeśli wybierzemy drugą opcję, „rozmawiamy” z krokodylem, a następnie udajemy się do Rasula. Ten informuje nas, że zwierzęciu może pomóc roślina zwana Krwawą Trzciną. Ptrzebujemy 3 sztuk.
+
+Po zdobyciu roślin karmimy nimi krokodyla, a następnie prowadzimy go do Rasula. Ten powie nam, że w pobliżu oazy Vahida znajduje się więcej krokodyli. Udajemy się tam razem z naszym podopiecznym, co kończy zadanie.
