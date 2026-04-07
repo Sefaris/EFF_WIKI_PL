@@ -326,3 +326,16 @@ Przy jednym z kaktusów natrafimy na ciało asasyna z dziwnym hełmem, który po
 
 ## Szpieg wśród koczowników
 __Zleca: Surus__
+
+## Studnie
+__Zleca: Muntasir__
+
+Muntasir prosi nas o dostarczenie wina do Giacomo przy studniach. Na miejscu musimy odeprzeć atak szakali. Po pokonaniu bestii Giacomo wysyła nas do Kafy.
+
+Asasyn sugeruje, aby udać się na wzgórze i pozbyć się jaszczurów. Na miejscu znajdziemy również ognistego golema. Po ich pokonaniu pojawi się druid, co prowadzi do wyboru:
+
+- „Kazano mi zająć się tym zadaniem i ja je dokończę.” → Zabijamy druida i wracamy do Kafy po nagrodę w postaci eliksiru czarnej magii.
+
+- „Jak ci mogę pomóc?” → Druid przekazuje nam zaklęcie, które musimy użyć przy górnej studni. W zależności od tego, ilu niewolników przeżyje, otrzymamy różne nagrody: jeśli wszyscy zginą to eliksir życia, jeśli ktoś przeżyje to napój potęgi, a jeśli przeżyją wszyscy to runę „Przyzwanie bestii”.
+
+Niezależnie od decyzji zadanie dobiega końca.
