@@ -440,3 +440,21 @@ Zadanie dostępne po ukończeniu [Pierścień niewolnika](#Pierścień-niewolnik
 Saida prosi nas o zorganizowanie spotkania z asasynem. Udajemy się do strażnika skarbca i przekupujemy go kwotą 10 000 sztuk złota.
 
 Następnie rozmawiamy z kochankiem niewolnicy między godziną 20:00 a 08:00 i kierujemy go do skarbca. Po wszystkim wracamy do Saidy, co kończy zadanie.
+
+## Stara legenda
+__Zleca: Asam__
+
+Asam opowiada nam o skarbie ukrytym niedaleko Ishtar. Wychodzimy z bramy miasta i kierujemy się zboczem w dół, w stronę zrujnowanej wieży. Obok niej znajdziemy małe drzewo, pod którym zakopany jest kielich.
+
+Po wykopaniu skarbu pojawi się Przeklęty Starożytny Kapłan, który zleci nam zadanie [Klątwa świątyni](#Klątwa-świątyni).
+
+Odnaleziony puchar zanosimy do Asama, co kończy zadanie.
+
+## Klątwa świątyni
+__Zleca: Przeklęty Starożytny Kapłan__
+
+Przeklęty Starożytny Kapłan prosi nas o przyniesienie zwoju ze skarbca Zubena. Po zdobyciu zwoju wracamy do niego, rozmawiamy i używamy zwoju.
+
+Następnie udajemy się do Regulusa w pałacu Zubena. Po rozmowie kierujemy się do Ben Sali, a stamtąd do świątyni.
+
+Przed wejściem spotykamy Basira, który otwiera świątynię i wchodzi do środka. My musimy uciekać, a zadanie dobiega końca.
