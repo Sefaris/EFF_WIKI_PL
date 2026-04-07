@@ -279,3 +279,22 @@ Najpierw musimy dotrzeć w okolice Mora Sul. Po drodze spotkamy paladyna Cruza, 
 Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. Stamtąd możemy udać się do Mezira lub od razu ruszyć do Ishtar.
 
 Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
+
+## Eskorta niewolników
+__Zleca: Makas__
+
+Makas mówi nam, że ostatnio widzianego jakiegoś mężczyznę w pobliżu miasta.
+
+Wychodząc z Ishtar przy studniach odbijamy w prawo, a następnie ponownie w prawo. Mijamy jaszczury i kawałek dalej, za kamieniem, spotykamy koczownika wraz z niewolnicą. Najpierw dajemy im 2 butelki wody, a następnie miksturę leczniczą. Po tym stajemy przed wyborem:
+
+- „Przybyłem z daleka.”
+
+Musimy odnaleźć kamień teleportacji, który znajdziemy przy sztandarze asasynów mijanym wcześniej. Po jego przekazaniu koczownikowi musimy jeszcze wykopać zbroję koczowników jako dowód dla Makasa. Miejsce znajduje się blisko studni Ishtar, obok mocno wygiętej palmy. Po dostarczeniu zbroi zleceniodawcy zadanie dobiega końca.
+
+- „Jestem zwykłym podróżnikiem z Myrtany.”
+
+Koczownik prosi nas o odprowadzenie go na główną drogę. Możemy spełnić jego prośbę lub spróbować zaprowadzić ich do Ishtar. W drodze do Ishtar zorientują się w sytuacji, więc będziemy musieli ich pobić. Przed Ishtar rozmawiamy z Asamem, który poleca zaprowadzić koczownika i niewolnicę do Ugrasala (dostaniemy napój władzy i 2500 złota). Następnie udajemy się do Makasa, co kończy zadanie.
+
+Jeśli odprowadzimy ich na główną drogę, możemy jeszcze zaatakować ich podczas teleportacji i zaprowadzić do Ishtar. Tam rozmawiamy z Asamem i udajemy się do Ugrasala (tutaj dostajemy tylko 2500 złota).
+
+Za oddanie kamienia teleportacji możemy wybrać nagrodę: niewolnicę, 5000 sztuk złota lub napój władzy. Jeśli wybierzemy niewolnicę, prowadzimy ją do Makasa, który wręczy nam klucz do skrzyni w podziemiach Ishtar (w skrzyni znajdziemy perm potki i dwuręczną katanę zadającą 149 obrażeń).
