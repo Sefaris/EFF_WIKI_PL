@@ -311,3 +311,18 @@ Po zabiciu wszystkich lampartów przeszukujemy ciało koczownika i czytamy znale
 - „Nie, tylko jakieś drobiazgi.” → Rozmawiamy z niewolnikiem Karmokiem i otrzymujemy napój potęgi.
 
 Niezależnie od wyboru, po kilku dniach wracamy do Musana i odbieramy zapłatę za skóry, co kończy zadanie.
+
+## List do Hassana
+__Zleca: Nerusul__
+
+Zadanie dostępne po przekazaniu dowolnej ilości rudy Nerusulowi. Naszym celem jest dostarczenie listu do Hassana w Ben Sali. Po wykonaniu tego zadania misja dobiega końca.
+
+## Rzadki składnik
+__Zleca: Surus__
+
+Surus prosi nas o zdobycie 5 butelek soku z kaktusa. W okolicach Ishtar znajdziemy 7 specjalnych kaktusów. Po podejściu do każdego z nich napełni się butelka.
+
+Przy jednym z kaktusów natrafimy na ciało asasyna z dziwnym hełmem, który powinniśmy pokazać Surusowi. Po dostarczeniu wymaganych butelek zadanie dobiega końca.
+
+## Szpieg wśród koczowników
+__Zleca: Surus__
