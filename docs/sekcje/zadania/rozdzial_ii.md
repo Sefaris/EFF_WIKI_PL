@@ -373,6 +373,18 @@ Asasyn sugeruje, aby udać się na wzgórze i pozbyć się jaszczurów. Na miejs
 
 Niezależnie od decyzji zadanie dobiega końca.
 
+## Oswobodzenie studni
+__Zleca: Ugrasal__
+
+Zadanie dostępne, jeśli nie zabiliśmy druida w zadaniu [Studnie](#Studnie).
+
+Ugrasal zleca nam pozbycie się koczowników ze studni Ishtar. Stajemy przed wyborem sposobu rozwiązania problemu:
+
+- Możemy ostrzec koczowników, dzięki czemu uciekną. W nagrodę Ugrasal daje nam 700 monet.
+
+- Możemy też zebrać sześciu asasynów, udać się z nimi do Ugrasala i wspólnie wybić koczowników. Za to otrzymamy projekt miecza oraz 2000 monet.
+
+Niezależnie od wyboru zadanie dobiega końca.
 ## Wiatr północy
 __Zleca: Sven__
 
