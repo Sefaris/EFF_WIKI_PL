@@ -129,7 +129,20 @@ __Zleca: Sugut__
 
 Sugut zleca nam pozbycie się grupy koczowniczych rabusiów. Wychodząc z Ben Sali i kierując się cały czas w prawo, trafimy do ich jaskini. Na miejscu rozmawiamy z bezimiennym koczownikiem, a następnie z Vardarem.
 
-Nie warto od razu ich eliminować. Lepiej najpierw wykonać ich zadania.
+Nie warto ich eliminować. Lepiej wykonać [Niespodziewane spotkanie](#Niespodziewane-spotkanie).
+
+## Niespodziewane spotkanie
+__Zleca: Cronos__
+
+Po rozmowie z Enzo o mieczu Adanosa, w jednej z jaskiń przy świątyni możemy spotkać Cronosa. Wyprowadzamy go na zewnątrz, a następnie udajemy się do Regulusa i razem wracamy do Cronosa.
+
+Kolejnym krokiem jest rozmowa z Vardarem, który odsyła nas do Shakyora. Ten zgodzi się nam pomóc po ukończeniu zadania [Niewolnica z Lago](#Niewolnica-z-Lago). Po rozmowie spotykamy się z nim przed jaskinią Cronosa.
+
+Teraz musimy wykonać zadanie [Ruiny Ben Sali](#Ruiny-Ben-Sali) i oczyścić piedestał z wygnanych koczowników oraz minibossa. Po wszystkim rozmawiamy z Shakyorem przy piedestale, który odsyła nas z powrotem do Vardara.
+
+Wracamy następnie do piedestału i przeprowadzamy rytuał. Po jego zakończeniu rozmawiamy z Shakyorem, Regulusem oraz Vardarem.
+
+Na koniec wracamy do kryjówki Vardara, otwieramy skrzynię i z jej zawartością udajemy się do Julio, co kończy zadanie.
 
 ## Paczka bagiennego ziela
 __Zleca: Vardar__
