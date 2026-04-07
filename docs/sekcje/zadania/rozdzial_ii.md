@@ -360,6 +360,15 @@ Po znalezieniu pierścienia mamy wybór:
 
 Jeśli zdecydujemy się współpracować z koczownikami, zadanie zostaje oznaczone jako niezaliczone.
 
+## Ucieczka niewolników
+__Zleca: Haran__
+
+Haran zleca nam wręczenie pierścieni teleportacji wszystkim niewolnikom w Ishtar. Musimy zrobić to w nocy, między 22:30 a 05:30.
+
+Po obdarowaniu wszystkich niewolników wracamy do Harana, co kończy zadanie.
+
+Dodatkowo możemy udać się do zrujnowanej wieży (tej samej, przy której wcześniej przebywał Onatas) i wykopać ukryty skarb.
+
 ## Studnie
 __Zleca: Muntasir__
 
