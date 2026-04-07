@@ -268,3 +268,14 @@ __Zleca: Amul__
 Amul informuje nas o artefakcie znajdującym się na wyspie w pobliżu Bakareshu. Udajemy się tam, pokonujemy nieumarłych i zabieramy zawartość skrzyni.
 
 Następnie wracamy do Amula, co kończy zadanie.
+
+## Droga do Ishtar
+__Zleca: Amul__
+
+Po opowiedzeniu Amulowi, jak dostaliśmy się do Varantu, kieruje nas on do Regulusa. Ten jest już gotowy na podróż do Ishtar.
+
+Najpierw musimy dotrzeć w okolice Mora Sul. Po drodze spotkamy paladyna Cruza, który prosi nas o dowiedzenie się, co stało się z Magiem Ognia pojmanym przez asasynów.
+
+Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. Stamtąd możemy udać się do Mezira lub od razu ruszyć do Ishtar.
+
+Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
