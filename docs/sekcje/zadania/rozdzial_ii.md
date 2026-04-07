@@ -293,6 +293,13 @@ Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. St
 
 Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
 
+## Arena w Ishtar
+__Zleca: Kasim__
+
+Kasim informuje nas, że na arenie walczą wyłącznie asasyni. Udajemy się do Regulusa, który pożycza nam swój pancerz.
+
+Następnie możemy przystąpić do walk na arenie. Po wygraniu wszystkich starć oddajemy zbroję Regulusowi, co kończy zadanie.
+
 ## Eskorta niewolników
 __Zleca: Makas__
 
@@ -394,6 +401,7 @@ Ugrasal zleca nam pozbycie się koczowników ze studni Ishtar. Stajemy przed wyb
 - Możemy też zebrać sześciu asasynów, udać się z nimi do Ugrasala i wspólnie wybić koczowników. Za to otrzymamy projekt miecza oraz 2000 monet.
 
 Niezależnie od wyboru zadanie dobiega końca.
+
 ## Wiatr północy
 __Zleca: Sven__
 
