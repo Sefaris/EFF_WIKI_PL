@@ -298,3 +298,16 @@ Koczownik prosi nas o odprowadzenie go na główną drogę. Możemy spełnić je
 Jeśli odprowadzimy ich na główną drogę, możemy jeszcze zaatakować ich podczas teleportacji i zaprowadzić do Ishtar. Tam rozmawiamy z Asamem i udajemy się do Ugrasala (tutaj dostajemy tylko 2500 złota).
 
 Za oddanie kamienia teleportacji możemy wybrać nagrodę: niewolnicę, 5000 sztuk złota lub napój władzy. Jeśli wybierzemy niewolnicę, prowadzimy ją do Makasa, który wręczy nam klucz do skrzyni w podziemiach Ishtar (w skrzyni znajdziemy perm potki i dwuręczną katanę zadającą 149 obrażeń).
+
+## Polowanie na lamparty
+__Zleca: Musan__
+
+Musan chce zapolować razem z nami i Regulusem na lamparty. Udajemy się do Regulusa, a następnie spotykamy się z Musanem przed bramą Ishtar. Razem wyruszamy na polowanie.
+
+Po zabiciu wszystkich lampartów przeszukujemy ciało koczownika i czytamy znalezioną notatkę. Następnie przekazujemy Musanowi skóry oraz informacje, co prowadzi do wyboru:
+
+- „Tak, tę notatkę.” → Musan zaprowadzi nas do miejsca ukrycia skarbu. Na miejscu możemy zdecydować się podzielić łupem lub przekazać go Ugrasalowi (dostaniemy dwuręczną katanę zadającą 149 obrażeń).
+
+- „Nie, tylko jakieś drobiazgi.” → Rozmawiamy z niewolnikiem Karmokiem i otrzymujemy napój potęgi.
+
+Niezależnie od wyboru, po kilku dniach wracamy do Musana i odbieramy zapłatę za skóry, co kończy zadanie.
