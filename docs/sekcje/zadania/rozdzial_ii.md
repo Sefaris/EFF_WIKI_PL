@@ -112,7 +112,17 @@ Zadanie dostępne po ukończeniu [Asasyni i koczownicy](#Asasyni-i-koczownicy) l
 Hassan informuje nas, że w ruinach zalęgły się ogry. Udajemy się tam, eliminujemy je i zabieramy ich maczugi. Następnie z trofeami wracamy do Gioresa, co kończy zadanie.
 
 ## Klątwa starożytnych
-__Zleca:__
+__Zleca: Basir__
+
+Basir informuje nas, że Giores słyszy duchy. Udajemy się z nim porozmawiać, a następnie kierujemy się do Julio.
+
+Kolejnym krokiem jest odnalezienie paczki z bagiennym zielem. Wychodzimy z wioski, skręcamy w prawo i kierujemy się w stronę gór. W pobliżu karawany znajdziemy poszukiwaną paczkę. Zanosimy ją do Gioresa.
+
+Następnego dnia ponownie odwiedzamy Gioresa. Wskaże nam miejsce, z którego dochodzą głosy. W związku z tym udajemy się po pomoc do Amula w Bakareshu. Ten potrzebuje zwojów Czarnej Mgły, które zdobywamy w zadaniu [Najeźdźcy z Bakareshu](#Najeźdźcy-z-Bakareshu).
+
+Ze zwojami wracamy do Amula, a następnie do Gioresa. O północy spotykamy się z Gioresem w ruinach. Na miejscu musimy rozpalić trzy ogniska i przeczytać zwój od Amula. Po jego użyciu pojawi się horda nieumarłych. Po ich pokonaniu rozmawiamy z Yugulem.
+
+Na koniec rozmawiamy z Gioresem i Regulusem, co kończy zadanie.
 
 ## Pustynni rozbójnicy
 __Zleca: Sugut__
