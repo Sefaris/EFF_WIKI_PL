@@ -416,6 +416,13 @@ Zaira zleca nam wykradzenie jej pierścienia ze skarbca Zubena. Mamy dwa sposoby
 
 - Drugą opcją jest rozmowa z Zubenem o niewolnicy, a następnie kradzież jego klucza i splądrowanie skarbca. Przy wyjściu ponownie spotykamy Zubena i wybieramy dialog „Tak, jeśli mogę spełnić prośbę, dlaczego miałbym odmówić?”. Podążamy za nim do niewolnicy. Po krótkiej scenie zostajemy ostrzeżeni. Pierścień przekazujemy Hanifie, która wręcza nam zwój. Ten zanosimy nocą do Ugrasala.
 
+## Ostatnie spotkanie
+__Zleca: Ugrasal__
+
+Zadanie dostępne po przyniesieniu zwoju Hanify do Ugrasala.
+
+Ugrasal wysyła nas do Mora Sul w celu zabicia Vazira oraz Azili. Musimy to zrobić między 22:00 a 07:00. Po wykonaniu zlecenia wracamy do Ugrasala, co kończy zadanie.
+
 ## Zakazana miłość
 __Zleca: Saida__
 
