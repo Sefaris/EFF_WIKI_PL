@@ -406,3 +406,21 @@ __Zleca: Strażnik pałacu__
 W pałacu Zubena możemy dać Sheimie Zew Nocy, co rozpoczyna zadanie. Po chwili zaczepi nas strażnik i zleci rozprowadzenie skrętów wśród wszystkich strażników w pałacu.
 
 Po rozdaniu Zewów Nocy wracamy do zleceniodawcy, co kończy zadanie.
+
+## Pierścień niewolnika
+__Zleca: Zaira__
+
+Zaira zleca nam wykradzenie jej pierścienia ze skarbca Zubena. Mamy dwa sposoby rozwiązania zadania"
+
+- Możemy ukraść klucz Zubena i splądrować skarbiec. Przy wyjściu spotkamy Zubena, który pozwoli nam zachować łupy, ale w zamian odbierze nam 10 siły, 10 zręczności, 25 punktów życia oraz 10 many. Pierścień zanosimy do Zairy, która nagradza nas napojem potęgi oraz dużym eliksirem życia.
+
+- Drugą opcją jest rozmowa z Zubenem o niewolnicy, a następnie kradzież jego klucza i splądrowanie skarbca. Przy wyjściu ponownie spotykamy Zubena i wybieramy dialog „Tak, jeśli mogę spełnić prośbę, dlaczego miałbym odmówić?”. Podążamy za nim do niewolnicy. Po krótkiej scenie zostajemy ostrzeżeni. Pierścień przekazujemy Hanifie, która wręcza nam zwój. Ten zanosimy nocą do Ugrasala.
+
+## Zakazana miłość
+__Zleca: Saida__
+
+Zadanie dostępne po ukończeniu [Pierścień niewolnika](#Pierścień-niewolnika).
+
+Saida prosi nas o zorganizowanie spotkania z asasynem. Udajemy się do strażnika skarbca i przekupujemy go kwotą 10 000 sztuk złota.
+
+Następnie rozmawiamy z kochankiem niewolnicy między godziną 20:00 a 08:00 i kierujemy go do skarbca. Po wszystkim wracamy do Saidy, co kończy zadanie.
