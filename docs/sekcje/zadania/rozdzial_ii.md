@@ -387,3 +387,10 @@ Na końcu świątyni okradamy Yugula z klucza i zabieramy zawartość skrzyni. Z
 Kowal potrzebuje jeszcze dodatkowych składników: dwóch smoczych korzeni, zwoju z zaklęciem światła, lodowej bryły oraz rubinowego ostrza. Musimy także zanieść rzeczy Yugula do Delazara.
 
 Po zebraniu wszystkich składników wracamy do Svena. Następnego dnia odbieramy gotowy miecz, co kończy zadanie.
+
+## Dystrybucja bagiennego ziela
+__Zleca: Strażnik pałacu__
+
+W pałacu Zubena możemy dać Sheimie Zew Nocy, co rozpoczyna zadanie. Po chwili zaczepi nas strażnik i zleci rozprowadzenie skrętów wśród wszystkich strażników w pałacu.
+
+Po rozdaniu Zewów Nocy wracamy do zleceniodawcy, co kończy zadanie.
