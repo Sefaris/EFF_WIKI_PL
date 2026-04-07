@@ -372,3 +372,18 @@ Asasyn sugeruje, aby udać się na wzgórze i pozbyć się jaszczurów. Na miejs
 - „Jak ci mogę pomóc?” → Druid przekazuje nam zaklęcie, które musimy użyć przy górnej studni. W zależności od tego, ilu niewolników przeżyje, otrzymamy różne nagrody: jeśli wszyscy zginą to eliksir życia, jeśli ktoś przeżyje to napój potęgi, a jeśli przeżyją wszyscy to runę „Przyzwanie bestii”.
 
 Niezależnie od decyzji zadanie dobiega końca.
+
+## Wiatr północy
+__Zleca: Sven__
+
+Sven chce od nas 1000 bryłek rudy. Po ich przekazaniu spotykamy się z nim następnego dnia. Kowal zaprasza nas do swojego domu i zdradza, że chce stworzyć dla nas miecz, ale potrzebuje specjalnych surowców ze świątyni w Ben Sala.
+
+Udajemy się do Regulusa, który informuje nas, że potrzebne będą drabina oraz siatki. Znajdziemy je w kopalniach. Następnie wracamy do Svena i kierujemy się do Delazara. Mag wręcza nam amulet pozwalający przybrać postać nieumarłego.
+
+Z przygotowaniem możemy przystąpić do włamania do świątyni. Od tyłu ustawiamy drabinę i wspinamy się na górę. Zakładamy amulet od Delazara i przechodzimy na przód świątyni, gdzie nad wejściem rozkładamy siatki. Następnie schodzimy do środka.
+
+Na końcu świątyni okradamy Yugula z klucza i zabieramy zawartość skrzyni. Z łupem wracamy do Svena.
+
+Kowal potrzebuje jeszcze dodatkowych składników: dwóch smoczych korzeni, zwoju z zaklęciem światła, lodowej bryły oraz rubinowego ostrza. Musimy także zanieść rzeczy Yugula do Delazara.
+
+Po zebraniu wszystkich składników wracamy do Svena. Następnego dnia odbieramy gotowy miecz, co kończy zadanie.
