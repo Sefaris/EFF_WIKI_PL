@@ -327,6 +327,26 @@ Przy jednym z kaktusów natrafimy na ciało asasyna z dziwnym hełmem, który po
 ## Szpieg wśród koczowników
 __Zleca: Surus__
 
+Surus zleca nam odnalezienie koczownika, który zabił posłańca. Udajemy się do Delazara, który odprawia rytuał i informuje nas, że przed miastem czeka jego człowiek. Zaprowadzi nas on do celu.
+
+Na miejscu mamy kilka możliwości:
+
+- Pozwalamy szkieletowi zabić koczownika i wracamy do Delazara. Zadanie kończy się, a w nagrodę otrzymujemy runę „Czarna Mgła”.
+
+- Możemy też pokonać szkieleta i uratować koczownika. Onatas zleci nam odnalezienie swojego pierścienia, który może znajdować się w jednej z czterech losowych lokacji. Szukamy go w pobliżu kaktusów.
+
+Po znalezieniu pierścienia mamy wybór:
+
+Oddajemy go właścicielowi. Onatas znika, a Delazar jest niezadowolony i zabiera nam 30 punktów maksymalnego zdrowia.
+
+Zakładamy pierścień. Zostajemy przeniesieni do kryjówki koczowników. Na miejscu możemy zabić wszystkich wraz z Onatasem i wrócić do Delazara, otrzymując 1500 sztuk złota oraz napój potęgi. Możemy też porozmawiać z Haranem, który daje nam drugi pierścień dla Onatasa. Po jego przekazaniu ponownie przenosimy się do kryjówki.
+
+W rozmowie z Haranem możemy powiedzieć „Właśnie przybyłem z Kolonii.” i otrzymać zadanie [Ucieczka niewolników](#Ucieczka-niewolników) lub wybrać „Jestem żeglarzem z Myrtany.” i nie otrzymać zadania.
+
+Wracając do Delazara możemy poinformować go o kryjówce. Ten wyśle nas do Ugrasala, a następnie każe wrócić po zaklęcie. Kolejnego dnia spotykamy się z asasynami przed jaskinią koczowników, używamy zaklęcia i eliminujemy ich. Kobietę odprowadzamy do Delazara, otrzymując runę „Czarna Mgła”, napój władzy oraz 2500 sztuk złota.
+
+Jeśli zdecydujemy się współpracować z koczownikami, zadanie zostaje oznaczone jako niezaliczone.
+
 ## Studnie
 __Zleca: Muntasir__
 
