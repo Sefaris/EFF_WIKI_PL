@@ -330,7 +330,7 @@ Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. St
 
 Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
 
-## Ishtar
+## Ishtar i okolice
 
 ### Arena w Ishtar
 __Zleca: Kasim__
