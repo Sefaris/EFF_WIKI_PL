@@ -218,6 +218,17 @@ Jeśli wybierzemy drugą opcję, „rozmawiamy” z krokodylem, a następnie uda
 
 Po zdobyciu roślin karmimy nimi krokodyla, a następnie prowadzimy go do Rasula. Ten powie nam, że w pobliżu oazy Vahida znajduje się więcej krokodyli. Udajemy się tam razem z naszym podopiecznym, co kończy zadanie.
 
+### Koczownicy i dezerterzy
+__Zleca: Sinikar__
+
+Zadanie dostępne tylko jeśli w [Patrol](#Patrol) wsadziliśmy Aterasa teleportem do więzienia oraz pomogliśmy koczownikom w zadaniu [Osobliwy prezent](#Osobliwy-prezent) (lub sami zabiliśmy łowców głów).
+
+Sinikar prosi nas o uratowanie Aterasa z niewoli i wręcza nam zwój teleportacji, który przekazujemy Aterasowi. Następnie wracamy do Sinikara, gdzie trwają przygotowania do ataku na oazę.
+
+Rozmawiamy z Sinikarem, Redgem i Knutem, a następnie z Aterasem, gdy jesteśmy gotowi do rozpoczęcia wyzwolenia oazy z rąk asasynów.
+
+Po wyzwoleniu oazy zadanie zostaje zakończone.
+
 ## Bakaresh i okolice
 
 ### Wybrzeże Bakareshu
