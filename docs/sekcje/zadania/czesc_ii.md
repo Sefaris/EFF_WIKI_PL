@@ -266,6 +266,25 @@ Jeśli zaprowadzimy ją do koczowników, pojawi się dodatkowy wybór dialogowy:
 
 Niezależnie od wyboru zadanie dobiega końca.
 
+## Nieproszony gość
+__Zleca: Silvio__
+
+Zadanie dostępne po wykonaniu [Wybrzeże Bakareshu](#Wybrzeże-Bakareshu) oraz zaprowadzeniu niewolnicy do Carlosa w [Niewolnica na wolności](#Niewolnica-na-wolności).
+
+Silvio informuje nas, że na wybrzeżu widziano koczownika. Udajemy się na miejsce i rozmawiamy z nim, co stawia nas przed wyborem:
+
+- „Nie obchodzi mnie to. Przyszedłem, żeby się z tobą rozprawić.” → wówczas zabijamy koczownika, wracamy do Silvio i kończymy zadanie.
+
+- „W porządku, co sugerujesz?” → koczownik prosi nas o wyprowadzenie Taigety z miasta nocą. Wracamy do Silvio i okłamujemy go. Następnie między 00:00 a 04:30 rozmawiamy z niewolnicą i prowadzimy ją do koczownika.
+
+Ten zaprowadzi nas do Aterasa, gdzie stajemy przed kolejnym wyborem:
+
+- „Tak, pochodzę z Myrtany.” → wpływa na przebieg zadania [Patrol](#Patrol), nie dowiemy się, że niewolnica jest siostrą Mai i Merope.
+
+- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope, możemy ją zabrać do sióstr
+
+Niezależnie od wyboru zadanie dobiega końca.
+
 ## Patrol
 __Zleca: Ateras__
 
