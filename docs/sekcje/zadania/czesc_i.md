@@ -353,11 +353,13 @@ Lee poleci nam odnalezienie ostatniego tomu. Znajduje się on w kuźni w zamku, 
 Kolejne informacje zdobędziemy od Al-Shemali w ramach misji [Poszukiwania asasynów](#Poszukiwania-asasynów). Na końcu ponownie rozmawiamy z Regulusem, co kończy zadanie.
 
 ### Sekrety Obozu Bractwa
-__Zleca: ?__
+__Zleca: Gor Na Ran lub Baal Orun__
 
 Misja staje się dostępna po wykonaniu [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#zatrute-ziele). 
 
-Jeśli ukończyliśmy [Zaginiona siostra](#Zaginiona-siostra) oraz [Fatalne konsekwencje](#Fatalne-konsekwencje), możemy udać się do Mai, która pomoże nam z notatką i odeśle do Alrishy.
+Jeśli ukończyliśmy [Zaginiona siostra](#Zaginiona-siostra) oraz [Fatalne konsekwencje](#Fatalne-konsekwencje), możemy udać się do Mai, która pomoże nam z notatką i odeśle do Alrishy. 
+
+Alrisha pomoże nam jeśli robiliśmy [Zatrute ziele](#zatrute-ziele). W innym przypadku od Alrishy musimy iść do Antaresa, który nam wszystko opowie i wyśle do Regulusa. Po rozmowie z Regulusem idziemy do Altarfa.
 
 Alrisha odkrywa na notatce pieczęć Magów Ognia. W związku z tym udajemy się kolejno do Lee, następnie do Adelbera, który kieruje nas do Altarfa. Z Altarfem wyruszamy do Regulusa, jednak przy bramie zatrzymuje nas strażnik i pyta, kto zabił nowicjuszy. 
 
