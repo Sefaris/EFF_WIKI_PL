@@ -544,7 +544,7 @@ W jednej z jaskiń w pobliżu oazy natrafiamy na rabusiów i stajemy przed wybor
 
 - Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Murasem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#Zemsta).
 
-Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
+- Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
 
 Niezależnie od podjętej decyzji zadanie dobiega końca.
 
