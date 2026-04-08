@@ -1,4 +1,4 @@
-# Część 1 - Górnicza Dolina 
+<img width="236" height="703" alt="image" src="https://github.com/user-attachments/assets/9c81afc6-c696-4414-a495-d5e16f415da4" /># Część 1 - Górnicza Dolina 
 
 ## Ważne informacje!
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
@@ -8,7 +8,7 @@
 - za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii.
 - warto nauczyć się górnictwa od Swineya, może być przydatne w późniejszym etapie rozgrywki.
 
-## Moja własna ścieżka
+### Moja własna ścieżka
 __Zleca: Diego__
 
 W pierwszej rozmowie Diego mówi nam, że są osoby, które zdecydowały się wieść życie samotnika. Na Placu Wymian możemy spotkać śmiejących się strażników nad ciałem kopacza, który popełnił samobójstwo. Musimy go przeszukać i przeczytać notatkę z jego przemyśleniami.
@@ -17,12 +17,12 @@ Idąc dalej, możemy porozmawiać kolejno z Orrym, Maią, Ratfordem i Draxem. W 
 
 Ostatecznie, wykonując zadanie [Uprzejmy złodziej](#uprzejmy-złodziej), poznajemy Regulusa. Po rozmowie z nim misja zostaje zakończona. Dodatkowy wpis możemy uzyskać od Sadalsuuda, ale dopiero po dołączeniu do Regulusa.
 
-## Dziwna rzecz
+### Dziwna rzecz
 __Zleca: -__
 
 Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni możemy znaleźć fragment pancerza. Idąc dalej w górę drogi, przy wejściu do kopalni spotkamy Maię, której oddajemy fragment. Za przekazanie płytki otrzymamy nóż.
 
-## Zaginiona siostra
+### Zaginiona siostra
 __Zleca: Maia__
 
 Maia opowiada nam, że przybyła do Kolonii w poszukiwaniu swojej siostry. Pierwszą osobą, która może coś wiedzieć na ten temat, jest Gilbert (po wykonaniu zadania [Zioła nasenne](#zioła-nasenne)). Odsyła nas on do Gravo. Dodatkowo możemy wypytać strażników pilnujących przejścia na ziemie orków, wybierając opcję dialogową „Zaskoczyło mnie to…”.
@@ -37,7 +37,7 @@ W trakcie wykonywania misji [Droga do zamku](#droga-do-zamku) uwalniamy Meropę 
 
 Opcjonalnie możemy udać się do Gilberta po amulet odwagi. Warto także porozmawiać z Lee, a następnie z Aldebarem, który stoi przy drodze niedaleko Lewusa.
 
-## Uprzejmy złodziej
+### Uprzejmy złodziej
 __Zleca: Gor Na Drak__
 
 Przy obozowisku Draxa i Ratforda spotykamy Gor Na Draka, który został okradziony. Rozmawiamy z Draxem, który kieruje nas do Gilberta. Jeśli przyznamy się Gilbertowi, że przysłał nas Drax, otrzymamy dodatkowe zadanie ([Skóry dla Gilberta](#skóry-dla-gilberta)) oraz więcej informacji.
@@ -48,19 +48,19 @@ Po zebraniu informacji możemy udać się w stronę orkowej areny. Przed drzwiam
 
 Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości: oddać wyposażenie, skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone) lub powiedzieć, że Regulus został najemnikiem orków. Niezależnie od wyboru wracamy z informacją do Regulusa.
 
-## Mapy dla Ratforda
+### Mapy dla Ratforda
 __Zleca: Ratford__
 
 Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Grahama. Ewentualnie można mu zanieść mapę Saturasa. Mapa drogi do starej kopalni oraz mapa Y’beriona nie nadają się, ale zapewniają dodatkowe punkty doświadczenia.
 
-## Mapa orkowych terenów
+### Mapa orkowych terenów
 __Zleca: Graham__
 
 Zadanie można rozpocząć między godziną 12:00 a 15:00.
 
 Polega ono na podążaniu za Grahamem przez tereny orków. Po powrocie należy odczekać do następnego dnia, aby odebrać od Grahama mapę oraz nagrodę.
 
-## Dłużnik
+### Dłużnik
 __Zleca: Fletcher__
 
 Fletcher ma dług u Scatty’ego, który pomagamy mu spłacić. W tym celu udajemy się na bagna do Melvina i przekazujemy mu pozdrowienia od Fletchera. Na miejscu stajemy przed wyborem:
@@ -77,7 +77,7 @@ Choć lokalizacja skrzyni jest stała, złodziej zmienia się w zależności od 
 
 Po odzyskaniu broni wracamy do zleceniodawcy, kończąc zadanie.
 
-## Niespodziewany gość
+### Niespodziewany gość
 __Zleca: Nowicjusz__
 
 Obok Baal Cadara zaczepiają nas dwaj nowicjusze, którzy opowiadają o mężczyźnie zajmującym ich chatę. Znajdziemy go niedaleko chaty Caine. Po rozmowie zgodzi się ją opuścić, jednak musimy znaleźć mu nowe lokum. Odpowiednią opcją okaże się chata wskazana przez Guya w Starym Obozie. Informację przekazujemy Altarfowi, który przebywa w chacie obok Fortuno.
@@ -94,27 +94,27 @@ Na tym etapie zadanie rozgałęzia się na dwie ścieżki:
 
 Niezależnie od sytuacji, misja dobiega końca.
 
-## Atak węży błotnych
+### Atak węży błotnych
 __Zleca: Altarf__
 
 Altarf mówi nam, że błotne węże ostatnio pożarły kilku nowicjuszy. Po więcej informacji udajemy się do Baal Oruna, który kieruje nas do Gor Na Rana. Gor Na Ran prosi nas o dobicie rannego węża, którego znajdziemy na bagnach przy orkowej lampie. Na miejscu znajdujemy również martwych nowicjuszy oraz notatkę przy jednym z ciał. Czytamy ją, a następnie wracamy do Gor Na Rana i później do Baal Oruna, co kończy misję.
 
-## Zatrute ziele
+### Zatrute ziele
 __Zleca: Altarf__
 
 Altarf mówi nam, że w obozie pojawiło się szkodliwe bagienne ziele. Po więcej informacji udajemy się do Baal Oruna, który informuje nas, że jeden z nowicjuszy już zmarł przez to ziele. Jego ciało znajdziemy na bagnie w pobliżu orkowej lampy. Przeszukujemy je, zabieramy notatkę, czytamy ją, a następnie zanosimy do Baal Oruna, co kończy zadanie.
 
-## Skóry dla Gilberta
+### Skóry dla Gilberta
 __Zleca: Gilbert__
 
 Jeśli przyznamy się Gilbertowi, że Drax powiedział nam, gdzie go szukać, zleci nam przyniesienie 3 wilczych skór. Skóry możemy pozyskać z misji [Mapy dla Ratforda](#mapy-dla-ratforda) lub samodzielnie, polując na wilki (pamiętając o wcześniejszej nauce skórowania).
 
-## Zioła nasenne
+### Zioła nasenne
 __Zleca: Gilbert__
 
 Gilbert prosi nas o zaniesienie ziół dla Gravo. Po ich dostarczeniu otrzymujemy jedzenie dla Gilberta, które następnie mu odnosimy.
 
-## Banda Quentina
+### Banda Quentina
 __Zleca: Notatka szantażysty__
 
 Zabijając szantażystów na moście prowadzącym do Nowego Obozu, możemy zabrać z jednego z nich notatkę. Po jej przeczytaniu udajemy się do obozu Quentina, który zleca nam zaniesienie listu do kotła w Wolnej Kopalni dla Calasha.
@@ -125,19 +125,19 @@ Następnie udajemy się do Gilberta po duplikat klucza, który otrzymujemy bez p
 
 Na końcu wracamy do Quentina, aby zakończyć zadanie.
 
-## Zapracowana kobieta
+### Zapracowana kobieta
 __Zleca: Spika__
 
 Gdy tylko wejdziemy do Nowego Obozu, zagaduje nas Spika. Misja ma charakter czysto informacyjny i zostaje zakończona po wykonaniu wszystkich zadań dla niej.
 
-## Worki pszenicy
+### Worki pszenicy
 __Zleca: Spika__
 
 Spika zleca nam kradzież worków ze zbożem ze składowiska zamku w Starym Obozie. Dostaniemy się tam podczas misji [Droga do zamku](#droga-do-zamku). Zebrane worki należy odnieść do zleceniodawcy.
 
 Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci Esencji Siły.
 
-## Zamieszki na polu ryżowym
+### Zamieszki na polu ryżowym
 __Zleca: Spika__
 
 Jeśli spotkamy Spikę u Jeremiasza, zleci nam rozprawienie się z Ryżowym Księciem. W pierwszej kolejności rozmawiamy z Jeremiaszem, który odsyła nas do Horacego.
@@ -146,7 +146,7 @@ Po rozmowie z Horacym, udajemy się do Księcia. Po rozmowie z Ryżowym Księcie
 
 Po zwycięstwie rozmawiamy z Ryżowym Księciem i jego bandytami. Następnie wracamy do Spiki, a na końcu ponownie udajemy się do Horacego.
 
-## Bimber jak dawniej
+### Bimber jak dawniej
 __Zleca: Spika__
 
 Zadanie dostępne po ukończeniu [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
@@ -155,7 +155,7 @@ Jeśli spotkamy Spikę u Jeremiasza, poprosi nas o przyniesienie 15 alkojagód. 
 
 Po zebraniu roślin wracamy do zleceniodawcy. Następnie musimy odczekać 2 dni i ponownie porozmawiać ze Spiką.
 
-## Szpital polowy
+### Szpital polowy
 __Zleca: Spika__
 
 Jeśli spotkamy Spikę w szpitalu, zleci nam udanie się do Wolnej Kopalni. Tam najpierw rozmawiamy z Okylem, a następnie z Saifem.
@@ -172,14 +172,14 @@ Biegniemy za Spiką, zatrzymuje nas Jarvis, następnie rozmawiamy z nią przy Ai
 
 Niezależnie od wyboru, misja zostaje zakończona.
 
-## Naprawa młynów
+### Naprawa młynów
 __Zleca: Spika__
 
 Jeśli spotkamy Spikę przy młynach, zleci nam ich naprawę. W pierwszej kolejności należy wejść na oba młyny i pociągnąć za dźwignie. Następnie schodzimy na dół i rozmawiamy ze Spiką, która wyśle nas do Starej Kopalni po koło zębate.
 
 Lokacji koła zębatego jest 5 i każda jest wybierana losowo (kiedyś będzie mapa). Możemy również zapytać go o zębatkę, choć nie jest to konieczne. Po zdobyciu koła wracamy do Spiki i naprawiamy oba młyny.
 
-## Robotnik od zaraz
+### Robotnik od zaraz
 __Zleca: Spika__
 
 Jeśli spotkamy Spikę w wodnym młynie, poprosi nas o znalezienie rzemieślnika w Starym Obozie. Okazuje się, że odpowiednią osobą jest Kyle, jednak potrzebuje on narzędzi.
@@ -188,7 +188,7 @@ Aby je zdobyć, musimy ukraść klucz Bullitowi, a następnie otworzyć jego skr
 
 Następnie udajemy się do Nowego Obozu i rozmawiamy z Kylem oraz Spiką, co kończy zadanie.
 
-## Wsparcie dla biedoty
+### Wsparcie dla biedoty
 __Zleca: Spika__
 
 Jeśli spotkamy Spikę przy chatach zbieraczy między godziną 22:00 a 01:30, zleci nam zdobycie 100 sztuk mięsa oraz 70 wilczych skór.
@@ -202,7 +202,7 @@ Po dwóch dniach możemy odebrać od myśliwych dodatkowe 40 sztuk mięsa.
 
 Po zebraniu wymaganej ilości mięsa i skór zanosimy je Spice, co kończy zadanie.
 
-## Rozszerzenie działalności
+### Rozszerzenie działalności
 __Zleca: Spika__
 
 Jeśli obudzimy Spikę w wodnym młynie między godziną 01:30 a 04:00, zleci nam kolejne zadanie.
@@ -216,7 +216,7 @@ Po zdobyciu obu receptur zanosimy je do Jacko. Następnie odczekujemy 2 dni i po
 
 Po wypaleniu skręta rozmawiamy z Jacko i odbieramy paczkę, którą należy zanieść Spice, co kończy zadanie.
 
-## Najlepszy przyjaciel człowieka
+### Najlepszy przyjaciel człowieka
 __Zleca: Spika__
 
 Jeśli w misji [Szpital polowy](#szpital-polowy) zabijemy warga, będziemy musieli znaleźć dla Spiki nowego zwierzaka.
@@ -225,7 +225,7 @@ W wyznaczonym miejscu na mapie znajdziemy psa, któremu należy dać surowe mię
 
 ![piesek](fotki/piesek.png)
 
-## Starzec
+### Starzec
 __Zleca: Spika__
 
 Spika informuje nas, że ze szpitala zniknął starszy mężczyzna. Po więcej informacji udajemy się do Regulusa.
@@ -234,26 +234,26 @@ Dowiadujemy się od niego, że Sadalsuuda należy szukać w pobliżu zbiorników
 
 Mężczyznę znajdziemy na szczycie zatopionej wieży Xardasa. Po rozmowie z magiem wracamy do Spiki, co kończy zadanie.
 
-## Zbieracz Horacy
+### Zbieracz Horacy
 __Zleca: Horacy__
 
 Horacy, zbieracz ryżu z Nowego Obozu, może nauczyć nas, jak skuteczniej zadawać ciosy. Wykonanie tego zadania staje się dostępne dopiero w trakcie wykonywania [Zamieszki na polu ryżowym](#zamieszki-na-polu-ryżowym).
 
-## Nieprzespane noce
+### Nieprzespane noce
 __Zleca: Swiney__
 
 Swiney zleca nam pozbycie się rzadkiego ścierwojada, który zadomowił się w górach Wolnej Kopalni. Jego lokalizacja jest losowa. Na poniższej mapie zaznaczono cztery możliwe miejsca jego występowania. Po jego zabiciu i zebraniu mięsa wracamy do zleceniodawcy.
 
 ![wolnakopscier](fotki/wolnakopscier.png)
 
-## Broń Baloro
+### Broń Baloro
 __Zleca: Baloro__
 
 Regulus ostrzega nas przed Baloro, jednak mimo to możemy się do niego udać i przyjąć zadanie. Nie powinniśmy jednak oddawać mu przedmiotów z własnej kieszeni. Zamiast tego wracamy do Regulusa po odpowiednią paczkę. Po dostarczeniu jej Baloro informujemy o wszystkim Regulusa.
 
 Następnie możemy udać się do szpitala i spotkać Baloro w wychodku.
 
-## Bestia
+### Bestia
 __Zleca: Kaus__
 
 Podczas pierwszej rozmowy z Kausem opowiada nam on o tajemniczej bestii, którą widział tylko raz. Aby pomóc mu w polowaniu, musimy najpierw wykonać dla niego szereg zadań.
@@ -270,19 +270,19 @@ Kolejnym krokiem jest zdobycie dodatkowych 4 demonicznych grzybów oraz udanie s
 
 Jeśli dojdzie do walki z bestią i ją wygramy, a Kaus przeżyje, możemy odwiedzić go później w karczmie w Nowym Obozie. Dowiemy się tam, że został handlarzem i skupuje specjalne trofea. W tym momencie misja dobiega końca.
 
-## Stado ścierwojadów
+### Stado ścierwojadów
 __Zleca: Kaus__
 
 W lesie nad wybrzeżem, w okolicach Wieży Mgieł, możemy spotkać Kausa. Pierwszym zadaniem, jakie od niego otrzymamy, jest zabicie grupy ścierwojadów.
 
 Znajdziemy je niedaleko miejsca, w którym Nyras szukał kamienia ogniskującego. Po zabiciu bestii spotykamy się z Kausem przy północnej bramie Starego Obozu.
 
-## Dary natury
+### Dary natury
 __Zleca: Kaus__
 
 Kolejnym zadaniem od Kausa jest zebranie roślin z listy. Po ich zebraniu zanosimy je do obozu Aidana i przekazujemy Kausowi, co kończy etap zadania.
 
-## Zagrożenie na bagnach
+### Zagrożenie na bagnach
 __Zleca: Kaus__
 
 Kaus informuje nas, że w pobliżu obozu na bagnie pojawiły się wargi. Jest ich łącznie dziesięć, a ich przybliżone lokalizacje są zaznaczone na poniższej mapie.
@@ -291,7 +291,7 @@ Po wybiciu wszystkich i zebraniu skór udajemy się do Gor Na Totha po nagrodę,
 
 ![warg](fotki/warg.png)
 
-## Pijany ork
+### Pijany ork
 __Zleca: Kaus__
 
 Kaus opowiada nam historię o orku alkoholiku, którego musimy odnaleźć i ograbić z alkoholu. Lokacji orka jest łącznie 7 i są one wybierane losowo. Poniżej na mapie zaznaczono wszystkie możliwe miejsca jego występowania.
@@ -300,7 +300,7 @@ Po odnalezieniu, zabiciu i ograbieniu orka wracamy do Kausa, który przebywa u C
 
 ![pijak](fotki/pijak.png)
 
-## Rzadkie trofea
+### Rzadkie trofea
 __Zleca: Kaus__
 
 Kaus rzuca nam kolejne wyzwanie. Musimy zdobyć po pięć kłów trolla, rogów cieniostwora, języków ognistego jaszczura oraz kłów błotnego węża.
@@ -309,7 +309,7 @@ Trofea możemy ukraść orkom z namiotów lub zdobyć podczas polowań.
 
 Po zebraniu wymaganych przedmiotów zanosimy je do zleceniodawcy, który obecnie przebywa w karczmie na jeziorze w Nowym Obozie.
 
-## Magiczne monstrum
+### Magiczne monstrum
 __Zleca: Kaus__
 
 Naszym kolejnym zadaniem od Kausa jest znalezienie pewnego potwora. Lokacji jest łącznie 7 i są one wybierane losowo. Poniżej na mapie zaznaczono wszystkie możliwe miejsca jego występowania.
@@ -318,17 +318,17 @@ Po pokonaniu bestii i zebraniu trofeów wracamy do zleceniodawcy, który obecnie
 
 ![mutant](fotki/mutant.png)
 
-## List od Lee
+### List od Lee
 __Zleca: Lee__
 
 W momencie, w którym Lee mówi nam, gdzie szukać Regulusa, wręcza nam również list dla niego. Warto go przeczytać przed oddaniem. Po przekazaniu listu misja dobiega końca.
 
-## Nordmarczyk
+### Nordmarczyk
 __Zleca: Deneb__
 
 Za Wolną Kopalnią, wysoko w górach, spotykamy Deneba. Informację o jego odnalezieniu przekazujemy Lee, który wręcza nam zwój teleportacji. Zanosimy go Denebowi, a następnie wracamy do Lee, aby zakończyć misję.
 
-## Wolna Kopalnia
+### Wolna Kopalnia
 __Zleca: Regulus__
 
 W liście do Regulusa Lee wspomina o przełęczy nad Wolną Kopalnią. Najpierw musimy porozmawiać z Okylem.
@@ -341,7 +341,7 @@ Na końcu udajemy się do miejsca, w którym znaleźliśmy miecz, i rozmawiamy z
 
 ![wk](fotki/wk.png)
 
-## Lew Pustyni
+### Lew Pustyni
 __Zleca: Regulus__
 
 Zadanie rozpoczyna się po poznaniu Regulusa, a naszym celem jest zdobycie informacji na jego temat.
@@ -352,7 +352,7 @@ Lee poleci nam odnalezienie ostatniego tomu. Znajduje się on w kuźni w zamku, 
 
 Kolejne informacje zdobędziemy od Al-Shemali w ramach misji [Poszukiwania asasynów](#Poszukiwania-asasynów). Na końcu ponownie rozmawiamy z Regulusem, co kończy zadanie.
 
-## Sekrety Obozu Bractwa
+### Sekrety Obozu Bractwa
 __Zleca: ?__
 
 Misja staje się dostępna po wykonaniu [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#zatrute-ziele). 
@@ -367,17 +367,17 @@ Po rozmowie musimy jak najszybciej dotrzeć do Regulusa. Na miejscu rozmawiamy z
 
 Jeśli oddaliśmy już list Magom Ognia, będziemy musieli wykraść go z kieszeni Coristo. Następnie zanosimy list na bagna, przekazujemy go strażnikowi bramy i idziemy do Angara. Jeśli natomiast nadal go posiadamy, możemy od razu udać się do świrów. Po rozmowie z Cor Angarem misja dobiega końca.
 
-## Spokojne miejsce
+### Spokojne miejsce
 __Zleca: Altarf__
 
 Altarf chce zamieszkać u Cavalorna w magazynie, więc udajemy się do właściciela z prośbą o zgodę. Cavalorn przystaje na to bez problemu. Następnie zaprowadzamy Altarfa do magazynu i odczekujemy kilka dni. Po tym czasie rozmawiamy z Cavalornem, a następnie z Altarfem, co kończy misję.
 
-## Plan Altarfa
+### Plan Altarfa
 __Zleca: Altarf__
 
 Altarf prosi nas o zaniesienie listu do Lee. Po dostarczeniu go wracamy do zleceniodawcy, co kończy zadanie.
 
-## Szpieg w Bractwie
+### Szpieg w Bractwie
 __Zleca: Cor Angar__
 
 Cor Angar prosi nas o odnalezienie szpiega ze Starego Obozu. Aby poznać jego tożsamość, musimy najpierw wykonać misję [Szpieg](#Szpieg). Istnieje kilka sposobów rozprawienia się z Bloodwynem:
@@ -389,7 +389,7 @@ Cor Angar prosi nas o odnalezienie szpiega ze Starego Obozu. Aby poznać jego to
 
 Niezależnie od wybranej metody, po pozbyciu się Bloodwyna wracamy do Cor Angara.
 
-## Infiltrator
+### Infiltrator
 __Zleca: Świstak__
 
 Zadanie rozpoczyna się po nocnym spotkaniu ze Świstakiem w ramach misji [Zaginiona siostra](#zaginiona-siostra).
@@ -400,15 +400,15 @@ Po rozmowie z nimi udajemy się do Lee, który wskazuje nam Okyla. Ten z kolei k
 
 Regulusa spotkamy podczas wykonywania zadania [Uprzejmy złodziej](#uprzejmy-złodziej), w tym momencie misja zostaje zakończona.
 
-## Zazdrośnik
+### Zazdrośnik
 __Zleca: Kosa__
 
 Podczas wykonywania zadania [Infiltrator](#Infiltrator) możemy powiedzieć Kosie „Muszę dostać się do zamku.”, co rozpocznie to zadanie. Ukończyć je możemy dopiero po przyprowadzeniu do niego Meropy w ramach misji [Fatalne konsekwencje](#Fatalne-konsekwencje).
 
-## List ze świata zewnętrznego
+### List ze świata zewnętrznego
 __Zleca: -__
 
-## Zaginieni w górach
+### Zaginieni w górach
 __Zleca:__
 
 Po sprowadzeniu Deneba do Lee dowiadujemy się, że musimy odnaleźć jego towarzyszy: Javiera, Korta oraz Rolanda. Najemnik pilnujący wejścia do siedziby Lee może przekazać nam informację o orku przebywającym w pobliżu Nowego Obozu. Orka znajdziemy w jaskini niedaleko mostu prowadzącego do Starej Kopalni. Po rozmowie z nim zaprowadzamy go do szpitala.
@@ -427,7 +427,7 @@ Po rozmowie z towarzyszami wracamy do siedziby Lee i rozmawiamy z nim. Ostatnim 
 
 Na końcu wracamy do Lee i rozmawiamy z Denebem, co kończy zadanie.
 
-## Droga do zamku
+### Droga do zamku
 __Zleca: Regulus__
 
 Regulus wyjaśnia nam, jak dostać się do zamku. Misję możemy rozpocząć dopiero po osiągnięciu co najmniej 10 poziomu doświadczenia.
@@ -446,17 +446,17 @@ Na jednym z pięter czeka nas walka z falami nieumarłych. Po ich pokonaniu oraz
 
 Na końcu spotykamy Antaresa. Po krótkiej rozmowie udajemy się wyżej, co kończy zadanie.
 
-## Alchemik
+### Alchemik
 __Zleca: Regulus__
 
 Zadanie rozpoczyna się podczas rozmowy z Regulusem na temat Antaresa, a kończy po rozmowie z alchemikiem.
 
-## Złoto dla Regulusa
+### Złoto dla Regulusa
 __Zleca: Regulus__
 
 Regulus zleca nam zdobycie 20 000 sztuk złota, które znajdują się w skrzyniach w wieży. Podczas wykonywania misji [Droga do zamku](#droga-do-zamku) możemy zebrać wymaganą ilość i następnie przekazać ją zleceniodawcy.
 
-## Misja ratunkowa
+### Misja ratunkowa
 __Zleca: Regulus__
 
 Zadanie można wykonać podczas wykonywania misji [Droga do zamku](#droga-do-zamku).
@@ -471,14 +471,14 @@ Następnie przekazujemy im pierścień oraz runę teleportacji do Regulusa.
 
 Po spotkaniu u Regulusa zadanie zostaje zakończone.
 
-## Runa Regulusa
+### Runa Regulusa
 __Zleca: Regulus__
 
 Po rozmowie z Regulusem na temat dostania się do zamku Magnatów zostaniemy zapytani o powód naszej wyprawy. Jeśli wybierzemy opcję dialogową „Muszę kogoś stamtąd wydostać”, a następnie „W wieży zamknięto kobietę…”, otrzymamy od niego runę teleportacji.
 
 Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
-## Fatalne konsekwencje
+### Fatalne konsekwencje
 __Zleca: Maia__
 
 Aby pomóc Meropie z efektami izolacji, musimy udać się do Spiki. Ta chce spotkać się z nami wieczorem w jej wodnym młynie. Nie otrzymujemy od niej wielu informacji. Znacznie więcej dowiadujemy się od Antaresa po wykonaniu zadania [Miłość aż po grób](#Miłość-aż-po-grób). Alrishe możemy znaleźć w podwodnej jaskini w pobliżu zatopionej wieży Xardasa.
@@ -499,7 +499,7 @@ Alrisha udaje się do Regulusa. Leczenie trwa 5 dni. Po jego zakończeniu prowad
 
 Wybór **„Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”** oraz **„Spika przesyła Ci pozdrowienia.”** odblokowuje zadanie [Duchy przyszłości](#Duchy-przyszłości).
 
-## Duchy przyszłości
+### Duchy przyszłości
 __Zleca: Alrisha__
 
 Po zaprowadzeniu Meropy do Kosy, w szpitalu zaczepia nas Alrisha i mówi, że chce spotkać się na wieży strażniczej. Musimy pojawić się tam około północy. Następnie prowadzimy ją do swojej chaty, po czym teleportuje się z powrotem na wieżę. Wracamy tam, przekazujemy jej 10 butelek wina oraz 10 Mroków Północy.
@@ -510,7 +510,7 @@ Z kamieniem wracamy do Myxira, czekamy jeden dzień i odbieramy runę. Następni
 
 Naszym pierwszym celem jest odnalezienie Alrishy, która znajduje się na poddaszu w chacie Ryżowego Księcia. Następnie udajemy się w głąb obozu i zabijamy smoka. Po splądrowaniu jego skarbu wracamy do Alrishy, która wręcza nam miksturę pozwalającą się wybudzić.
 
-## Dezerter
+### Dezerter
 __Zleca: Świstak__
 
 Po incydencie w zamku Świstak chce dołączyć do Nowego Obozu. Udajemy się więc do Laresa i prosimy go o zgodę, którą otrzymujemy.
@@ -527,7 +527,7 @@ W tym momencie możemy udać się razem ze Świstakiem do Nowego Obozu. Jeśli p
 
 Po spotkaniu Świstaka u Laresa zadanie dobiega końca.
 
-## Alarm w Starym Obozie
+### Alarm w Starym Obozie
 __Zleca: Strażnik bramy__
 
 Nasza wycieczka do zamku wywołała spore zamieszanie w Starym Obozie. Najpierw musimy porozmawiać z Siekaczem, który zajął miejsce Thorusa, a następnie z Fiskiem w jego magazynie.
@@ -540,7 +540,7 @@ Rączka znajduje się w kuchni, Zły przebywa w lochach, Dexter jest w pomieszcz
 
 Po rozmowie z nimi wracamy do Thorusa i kończymy zadanie.
 
-## Zaginiony brat
+### Zaginiony brat
 __Zleca: Pollux__
 
 Na jednej z wież w Starej Cytadeli możemy spotkać Polluxa, który chce odnaleźć swojego brata, Kastora. W tym celu każe nam porozmawiać ze Skorpionem. Do zamku dostaniemy się w trakcie wykonywania zadania [Alarm w Starym Obozie](#alarm-w-starym-obozie).
@@ -565,14 +565,14 @@ Na miejscu rozmawiamy z Drago, a następnie z Corristo. Korzystając ze zwoju te
 
 Po rozmowie z nim udajemy się do karczmy w Nowym Obozie. Na górnym piętrze rozmawiamy z Kastorem (wybory dialogowe nie mają większego znaczenia). Po tej rozmowie zadanie dobiega końca.
 
-## Ruda dla magów
+### Ruda dla magów
 __Zleca: Milten__
 
 Zadanie dostępne tylko wtedy, gdy podczas wykonywania misji [Zaginiony brat](#zaginiony-brat) odpowiedzieliśmy Miltenowi: „Skąd mam to wiedzieć?”.
 
 Naszym celem jest udanie się do Węża w Starej Kopalni po paczkę ze sztabkami rudy, a następnie zaniesienie jej do Miltena, co kończy zadanie.
 
-## Z dala od gapiów
+### Z dala od gapiów
 __Zleca: Aldebar__
 
 Zadanie dostępne po wykonaniu [Zaginiona siostra](#Zaginiona-siostra) i rozmowie z Lee.
@@ -587,7 +587,7 @@ Opcjonalnie możemy odnaleźć pozostawiony przez niego prezent. Runę oraz zwó
 
 Następnie udajemy się do biblioteki Magów Wody, aby porozmawiać z Aldebarem. Ostatecznie kierujemy się do zatopionej wieży Xardasa. Po spotkaniu z Antaresem misja dobiega końca.
 
-## Miłość aż po grób 
+### Miłość aż po grób 
 __Zleca: Zombie w Opuszczonej Kopalni__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) w Wolnej Kopalni spotykamy nieumarłego. Aby mu pomóc, musimy odnaleźć Antaresa i spotkać się z nim przed Opuszczoną Kopalnią. Po wejściu do środka prowadzimy Antaresa do zombie, gdzie opowiada nam o swoim planie.
@@ -598,12 +598,12 @@ Po doprowadzeniu Bliźny do Antaresa używamy na nim kolejnego zaklęcia, przez 
 
 Po udanym rytuale wychodzimy z kopalni. Przed wejściem rozmawiamy z Antaresem i Carlenem, co kończy misję.
 
-## Problemy w Wolnej Kopalni
+### Problemy w Wolnej Kopalni
 __Zleca: Acrux__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do Wolnej Kopalni, w której pojawia się problem z pełzaczami. Musimy odnaleźć i zabić królową pełzaczy. Po jej pokonaniu wracamy do Gacruxa, co kończy zadanie.
 
-## Pancerz dla samotnika
+### Pancerz dla samotnika
 __Zleca: Regulus__
 
 Po dołączeniu do Regulusa musimy zdobyć dla siebie pancerz. W tym celu udajemy się do obozu sekciarzy i rozmawiamy ze Shratem. Ten wspomina o Gor Na Tothu, któremu musimy wykraść klucz do magazynu.
@@ -616,7 +616,7 @@ Regulus może ulepszyć ten pancerz oraz wykonać hełm, jeśli dostarczymy mu 1
 
 Po dostarczeniu płytek musimy odczekać jeden dzień, a następnie odebrać gotowe wyposażenie od Regulusa, co kończy zadanie.
 
-## Konkurencja
+### Konkurencja
 __Zleca: Shrat__
 
 Po spotkaniu ze Shratem w karczmie na jeziorze udajemy się razem do laboratorium Jacko. Rozmawiamy z nim, odbieramy ziele od Shrata i ponownie rozmawiamy z Jacko. Następnie wracamy na spotkanie ze Shratem do karczmy.
@@ -625,7 +625,7 @@ Kolejnym krokiem jest zdobycie zbroi nowicjusza, którą znajdziemy w jaskini z 
 
 Z kompletem przedmiotów udajemy się do Bartholo. Dla maksymalnego zysku warto powiedzieć mu, że w paczce znajduje się 200 sztuk. Po wszystkim wracamy do Shrata, co kończy zadanie.
 
-## Szpieg
+### Szpieg
 __Zleca: Świstak__
 
 Świstak w Nowym Obozie informuje nas, że Gomez wysłał kogoś na zwiad. W związku z tym udajemy się kolejno do Spiki, a następnie do Horacego, który kieruje nas do chatek rybackich. Na miejscu znajdujemy dziwną rybę, w której ukryta jest notatka. Po jej przeczytaniu wracamy do Horacego, a ten odsyła nas do Rufusa. Warto też zagadać do Pocka.
@@ -644,7 +644,7 @@ Przed wejściem ponownie zatrzyma nas Roscoe. Informuje, że Pock nas szuka. Idz
 
 Lee zgadza się przyjąć Arto, więc udajemy się do karczmy, aby go o tym poinformować. W tym momencie misja dobiega końca.
 
-## Poszukiwania asasyna
+### Poszukiwania asasyna
 __Zleca: Arto__
 
 Arto opowiada nam o obawach Magnatów dotyczących asasynów. W związku z tym udajemy się do Thorusa, który prosi o spotkanie nocą (między 22:00 a 08:00) w zamkowej kuchni. Po rozmowie kierujemy się do Cavalorna.
@@ -653,7 +653,7 @@ Cavalorn informuje nas, że coś wydarzyło się w pobliskim obozie myśliwskim.
 
 Następnie musimy odnaleźć dwóch asasynów. Pierwszego znajdziemy w podwodnej jaskini obok północnej bramy Starego Obozu. Po rozmowie sam uda się do Regulusa. Drugiego odnajdziemy, kierując się od bramy obozu na bagnie w stronę polany z jaszczurami. Znajduje się po lewej stronie, we wnęce blisko rzeki, Rozmawiamy z nim, a następnie prowadzimy go do kryjówki Regulusa, co kończy zadanie.
 
-## Polowanie z Hamalem
+### Polowanie z Hamalem
 __Zleca: Hamal__
 
 Spotykając Hamala obok Cor Angara, możemy udać się z nim na wspólne polowanie.
@@ -662,14 +662,14 @@ Najpierw wyruszamy na bagna, gdzie eliminujemy węże błotne. Po ich wybiciu ro
 
 Następnie udajemy się dalej, gdzie musimy rozprawić się z trollami, a potem kierujemy się na plażę. Z plaży wyruszamy do jaskini pod Wieżą Mgieł. Na miejscu eliminujemy szkielety i czytamy Chromanin, co kończy zadanie.
 
-## Nieznajomy
+### Nieznajomy
 __Zleca: -__
 
 Chromaniny najlepiej zbierać podczas wyprawy z Hamalem. Ich lokalizacje są takie same jak w niezmodowanej wersji gry. Po zebraniu wszystkich sześciu części i ich przeczytaniu musimy pokonać hordę nieumarłych.
 
 Następnie Hamal poleci nam przyprowadzić Al-Shemaliego. Po doprowadzeniu go na miejsce wspólnie przeprowadzamy rytuał, po którym zadanie dobiega końca.
 
-## Mroczne rytuały
+### Mroczne rytuały
 __Zleca: -__
 
 Po zakończeniu rytuału spotykamy się z asasynami na wieży obok miasta orków, a następnie udajemy się przed most prowadzący do miasta. Po przemianie rozmawiamy z Hamalem i podążamy za Al-Shemalim. W jaskiniach orków ponownie z nim rozmawiamy.
@@ -690,7 +690,7 @@ Wracamy na bagna i rozmawiamy z Al-Shemalim, po czym udajemy się do Tondrala. P
 
 Po powrocie do Hamala nasi towarzysze zostają zamienieni w kamień. Używamy rogu i stajemy do walki z Algolą. Po jej pokonaniu i rozmowie z asasynami zadanie dobiega końca.
 
-## Czas na zmiany
+### Czas na zmiany
 __Zleca: Lee__
 
 Misja dostępna po wykonaniu zadań: [Niespodziewany gość](#Niespodziewany-gość), [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#Zatrute-ziele), [Sekrety Obozu Bractwa](#Sekrety-Obozu-Bractwa), [Plan Altarfa](#Plan-Altarfa), poprawnym ukończeniu [Szpieg](Szpieg), [Z dala od gapiów](#Z-dala-od-gapiów), [Zaginieni w górach](#Zaginieni-w-góach), [Misja ratunkowa](#Misja-ratunkowa) oraz [Wolna Kopalnia](#Wolna-Kopalnia). Wymagane jest także poznanie Regulusa.
@@ -723,19 +723,19 @@ Rezygnujemy z zadania, misja kończy się niepowodzeniem.
 
 Niezależnie od wybranego planu, po jego realizacji zadanie dobiega końca.
 
-## Jaskinie w kolonii
+### Jaskinie w kolonii
 
 __Zleca: Regulus__
 
 Regulus zleca nam sprawdzenie jaskiń w Kolonii i wręcza w tym celu mapę. Naszym zadaniem jest splądrowanie wszystkich wskazanych jaskiń, a następnie powrót do zleceniodawcy.
 
-## Strażnicy grobowców
+### Strażnicy grobowców
 
 __Zleca: -__
 
 Podczas wykonywania zadania [Jaskinie w Kolonii](#Jaskinie-w-Kolonii) natkniemy się na nieumarłych orków. Po ich pokonaniu wracamy do Regulusa.
 
-## Orkowe lekarstwo
+### Orkowe lekarstwo
 
 __Zleca: Nieumarły ork kapłan__
 
@@ -745,7 +745,7 @@ Po wykonaniu tego zadania wracamy do Ur-Shaka, który wręcza nam odpowiednią m
 
 Na końcu wracamy do Regulusa, co kończy zadanie. Opcjonalnie możemy jeszcze wrócić do Ur-Shaka.
 
-## Cmentarzysko Orków
+### Cmentarzysko Orków
 
 __Zleca: Regulus__
 
@@ -762,7 +762,7 @@ Udając się na górne piętro, spotykamy Varrag-Nag-Daha. Po rozmowie z nim wra
 
 Po opuszczeniu cmentarzyska zadanie dobiega końca. Pozostaje wrócić do kryjówki Regulusa.
 
-## Orkowy pancerz
+### Orkowy pancerz
 __Zleca: Regulus__
 
 Regulus ustalił, w jaki sposób może przywrócić znaleziony przez nas pancerz do świetności. Potrzebuje do tego dziesięciu bryłek złota, srebra, rudy żelaza oraz czarnej rudy.
@@ -771,14 +771,14 @@ W tym celu udajemy się do Deneba i otwieramy jego skrzynię, z której zabieram
 
 Po dwóch dniach zgłaszamy się po gotowy pancerz. Możemy wybrać jego właściwości: pokrycie złotem zwiększa ochronę przed ogniem, natomiast srebrem przed magią. Po dokonaniu wyboru otrzymujemy pancerz, co kończy zadanie.
 
-## Plany Obozu Bractwa
+### Plany Obozu Bractwa
 __Zleca: Regulus__
 
 Musimy poznać plany sekciarzy, dlatego udajemy się do Lestera. Opowiada nam o Nyrasie, który wyruszył po kamień ogniskujący.
 
 Odnajdujemy Nyrasa i podczas rozmowy mamy wybór: możemy go zaatakować lub wybrać drugą opcję i wykraść kamień bez zabijania go. Po zdobyciu kamienia zanosimy go do Regulusa, co kończy zadanie.
 
-## Tajemnica kamieni ogniskujących
+### Tajemnica kamieni ogniskujących
 __Zleca: Regulus__
 
 Wraz z Regulusem musimy odnaleźć cztery kamienie ogniskujące. Do każdej lokacji możemy udać się samodzielnie, poprosić Regulusa o poprowadzenie lub samemu pełnić rolę przewodnika.
@@ -793,12 +793,12 @@ Ostatnim miejscem jest górska forteca. Spotykamy się z Regulusem przed mostem 
 
 Po zebraniu wszystkich kamieni informujemy o tym Regulusa i spotykamy się z nim w jego kryjówce.
 
-## Almanach dla Regulusa
+### Almanach dla Regulusa
 __Zleca: Regulus__
 
 Musimy zdobyć Almanach dla Regulusa od Magów Ognia. W tym celu udajemy się do Corristo, który informuje nas, że Cor Kalom już wykupił księgę. Przy okazji zapyta nas, czy rozważamy ucieczkę przy pomocy planu Magów Wody. Możemy odpowiedzieć „Tak” lub „Nie”. Jeśli wcześniej dostarczyliśmy list do Miltena, pojawi się dodatkowa opcja dialogowa: „Wszystko jest o wiele bardziej skomplikowane niż się wydaje”, dzięki której możemy powiedzieć prawdę o Śniącym.
 
 Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzącym do siedliska goblinów spotykamy Talasa i z nim rozmawiamy. Następnie eliminujemy gobliny, odnajdujemy Almanach i zanosimy go do Regulusa, co kończy zadanie.
 
-## Ucieczka do wolności
+### Ucieczka do wolności
 __Zleca: Regulus__
