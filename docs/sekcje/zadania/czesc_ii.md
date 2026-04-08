@@ -344,6 +344,19 @@ Surus prosi nas o zdobycie 5 butelek soku z kaktusa. W okolicach Ishtar znajdzie
 
 Przy jednym z kaktusów natrafimy na ciało asasyna z dziwnym hełmem, który powinniśmy pokazać Surusowi. Po dostarczeniu wymaganych butelek zadanie dobiega końca.
 
+## Silna wola
+__Zleca: Emet__
+
+Emet prosi nas o przyniesienie paczki z bagiennym zielem, którą posiada Muntazir. W jego domu znajdujemy list. Po przeczytaniu udajemy się do Emeta.
+
+Emet wspomina o asasynie kręcącym się w pobliżu domu Delazara. Musimy ukraść mu notatkę. Następnie kradniemy Ugrasalowi klucz do skrzyni i udajemy się na mury miasta, gdzie po prawej stronie otwieramy wskazaną skrzynię.
+
+W środku znajdujemy trzy pierścienie teleportacyjne. Każdy z nich przenosi nas na inną wieżę strażniczą, gdzie musimy pokonać nieumarłego. Jeden z trupów posiada również paczkę z zielem.
+
+Z paczką wracamy do Ugrasala, który wysyła nas wraz z Emetem na wartę w jednej z wież. Podczas służby zauważamy grupę koczowników. Teleportujemy się do Ishtar i przekazujemy informacje Ugrasalowi.
+
+Teraz zbieramy bezimiennych asasynów i ruszamy rozprawić się z najeźdźcami. Po walce wracamy do Ugrasala, następnie do Emeta i ponownie do Ugrasala, co kończy zadanie.
+
 ## Szpieg wśród koczowników
 __Zleca: Surus__
 
