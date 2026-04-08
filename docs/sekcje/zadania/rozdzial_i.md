@@ -2,6 +2,7 @@
 
 ## Ważne informacje!
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
+- Nie zaleca się picia Esencji siły ani Esencji zręczności. W Varancie można nauczyć się wytwarzania z nich Napojów potęgi.
 - za zjedzenie 5 plastrów miodu dostaniemy +5PN
 - za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 - za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii
