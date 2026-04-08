@@ -144,6 +144,15 @@ Wracamy następnie do piedestału i przeprowadzamy rytuał. Po jego zakończeniu
 
 Na koniec wracamy do kryjówki Vardara, otwieramy skrzynię i z jej zawartością udajemy się do Julio, co kończy zadanie.
 
+## Niewolnicy z Lago
+__Zleca: Shakyor__
+
+Shakyor prosi nas o pomoc w uwolnieniu niewolników z kopalni w Lago. Udajemy się tam razem z nim i zabijamy dwóch strażników.
+
+Następnie rozmawiamy z niewolnikami i podążamy za Shakyorem. W trakcie ucieczki będziemy odpierać ataki asasynów.
+
+Ostateczna nagroda zależy od liczby ocalałych niewolników. Jeśli wszyscy zginą, otrzymamy Wyciąg ducha. Jeśli przeżyje przynajmniej jeden, dostaniemy Wyciąg życia. Jeśli wszyscy przeżyją, nagrodą będzie napój władzy.
+
 ## Paczka bagiennego ziela
 __Zleca: Vardar__
 
