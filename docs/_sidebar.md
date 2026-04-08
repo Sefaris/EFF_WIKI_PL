@@ -1,10 +1,7 @@
 - **Zadania**
-- [Część 1 - Górnicza Dolina](sekcje/zadania/rozdzial_i.md)
-- [Część 2 - Varant](sekcje/zadania/rozdzial_ii.md)
-- [Rozdział III](sekcje/zadania/rozdzial_iii.md)
-- [Rozdział IV](sekcje/zadania/rozdzial_iv.md)
-- [Rozdział V](sekcje/zadania/rozdzial_v.md)
-- [Rozdział VI](sekcje/zadania/rozdzial_vi.md)
+- [Część 1 - Górnicza Dolina](sekcje/zadania/czesc_i.md)
+- [Część 2 - Varant](sekcje/zadania/czesc_ii.md)
+- [Część 3 - Powrót do Kolonii](sekcje/zadania/czesc_iii.md)
 
 - **Linki**
 - [Instalacja](https://sefaris.eu/ucieczka-od-wolnosci/installation)
