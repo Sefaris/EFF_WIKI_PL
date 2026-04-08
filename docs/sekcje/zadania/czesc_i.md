@@ -361,7 +361,9 @@ Jeśli ukończyliśmy [Zaginiona siostra](#Zaginiona-siostra) oraz [Fatalne kons
 
 Alrisha pomoże nam jeśli robiliśmy [Zatrute ziele](#zatrute-ziele). W innym przypadku od Alrishy musimy iść do Antaresa, który nam wszystko opowie i wyśle do Regulusa. Po rozmowie z Regulusem idziemy do Altarfa.
 
-Alrisha odkrywa na notatce pieczęć Magów Ognia. W związku z tym udajemy się kolejno do Lee, następnie do Adelbera, który kieruje nas do Altarfa. Z Altarfem wyruszamy do Regulusa, jednak przy bramie zatrzymuje nas strażnik i pyta, kto zabił nowicjuszy. 
+Alrisha odkrywa na notatce pieczęć Magów Ognia. W związku z tym udajemy się kolejno do Lee, następnie do Adelbera, który kieruje nas do Altarfa. 
+
+Z Altarfem wyruszamy do Regulusa, jednak przy bramie zatrzymuje nas strażnik i pyta, kto zabił nowicjuszy. 
 
 Do wyboru mamy: „Magowie Ognia”, „Ktoś z byłej straży królewskiej” lub „Król” (opcja dostępna tylko, jeśli otworzyliśmy list i oddaliśmy Miltenowi).
 
