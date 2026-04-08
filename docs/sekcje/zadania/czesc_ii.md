@@ -133,7 +133,7 @@ Sugut zleca nam pozbycie się grupy koczowniczych rabusiów. Wychodząc z Ben Sa
 
 Nie warto ich eliminować. Lepiej wykonać [Niespodziewane spotkanie](#Niespodziewane-spotkanie).
 
-## Niespodziewane spotkanie
+### Niespodziewane spotkanie
 __Zleca: Cronos__
 
 Po rozmowie z Enzo o mieczu Adanosa, w jednej z jaskiń przy świątyni możemy spotkać Cronosa. Wyprowadzamy go na zewnątrz, a następnie udajemy się do Regulusa i razem wracamy do Cronosa.
