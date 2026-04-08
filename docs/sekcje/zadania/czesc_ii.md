@@ -532,3 +532,29 @@ Masil zleca nam odnalezienie karawany, która podróżowała z Ben Sali. Ciała 
 W środku czeka nas walka z ogrami. Po ich pokonaniu rozmawiamy z Rocko, któremu przekazujemy kamień teleportacji do Mora Sul.
 
 Następnie wracamy do Masila, co kończy zadanie. Warto również odzyskać kamień teleportacji od Rocko.
+
+## Oaza
+__Zleca: Hamid__
+
+Hamid wysyła nas do oazy, gdzie spotykamy Murata. Ten zleca nam odnalezienie swoich niewolników.
+
+W jednej z jaskiń w pobliżu oazy natrafiamy na rabusiów i stajemy przed wyborem sposobu rozwiązania sytuacji:
+
+- Możemy zaatakować, wybierając dialog „Jestem łowcą koczowników. Nadeszła pora się wami zająć.” → zabijamy koczowników, a niewolnice odprowadzamy do oazy. Następnie wracamy do Hamida, otrzymując 3000 sztuk złota oraz duży eliksir siły.
+
+- Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Murasem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#Zemsta).
+
+Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
+
+Niezależnie od podjętej decyzji zadanie dobiega końca.
+
+## Zemsta
+__Zleca: Bandaro__
+
+Bandaro przekazuje nam zlecenie od Murata. Udajemy się do jaskini w pobliżu oazy, gdzie eliminujemy koczowników.
+
+Następnie prowadzimy niewolnicę do Murata, jednak ten jej nie chce. Rozmawiamy więc z nią i zabieramy ją do naszego namiotu w Mora Sul, gdzie ponownie z nią rozmawiamy.
+
+Po wszystkim wracamy do Bandaro, co kończy zadanie.
+
+>Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
