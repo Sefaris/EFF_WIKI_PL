@@ -488,3 +488,24 @@ Podczas zadania [Najeźdźcy z Bakareshu](#Najeźdźcy-z-Bakareshu) możemy zdob
 Puchary możemy sprzedać następującym osobom: Ilja, Ismael, Hamid, Masil oraz Faesul.
 
 Po sprzedaniu wszystkich wracamy do Regulusa, co kończy zadanie.
+
+## Niecodzienny widok
+__Zleca: Bandaro__
+
+Bandaro mówi nam, że jego ludzie widzieli paladyna w pobliżu miasta. Okazuje się, że chodzi o Cruza. Udajemy się do niego z wiadomością.
+
+Cruz wręcza nam posążek Innosa, który pokazujemy Bandaro. Tym samym kończymy zadanie.
+
+## Naiwni złodzieje
+__Zleca: Bandaro__
+
+Bandaro opowiada nam o złodziejach, którzy okradli Ningala. Podczas eksploracji ruin Mora Sul natrafiamy na ośmiu asasynów. Eliminujemy ich i przeszukujemy ciała.
+
+Następnie wracamy do Bandaro, a potem do Ningala, co kończy zadanie.
+
+## Artefakt Adanosa
+__Zleca: Ningal__
+
+Zadanie dostępne po wykonaniu [Naiwni złodzieje](#Naiwni-złodzieje).
+
+Ningal zleca nam infiltrację świątyni w Mora Sul wraz z Ramirezem. Po zdobyciu Korony Adanosa wracamy do Ningala, co kończy zadanie.
