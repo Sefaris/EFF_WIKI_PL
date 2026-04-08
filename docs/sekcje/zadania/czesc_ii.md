@@ -509,3 +509,12 @@ __Zleca: Ningal__
 Zadanie dostępne po wykonaniu [Naiwni złodzieje](#Naiwni-złodzieje).
 
 Ningal zleca nam infiltrację świątyni w Mora Sul wraz z Ramirezem. Po zdobyciu Korony Adanosa wracamy do Ningala, co kończy zadanie.
+
+## Zaginiona karawana
+__Zleca: Masil__
+
+Masil zleca nam odnalezienie karawany, która podróżowała z Ben Sali. Ciała asasynów znajdziemy w pobliżu przejścia do Ben Sala. Obok znajduje się jaskinia, do której musimy wejść.
+
+W środku czeka nas walka z ogrami. Po ich pokonaniu rozmawiamy z Rocko, któremu przekazujemy kamień teleportacji do Mora Sul.
+
+Następnie wracamy do Masila, co kończy zadanie. Warto również odzyskać kamień teleportacji od Rocko.
