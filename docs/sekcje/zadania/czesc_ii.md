@@ -173,6 +173,11 @@ Po pokonaniu Mamuka na arenie proponuje nam on wspólne polowanie na pająki ska
 
 Niezależnie od wybranego kupca zadanie dobiega końca.
 
+## Dziwne sny Sibura
+__Zleca: Sibur Narad__
+
+Sibur prosi nas o dostarczenie skóry pustynnego cieniostwora. Po przyniesieniu trofeum zadanie dobiega końca.
+
 ## Ruiny Ben Sali
 __Zleca: -__
 
