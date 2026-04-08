@@ -1,4 +1,4 @@
-<img width="236" height="703" alt="image" src="https://github.com/user-attachments/assets/9c81afc6-c696-4414-a495-d5e16f415da4" /># Część 1 - Górnicza Dolina 
+# Część 1 - Górnicza Dolina 
 
 ## Ważne informacje!
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
