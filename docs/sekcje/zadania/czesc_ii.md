@@ -577,3 +577,30 @@ Następnie prowadzimy niewolnicę do Murata, jednak ten jej nie chce. Rozmawiamy
 Po wszystkim wracamy do Bandaro, co kończy zadanie.
 
 >Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
+
+## Arena w Mora Sul
+__Zleca: Felipe__
+
+Rozmawiamy z Felipe i przystępujemy do walk na arenie. Pokonujemy wszystkich przeciwników, łącznie z aktualnym mistrzem.
+
+Po pokonaniu mistrza, zadanie dobiega końca.
+
+## Przysługa dla kowala
+__Zleca: Ismael__
+
+Zadanie dostępne po przyniesieniu wódy z kaktusa dla Mufrida.
+
+Musimy odnaleźć człowieka, który miał dostarczyć rudę dla Ismaela. W jednej z piwnic w ruinach znajdujemy ciało asasyna. Przeszukujemy je i zdobywamy rudę.
+
+Z materiałem wracamy do Ismaela, co kończy zadanie.
+
+## Niosący śmierć
+__Zleca: Gonzales__
+
+Gonzales zleca nam wyeliminowanie początkującego Maga Wody w okolicach Ishtar. Znajdziemy go podczas zadania [Szpieg wśród koczowników](#Szpieg-wśród-koczowników).
+
+Możemy go zabić i wrócić z wieściami do Gonzalesa. W nagrodę otrzymamy 3000 sztuk złota, duży eliksir zręczności oraz elitarny pancerz asasyna.
+
+Alternatywnie możemy zdobyć kostur od Harana i zanieść go Gonzalesowi, za co otrzymamy 500 sztuk złota.
+
+Niezależnie od podjętej decyzji zadanie dobiega końca.
