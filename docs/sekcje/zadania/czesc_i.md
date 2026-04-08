@@ -699,7 +699,7 @@ Lee przystępuje do realizacji planu. Na początku musimy porozmawiać z Regulus
 
 - **„Zajmę się tym sam.”**
 
-Rozmawiamy z Chironem, a następnie spotykamy się z nim w kuchni w zamku. Naszym zadaniem jest zabicie Gomeza i Kruka tak, aby nikt tego nie zauważył. Możemy wykorzystać zwoje snu, wino oraz zaproszenie od niewolnicy dla strażnika. Warto też wygonić niewolnicę z sali Gomeza. Po udanej egzekucji zabieramy rzeczy Gomeza i teleportujemy jego ciało. Wracamy do Chirona, następnie do Lee, rozmawiamy z Arto i Carstenem i ponownie udajemy się do zamku na spotkanie z Chironem.
+Po rozmowie z Chironem ponownie udajemy się do niego. Znajdziemy go w kuchni zamkowej Starego Obozu, w kominie. Gdy wybije północ, rozmawiamy z Sirą. Otrzymamy od niej list, który pozwoli odwrócić uwagę jednego ze strażników. Następnie wykradamy Bartholo klucze do jego pokoju oraz wieży zamkowej. Trzeba to zrobić przed 00:50, zanim pójdzie spać. Pierwszemu strażnikowi przy komnacie Bartholo dajemy list od Siry i czekamy, aż odejdzie. Drugiemu podajemy wino od Chirona. Otwieramy drzwi do komnaty Bartholo. Najlepiej zrobić to, gdy stoi do nas plecami. Jeśli nas zauważy, wycofujemy się i próbujemy ponownie. Następnie wyprowadzamy Serafię z sali tronowej Gomeza. Używamy zwojów snu w dialogu na kucharzu Balamie oraz strażniku w zbrojowni. Teraz możemy zabić Gomeza. Po wykonaniu zadania ograbiamy ciało i teleportujemy je przy użyciu pierścienia. Kolejnym celem jest Kruk w swojej komnacie. Postępujemy z nim dokładnie tak jak z Gomezem. Na koniec wracamy niepostrzeżenie do Chirona, przechodząc przez pokój Bartholo i wieżę zamkową.
 
 - **„Plan Regulusa.”**
 
