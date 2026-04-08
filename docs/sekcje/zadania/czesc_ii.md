@@ -479,3 +479,12 @@ Przeklęty Starożytny Kapłan prosi nas o przyniesienie zwoju ze skarbca Zubena
 Następnie udajemy się do Regulusa w pałacu Zubena. Po rozmowie kierujemy się do Ben Sali, a stamtąd do świątyni.
 
 Przed wejściem spotykamy Basira, który otwiera świątynię i wchodzi do środka. My musimy uciekać, a zadanie dobiega końca.
+
+## Puchary dusz
+__Zleca: Regulus__
+
+Podczas zadania [Najeźdźcy z Bakareshu](#Najeźdźcy-z-Bakareshu) możemy zdobyć 5 Pucharów Duszy. W Mora Sul rozmawiamy o nich z Regulusem, który sugeruje, aby sprzedać je lokalnym kupcom.
+
+Puchary możemy sprzedać następującym osobom: Ilja, Ismael, Hamid, Masil oraz Faesul.
+
+Po sprzedaniu wszystkich wracamy do Regulusa, co kończy zadanie.
