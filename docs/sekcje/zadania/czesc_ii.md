@@ -341,6 +341,13 @@ Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. St
 
 Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
 
+### Proste przyjemności
+__Zleca: Murak__
+
+Murak, niewolnik ze świątyni, prosi nas o przyniesienie 20 kawałków pieczonego mięsa, 20 jabłek, bananów i gruszek, 5 butelek wódy z kaktusa oraz 3 paczek broni. Paczki broni znajdziemy w namiotach obok Silvio.
+
+Po zebraniu wszystkich przedmiotów wracamy do Muraka, co kończy zadanie.
+
 ## Ishtar i okolice
 
 ### Arena w Ishtar
