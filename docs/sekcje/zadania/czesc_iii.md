@@ -30,7 +30,9 @@ W tym momencie mamy wybór:
 
 - Możemy spróbować odesłać Maię do Regulusa, jeśli posiadamy pierścień lub runę teleportacji. Sami również udajemy się do Regulusa i odzyskujemy pierścień od Mai. Spotykamy się z nim przy wieży Xardasa obok powalonego drzewa. Następnie prowadzimy go do miejsca, z którego widać roślinę. Regulus zleca nam zadanie [Ulu-Mulu dla Regulusa](#Ulu-Mulu-dla-Regulusa). Po jego wykonaniu spotykamy się ponownie przy wieży obok wioski orków i kontynuujemy wątek [Wioska orków](#Wioska-orków) aż do otwarcia bramy. Regulus pokazuje nam drogę do rośliny. Po jej zdobyciu wracamy do Riordiana. Spika wraca do zdrowia.
 
-- Drugą opcją jest znalezienie pierścienia teleportacji. Nurkujemy przy zatopionej wieży i odnajdujemy go. Wracamy do miejsca, gdzie była Maia, znajdujemy kość i udajemy się do Regulusa. Spotykamy się z nim przy wieży Xardasa i prowadzimy go do miejsca z rośliną. Po rozmowie ruszamy za nim, pokonujemy golemy i wchodzimy do wieży. Regulus wysyła nas do Sharky’ego po solidny topór. Po jego zdobyciu wracamy, Regulus ścina drzewo i wchodzimy do wieży. W wieży schodzimy niżej i stajemy przed wyborem:
+- Drugą opcją jest znalezienie pierścienia teleportacji. Nurkujemy przy zatopionej wieży i odnajdujemy go. Wracamy do miejsca, gdzie była Maia, znajdujemy kość i udajemy się do Regulusa. Spotykamy się z nim przy wieży Xardasa i prowadzimy go do miejsca z rośliną. Po rozmowie ruszamy za nim, pokonujemy golemy i wchodzimy do wieży. Regulus wysyła nas do Sharky’ego po solidny topór. Po jego zdobyciu wracamy, Regulus ścina drzewo i wchodzimy do wieży. 
+
+W wieży schodzimy niżej i stajemy przed wyborem:
 
 - Możemy przemienić się w krwiopijcę i zdobyć roślinę. Po dostarczeniu jej Riordianowi Spika zostaje uratowana.
 
