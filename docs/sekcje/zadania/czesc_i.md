@@ -804,5 +804,9 @@ Musimy zdobyć Almanach dla Regulusa od Magów Ognia. W tym celu udajemy się do
 
 Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzącym do siedliska goblinów spotykamy Talasa i z nim rozmawiamy. Następnie eliminujemy gobliny, odnajdujemy Almanach i zanosimy go do Regulusa, co kończy zadanie.
 
-### Ucieczka do wolności
+### Ucieczka od wolności
 __Zleca: Regulus__
+
+Zaleca się zakończenie wszystkich rozpoczętych zadań przed jej rozpoczęciem. 
+
+Po przyniesieniu Almanachu musimy odczekać kilka dni i spotkać się z Regulusem. Ten chce przeprowadzić rytuał teleportacji, jednak coś go blokuje. Idziemy porozmawiać z golemem. Po rozmowie ponawiamy rytuał i wchodzimy w portal. Przenosimy się do Varantu. Po krótkiej rozmowie udajemy się do Ben Sali, gdzie spotykamy Julio. Następnie rozmawiamy z Regulusem, który wręcza nam kamień teleportacji do Ben Sali. Po dotarciu do Bakareshu i rozmowie z Benito otrzymujemy kolejny wpis. Po dotarciu do Ishtar z Regulusem i rozmowie z Zubenem otrzymujemy następny wpis. Następnie wraz z Regulusem udajemy się do Bakareshu, aby porozmawiać z Czarnymi Magami. Strażnik świątyni przepuszcza nas do środka, gdzie rozmawiamy z Tizgarem, a następnie z Sigmorem i Amulem. Po wejściu do wieży przygoda z Varantem dobiega końca, a wraz z nią ta misja.
