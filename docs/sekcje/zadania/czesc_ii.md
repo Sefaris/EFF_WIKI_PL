@@ -277,7 +277,7 @@ Jeśli zaprowadzimy ją do koczowników, pojawi się dodatkowy wybór dialogowy:
 
 - „Tak, pochodzę z Myrtany.” → wpływa na przebieg zadania [Patrol](#Patrol), nie dowiemy się, że niewolnica jest siostrą Mai i Merope.
 
-- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope, możemy ją zabrać do sióstr.
+- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope.
 
 Niezależnie od wyboru zadanie dobiega końca.
 
@@ -296,7 +296,7 @@ Ten zaprowadzi nas do Aterasa, gdzie stajemy przed kolejnym wyborem:
 
 - „Tak, pochodzę z Myrtany.” → wpływa na przebieg zadania [Patrol](#Patrol), nie dowiemy się, że niewolnica jest siostrą Mai i Merope.
 
-- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope, możemy ją zabrać do sióstr
+- „Nie, przychodzę z Kolonii.” → zmienia przebieg [Patrolu](#Patrol), dowiadujemy się, że niewolnica to siostra Mai i Merope.
 
 Niezależnie od wyboru zadanie dobiega końca.
 
