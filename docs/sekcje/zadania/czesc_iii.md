@@ -102,8 +102,32 @@ Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-
 ### Orkowe mikstury
 __Zleca: Ur-Arash__
 
+Musimy przynieść Wash-Kanowi 50 wyciągów oraz 50 eliksirów uzdrawiających. Znajdziemy go w pobliżu Varrag-Grash-Shata.
+
+Po dostarczeniu mikstur zadanie dobiega końca.
+
 ### Orkowa stal
 __Zleca: Ur-Arash__
 
+Hosh-Kar potrzebuje 50 sztuk stali.
+
+Po przyniesieniu wymaganej ilości zadanie zostaje zakończone.
+
 ### Sekta
 __Zleca: Ur-Arash__
+
+### Pomoc dla Y'beriona
+__Zleca: Cor Angar__
+
+Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'beriona](#Lecznice-zioła-dla-Y'beriona).
+
+### Lecznice zioła dla Y'beriona
+__Zleca: Cor Angar__
+
+Cor Angar prosi nas o przyniesienie ziół dla Y'beriona. Możemy po prostu je dostarczyć, jednak wtedy Y'berion umrze.
+
+Lepszym rozwiązaniem jest udanie się do Fortuno, którego znajdziemy w laboratorium Cor Kaloma. Opowie nam o specjalnej miksturze, do której potrzebna jest roślina o nazwie Mroczna Tajemnica.
+
+Po jej zdobyciu mamy dwie możliwości. Jeśli znamy się na alchemii, otrzymamy recepturę i sami warzymy miksturę. W przeciwnym razie przygotuje ją Fortuno.
+
+Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratować Y'beriona.
