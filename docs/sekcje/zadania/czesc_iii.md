@@ -99,6 +99,10 @@ Po rozmowie z nim musimy odnaleźć Hosh-Paka. Wracamy do Regulusa, a następnie
 
 Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-Arasha. Ur-Arash zleca nam trzy zadania: [Orkowe mikstury](#Orkowe-mikstury), [Orkowa stal](#Orkowa-stal) oraz [Sekta](#Sekta).
 
+Po wykonaniu zadań związanych ze stalą i miksturami skupiamy się na zadaniu [Sekta](#Sekta) i realizujemy je aż do powrotu do miasta.
+
+Po powrocie Regulus informuje nas, że wódz przekazał klucz i pozwolił wejść do świątyni. Podążamy za Regulusem, otwieramy kratę i przy wejściu do świątyni rozmawiamy z nim, co kończy zadanie.
+
 ### Orkowe mikstury
 __Zleca: Ur-Arash__
 
@@ -131,3 +135,6 @@ Lepszym rozwiązaniem jest udanie się do Fortuno, którego znajdziemy w laborat
 Po jej zdobyciu mamy dwie możliwości. Jeśli znamy się na alchemii, otrzymamy recepturę i sami warzymy miksturę. W przeciwnym razie przygotuje ją Fortuno.
 
 Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratować Y'beriona.
+
+### Świątynia Śniącego
+__Zleca:__
