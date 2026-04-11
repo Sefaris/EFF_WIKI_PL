@@ -210,7 +210,5 @@ Po naładowaniu Uriziela możemy wraz z Regulusem wrócić do świątyni. Rozmaw
 Dalszy przebieg zadania jest liniowy, więc nie wymaga szczegółowego opisu.
 
 ---
-
-> ## 🎉 Zakończenie
 > Po ostatecznym pokonaniu Śniącego kończymy modyfikację.  
-> **Gratulacje!**
+> **Gratulacje! :tada:**
