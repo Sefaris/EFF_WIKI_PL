@@ -450,6 +450,26 @@ Na jednym z pięter czeka nas walka z falami nieumarłych. Po ich pokonaniu oraz
 
 Na końcu spotykamy Antaresa. Po krótkiej rozmowie udajemy się wyżej, co kończy zadanie.
 
+### Ucieczka z zamku
+__Zleca: Świstak__
+
+Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie
+
+Z racji, że mamy tylko jeden pierścień teleportacji, musimy udać się do Świstaka po pomoc. Ten sugeruje, że możemy przemienić się w krwiopijcę i odlecieć z zamku.
+
+Po udanej ucieczce rozmawiamy z Regulusem na temat Meropy, co kończy zadanie.
+
+### Zwój przemiany
+__Zleca: Świstak__
+
+Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie
+
+Zwój potrzebny do zadania [Ucieczka z zamku](#Ucieczka-z-zamku) możemy zdobyć od Baal Tarana za 500 bryłek rudy.
+
+Jeśli jednak pomogliśmy Gor Na Drakowi odzyskać zbroję, otrzymamy go za darmo.
+
+Po zdobyciu zwoju zadanie dobiega końca.
+
 ### Alchemik
 __Zleca: Regulus__
 
