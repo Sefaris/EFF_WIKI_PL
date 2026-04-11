@@ -186,7 +186,15 @@ __Zleca: Spika__
 
 Jeśli spotkamy Spikę przy młynach, zleci nam ich naprawę. W pierwszej kolejności należy wejść na oba młyny i pociągnąć za dźwignie. Następnie schodzimy na dół i rozmawiamy ze Spiką, która wyśle nas do Starej Kopalni po koło zębate.
 
-Lokacji koła zębatego jest 5 i każda jest wybierana losowo (kiedyś będzie mapa). Możemy również zapytać go o zębatkę, choć nie jest to konieczne. Po zdobyciu koła wracamy do Spiki i naprawiamy oba młyny.
+W kopalni rozmawiamy z Santino i wyruszamy na poszukiwania. Możliwych lokacji koła jest pięć i każda wybierana jest losowo. Przybliżone miejsca występowania:
+
+- obok Ashgana na beczce
+- obok orka-niewolnika przy młocarni
+- obok Gor Na Vida między beczkami
+- w szopie Ulberta
+- obok Santino za skrzynką
+
+Z kołem wracamy do Spiki i naprawiamy młyny, co kończy zadanie.
 
 ### Robotnik od zaraz
 __Zleca: Spika__
