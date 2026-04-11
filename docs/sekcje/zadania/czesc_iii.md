@@ -138,3 +138,31 @@ Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratowa�
 
 ### Świątynia Śniącego
 __Zleca:__
+
+### Zawalenie Starej Kopalni
+__Zleca: Strażnik bramy__
+
+Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
+
+Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
+
+#### Ocaleni
+__Zleca: Chiron__
+
+Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#Zawalenie-Starej-Kopalni).
+
+Chiron prosi nas o sprawdzenie, czy ktoś przeżył katastrofę w Starej Kopalni. W tym celu udajemy się do Corristo, który wraz ze swoimi uczniami zgadza się pomóc.
+
+Spotykamy się przy wejściu do kopalni, gdzie okazuje się, że brama jest zamknięta, a kołowrót nie działa. Udajemy się po Homera, który od razu wyrusza z nami. Na miejscu musimy dać mu koło zębate.  To samo, którego używaliśmy do naprawy młynów.
+
+Jeśli nie mamy koła, możemy porozmawiać z Okylem, który podpowie, aby zabrać je z placu wymian.
+
+Po naprawie używamy kołowrotu i wchodzimy do kopalni.
+
+W środku rozmawiamy z Drake’iem i Corristo. Mag wręcza nam pierścienie teleportacji dla ocalałych. Przed rozpoczęciem akcji ratunkowej warto porozmawiać z innymi magami.
+
+Możemy uratować łącznie 13 osób: Brandicka, Alepha, Snipesa, Ulberta, Grimesa, Alberto, Iana, orka-niewolnika, Gor Na Vida, Węża, Strażnika, Garpa oraz Ashgana.
+
+Po uratowaniu wszystkich wracamy do Corristo. W trakcie rozmowy pojawia się demon blokujący wyjście.  Magowie zajmują się nim, a my musimy uciekać z kopalni.
+
+Na zewnątrz rozmawiamy z ocalałymi, a następnie wracamy do Chirona, co kończy zadanie.
