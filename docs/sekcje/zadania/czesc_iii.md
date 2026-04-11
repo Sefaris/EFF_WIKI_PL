@@ -17,6 +17,34 @@ W rozmowie mamy wybór: „Udało nam się uciec z Kolonii!” lub „Po prostu 
 
 Zależnie od wybranej opcji jest inny przebieg zadania [Lekarstwo dla Spiki](#Lekarstwo-dla-Spiki). Po rozmowie zadanie dobiega końca.
 
+### Zawalenie Starej Kopalni
+__Zleca: Strażnik bramy__
+
+Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
+
+Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
+
+### Ocaleni
+__Zleca: Chiron__
+
+Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#Zawalenie-Starej-Kopalni).
+
+Chiron prosi nas o sprawdzenie, czy ktoś przeżył katastrofę w Starej Kopalni. W tym celu udajemy się do Corristo, który wraz ze swoimi uczniami zgadza się pomóc.
+
+Spotykamy się przy wejściu do kopalni, gdzie okazuje się, że brama jest zamknięta, a kołowrót nie działa. Udajemy się po Homera, który od razu wyrusza z nami. Na miejscu musimy dać mu koło zębate.  To samo, którego używaliśmy do naprawy młynów.
+
+Jeśli nie mamy koła, możemy porozmawiać z Okylem, który podpowie, aby zabrać je z placu wymian.
+
+Po naprawie używamy kołowrotu i wchodzimy do kopalni.
+
+W środku rozmawiamy z Drake’iem i Corristo. Mag wręcza nam pierścienie teleportacji dla ocalałych. Przed rozpoczęciem akcji ratunkowej warto porozmawiać z innymi magami.
+
+Możemy uratować łącznie 13 osób: Brandicka, Alepha, Snipesa, Ulberta, Grimesa, Alberto, Iana, orka-niewolnika, Gor Na Vida, Węża, Strażnika, Garpa oraz Ashgana.
+
+Po uratowaniu wszystkich wracamy do Corristo. W trakcie rozmowy pojawia się demon blokujący wyjście.  Magowie zajmują się nim, a my musimy uciekać z kopalni.
+
+Na zewnątrz rozmawiamy z ocalałymi, a następnie wracamy do Chirona, co kończy zadanie.
+
 ### Lekarstwo dla Spiki
 __Zleca: Riordian__
 
@@ -120,6 +148,24 @@ Po przyniesieniu wymaganej ilości zadanie zostaje zakończone.
 ### Sekta
 __Zleca: Ur-Arash__
 
+Ur-Ashar wpuści nas do świątyni dopiero po rozprawieniu się z Obozem Bractwa.
+
+Po wyjściu z miasta orków rozmawiamy z Regulusem. Następnie wieczorem spotykamy się z Lesterem w jaskini przed bagnami. Po rozmowie wracamy do wioski orków i ponownie rozmawiamy z Regulusem.
+
+Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'beriona](#Pomoc-dla-Y'beriona).
+
+Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'beriona](#Lecznice-zioła-dla-Y'beriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
+
+Regulus każe nam przeszukać laboratorium Cor Kaloma. Obok laboratorium znajdujemy notatkę, którą przynosimy Regulusowi. Po jej przeczytaniu pojawia się miniatura Śniącego. Pokonujemy ją.
+
+Wracamy do Y'beriona i rozmawiamy z nim, Angarem oraz Regulusem. Następnie udajemy się na cmentarzysko orków.
+
+Na miejscu spotykamy Baal Lukora i prowadzimy go do Varrag-Nag-Daha. Po krótkiej scenie wracamy do Cor Angara, a następnie rozmawiamy z Y'berionem.
+
+Wracamy do miasta orków i rozmawiamy z Regulusem. Przy pierwszym wejściu do świątyni nie spotykamy Cor Kaloma. Przy drugim zatrzymuje nas Tukash przy wejściu do miasta orków i informuje, że ktoś dostał się do środka świątyni. Udajemy się do wodza orków.
+
+Zadanie kończy się w momencie pokonania Cor Kaloma i jego popleczników w świątyni.
+
 ### Pomoc dla Y'beriona
 __Zleca: Cor Angar__
 
@@ -139,16 +185,11 @@ Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratowa�
 ### Świątynia Śniącego
 __Zleca:__
 
-### Zawalenie Starej Kopalni
-__Zleca: Strażnik bramy__
-
-Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
-
-Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
+Zadanie ma liniowy przebieg, a wszystkie rozwiązania zagadek znajdują się w dzienniku.
 
 ### Magiczny miecz URIZIEL
-
 __Zleca:__
+
 Wraz z Regulusem pokazujemy Uriziel Xardasowi. Ten wręcza nam klucz do skrzyni w swojej zatopionej wieży.
 
 Udajemy się tam i znajdujemy pancerz z magicznej rudy. Następnie wracamy do Xardasa, który daje nam zwój transferu energii.
@@ -161,23 +202,15 @@ Po wszystkim wracamy do Regulusa, który czeka w karczmie na jeziorze.
 
 > Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
 
-### Ocaleni
-__Zleca: Chiron__
+### Powrót do świątyni
+__Zleca:__
 
-Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#Zawalenie-Starej-Kopalni).
+Po naładowaniu Uriziela możemy wraz z Regulusem wrócić do świątyni. Rozmawiamy z nim w karczmie na jeziorze i spotykamy się przed wejściem.
 
-Chiron prosi nas o sprawdzenie, czy ktoś przeżył katastrofę w Starej Kopalni. W tym celu udajemy się do Corristo, który wraz ze swoimi uczniami zgadza się pomóc.
+Dalszy przebieg zadania jest liniowy, więc nie wymaga szczegółowego opisu.
 
-Spotykamy się przy wejściu do kopalni, gdzie okazuje się, że brama jest zamknięta, a kołowrót nie działa. Udajemy się po Homera, który od razu wyrusza z nami. Na miejscu musimy dać mu koło zębate.  To samo, którego używaliśmy do naprawy młynów.
+---
 
-Jeśli nie mamy koła, możemy porozmawiać z Okylem, który podpowie, aby zabrać je z placu wymian.
-
-Po naprawie używamy kołowrotu i wchodzimy do kopalni.
-
-W środku rozmawiamy z Drake’iem i Corristo. Mag wręcza nam pierścienie teleportacji dla ocalałych. Przed rozpoczęciem akcji ratunkowej warto porozmawiać z innymi magami.
-
-Możemy uratować łącznie 13 osób: Brandicka, Alepha, Snipesa, Ulberta, Grimesa, Alberto, Iana, orka-niewolnika, Gor Na Vida, Węża, Strażnika, Garpa oraz Ashgana.
-
-Po uratowaniu wszystkich wracamy do Corristo. W trakcie rozmowy pojawia się demon blokujący wyjście.  Magowie zajmują się nim, a my musimy uciekać z kopalni.
-
-Na zewnątrz rozmawiamy z ocalałymi, a następnie wracamy do Chirona, co kończy zadanie.
+> ## 🎉 Zakończenie
+> Po ostatecznym pokonaniu Śniącego kończymy modyfikację.  
+> **Gratulacje!**
