@@ -146,7 +146,22 @@ Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym O
 
 Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
 
-#### Ocaleni
+### Magiczny miecz URIZIEL
+
+__Zleca:__
+Wraz z Regulusem pokazujemy Uriziel Xardasowi. Ten wręcza nam klucz do skrzyni w swojej zatopionej wieży.
+
+Udajemy się tam i znajdujemy pancerz z magicznej rudy. Następnie wracamy do Xardasa, który daje nam zwój transferu energii.
+
+Rozmawiamy z Saturasem, jednak ten odmawia pomocy. W związku z tym udajemy się do Sadalsuuda, który zgadza się nam pomóc.
+
+Spotykamy się z nim przy kopcu rudy, gdzie dochodzi do naładowania miecza.
+
+Po wszystkim wracamy do Regulusa, który czeka w karczmie na jeziorze.
+
+> Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
+
+### Ocaleni
 __Zleca: Chiron__
 
 Zadanie dostępne po ukończeniu [Zawalenie Starej Kopalni](#Zawalenie-Starej-Kopalni).
