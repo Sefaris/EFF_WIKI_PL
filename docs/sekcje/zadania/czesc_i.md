@@ -659,6 +659,15 @@ __Zleca: Acrux__
 
 Podczas wykonywania zadania [Z dala od gapiów](#z-dala-od-gapiów) trafiamy do Wolnej Kopalni, w której pojawia się problem z pełzaczami. Musimy odnaleźć i zabić królową pełzaczy. Po jej pokonaniu wracamy do Gacruxa, co kończy zadanie.
 
+### Dostawa
+__Zleca: Menk__
+
+Menk, Kret w Wolnej Kopalni, skarży się, że w kopalni coraz gorzej wygląda sytuacja z zaopatrzeniem. Musimy porozmawiać z Vindemiatrixem w szpitalu.
+
+Ten wręczy nam paczkę dla Menka i zleci znalezienie trzech roślin zwanych słonecznym zielem.
+
+Z paczką i roślinami wracamy do Kreta, co kończy zadanie.
+
 ### Pancerz dla samotnika
 __Zleca: Regulus__
 
