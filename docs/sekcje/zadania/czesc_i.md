@@ -245,6 +245,7 @@ Mężczyznę znajdziemy na szczycie zatopionej wieży Xardasa. Po rozmowie z mag
 
 ### Mapa Starego Obozu
 __Zleca: Strażnik bramy w Starym Obozie__
+
 Strażnicy wiedzą, że zaprowadziliśmy Kyle'a do Nowego Obozu, dlatego musimy przynieść im mapę należącą do zwiadowcy ze Starego Obozu. Mamy na to jeden dzień.
 
 Ciało zwiadowcy znajdziemy w lesie obok Starej Kopalni, niedaleko jaskini z zębaczami.
@@ -428,6 +429,13 @@ Podczas wykonywania zadania [Infiltrator](#Infiltrator) możemy powiedzieć Kosi
 
 ### List ze świata zewnętrznego
 __Zleca: -__
+
+### Polowanie w górskim lesie 
+__Zleca: -__
+
+W lesie, który odwiedzaliśmy m.in. w misji [Zaginieni w górach](#Zaginieni-w-górach), możemy pokonać kilku minibossów. Ostatnim z nich jest Duch Lasu.
+
+Trofea może od nas kupić Kaus, ale dopiero po odpowiednim wykonaniu zadania [Bestia](#Bestia).
 
 ### Zaginieni w górach
 __Zleca:__
@@ -638,6 +646,13 @@ Następnie udajemy się do Scatty’ego, który informuje nas, że Magnaci pojaw
 Po doprowadzeniu Bliźny do Antaresa używamy na nim kolejnego zaklęcia, przez co wpada on w trans. Następnie, korzystając ze zwoju kontroli, przejmujemy ciało nieumarłego i zabijamy strażnika dusz. Kolejno wręczamy duszę i berło Bliźnie, przejmujemy nad nim kontrolę i zabijamy zombie.
 
 Po udanym rytuale wychodzimy z kopalni. Przed wejściem rozmawiamy z Antaresem i Carlenem, co kończy misję.
+
+### Ostatnia przysługa
+__Zleca: Carlen__
+
+Carlen w Nowym Obozie prosi nas o pomoc w załatwieniu kilku spraw. Wystarczy podążać za nim aż na plażę.
+
+Na miejscu wysłuchujemy jego historii, co kończy zadanie.
 
 ### Problemy w Wolnej Kopalni
 __Zleca: Acrux__
