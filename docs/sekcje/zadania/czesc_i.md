@@ -125,6 +125,15 @@ Następnie udajemy się do Gilberta po duplikat klucza, który otrzymujemy bez p
 
 Na końcu wracamy do Quentina, aby zakończyć zadanie.
 
+### Nosiwoda w służbie Lewusa
+__Zleca: Lewus__
+
+Lewus chce, żebyśmy zanieśli wodę zbieraczom ryżu.
+
+Jeśli wcześniej rozmawialiśmy ze Spiką, możemy powiedzieć mu: „Spika powiedziała, żebyś ochłonął z tą wodą.” Wtedy Lewus zostawi nas w spokoju.
+
+Podczas wykonywania zadania [Zamieszki na polu ryżowym](#Zamieszki-na-polu-ryżowym) możemy go pobić i ponownie z nim porozmawiać, co kończy zadanie.
+
 ### Zapracowana kobieta
 __Zleca: Spika__
 
@@ -453,7 +462,7 @@ Na końcu spotykamy Antaresa. Po krótkiej rozmowie udajemy się wyżej, co koń
 ### Ucieczka z zamku
 __Zleca: Świstak__
 
-Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie
+Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie.
 
 Z racji, że mamy tylko jeden pierścień teleportacji, musimy udać się do Świstaka po pomoc. Ten sugeruje, że możemy przemienić się w krwiopijcę i odlecieć z zamku.
 
@@ -462,7 +471,7 @@ Po udanej ucieczce rozmawiamy z Regulusem na temat Meropy, co kończy zadanie.
 ### Zwój przemiany
 __Zleca: Świstak__
 
-Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie
+Dostępne, jeśli nie powiedzieliśmy Regulusowi o Meropie.
 
 Zwój potrzebny do zadania [Ucieczka z zamku](#Ucieczka-z-zamku) możemy zdobyć od Baal Tarana za 500 bryłek rudy.
 
