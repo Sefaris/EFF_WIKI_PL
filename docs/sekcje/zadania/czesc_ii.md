@@ -406,7 +406,7 @@ __Zleca: Emet__
 
 Emet prosi nas o przyniesienie paczki z bagiennym zielem, którą posiada Muntazir. W jego domu znajdujemy list. Po przeczytaniu udajemy się do Emeta.
 
-Emet wspomina o asasynie kręcącym się w pobliżu domu Delazara. Musimy ukraść mu notatkę. Następnie kradniemy Ugrasalowi klucz do skrzyni i udajemy się na mury miasta, gdzie po prawej stronie otwieramy wskazaną skrzynię.
+Emet wspomina o asasynie kręcącym się w pobliżu domu Delazara. Musimy ukraść mu notatkę. Następnie kradniemy Ugrasalowi klucz do skrzyni, otwieramy skrzynię u niego w domu i udajemy się na mury miasta, gdzie po prawej stronie otwieramy kolejną skrzynię.
 
 W środku znajdujemy trzy pierścienie teleportacyjne. Każdy z nich przenosi nas na inną wieżę strażniczą, gdzie musimy pokonać nieumarłego. Jeden z trupów posiada również paczkę z zielem.
 
