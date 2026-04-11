@@ -243,6 +243,14 @@ Dowiadujemy się od niego, że Sadalsuuda należy szukać w pobliżu zbiorników
 
 Mężczyznę znajdziemy na szczycie zatopionej wieży Xardasa. Po rozmowie z magiem wracamy do Spiki, co kończy zadanie.
 
+### Mapa Starego Obozu
+__Zleca: Strażnik bramy w Starym Obozie__
+Strażnicy wiedzą, że zaprowadziliśmy Kyle'a do Nowego Obozu, dlatego musimy przynieść im mapę należącą do zwiadowcy ze Starego Obozu. Mamy na to jeden dzień.
+
+Ciało zwiadowcy znajdziemy w lesie obok Starej Kopalni, niedaleko jaskini z zębaczami.
+
+Po dostarczeniu mapy strażnikowi zadanie dobiega końca.
+
 ### Zbieracz Horacy
 __Zleca: Horacy__
 
