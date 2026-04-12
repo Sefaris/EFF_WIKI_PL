@@ -347,6 +347,126 @@ __Zleca: Murak__
 Murak, niewolnik ze świątyni, prosi nas o przyniesienie 20 kawałków pieczonego mięsa, 20 jabłek, bananów i gruszek, 5 butelek wódy z kaktusa oraz 3 paczek broni. Paczki broni znajdziemy w namiotach obok Silvio.
 
 Po zebraniu wszystkich przedmiotów wracamy do Muraka, co kończy zadanie.
+## Mora Sul i okolice
+
+### Puchary dusz
+__Zleca: Regulus__
+
+Podczas zadania [Najeźdźcy z Bakareshu](#Najeźdźcy-z-Bakareshu) możemy zdobyć 5 Pucharów Duszy. W Mora Sul rozmawiamy o nich z Regulusem, który sugeruje, aby sprzedać je lokalnym kupcom.
+
+Puchary możemy sprzedać następującym osobom: Ilja, Ismael, Hamid, Masil oraz Faesul.
+
+Po sprzedaniu wszystkich wracamy do Regulusa, co kończy zadanie.
+
+### Złodzieje artefaktów
+__Zleca: Faesul__
+
+Kupiec Faesul podejrzewa, że niewolnicy ze świątyni, którzy dla niego pracują, sami handlują artefaktami.
+
+Udajemy się do Grubego nadzorcy, który twierdzi, że wciąż czeka na zaopatrzenie od Faesula. Wracamy do kupca, kupujemy potrzebne rzeczy i zanosimy je z powrotem.
+
+Na tym etapie mamy wybór:
+
+- „Zapłaciłem mu za dostawę.”
+
+Gruby mówi, że niewolnicy są po prostu zmęczeni. Rozmawiamy z nimi, a jeden z nich odsyła nas do Yussufa.
+
+Yussuf opowiada o swojej umowie z koczownikami. Po drugiej stronie świątyni, w jednej z piwnic, znajdujemy koczowników. Musimy ich pokonać.
+
+Następnie mamy dwie możliwości:
+
+Możemy udać się do Faesula z paczką i wydać Yussufa. Wtedy musimy go przyprowadzić do kupca. Następnego dnia wracamy po nagrodę: Duży eliksir siły, Duży eliksir zręczności oraz Duży eliksir ducha.
+
+Możemy też najpierw wrócić do Yussufa i nie wydawać go Faesulowi. W takim przypadku otrzymamy 2000 sztuk złota oraz Napój potęgi lub władzy.
+
+- „No tak, nadal czeka na artefakty.”
+
+Udajemy się do Fasima, który opowiada nam o pustynnych bestiach po drugiej stronie świątyni. Eliminujemy je, wracamy do grubasa i po kilku dniach otrzymujemy paczkę z artefaktami.
+
+Z paczką wracamy do Faesula. Nagrodą jest Duży eliksir siły oraz Ekstrakt ducha.
+
+### Niecodzienny widok
+__Zleca: Bandaro__
+
+Bandaro mówi nam, że jego ludzie widzieli paladyna w pobliżu miasta. Okazuje się, że chodzi o Cruza. Udajemy się do niego z wiadomością.
+
+Cruz wręcza nam posążek Innosa, który pokazujemy Bandaro. Tym samym kończymy zadanie.
+
+### Naiwni złodzieje
+__Zleca: Bandaro__
+
+Bandaro opowiada nam o złodziejach, którzy okradli Ningala. Podczas eksploracji ruin Mora Sul natrafiamy na ośmiu asasynów. Eliminujemy ich i przeszukujemy ciała.
+
+Następnie wracamy do Bandaro, a potem do Ningala, co kończy zadanie.
+
+### Artefakt Adanosa
+__Zleca: Ningal__
+
+Zadanie dostępne po wykonaniu [Naiwni złodzieje](#Naiwni-złodzieje).
+
+Ningal zleca nam infiltrację świątyni w Mora Sul wraz z Ramirezem. Po zdobyciu Korony Adanosa wracamy do Ningala, co kończy zadanie.
+
+### Zaginiona karawana
+__Zleca: Masil__
+
+Masil zleca nam odnalezienie karawany, która podróżowała z Ben Sali. Ciała asasynów znajdziemy w pobliżu przejścia do Ben Sala. Obok znajduje się jaskinia, do której musimy wejść.
+
+W środku czeka nas walka z ogrami. Po ich pokonaniu rozmawiamy z Rocko, któremu przekazujemy kamień teleportacji do Mora Sul.
+
+Następnie wracamy do Masila, co kończy zadanie. Warto również odzyskać kamień teleportacji od Rocko.
+
+### Oaza
+__Zleca: Hamid__
+
+Hamid wysyła nas do oazy, gdzie spotykamy Murata. Ten zleca nam odnalezienie swoich niewolników.
+
+W jednej z jaskiń w pobliżu oazy natrafiamy na rabusiów i stajemy przed wyborem sposobu rozwiązania sytuacji:
+
+- Możemy zaatakować, wybierając dialog „Jestem łowcą koczowników. Nadeszła pora się wami zająć.” → zabijamy koczowników, a niewolnice odprowadzamy do oazy. Następnie wracamy do Hamida, otrzymując 3000 sztuk złota oraz duży eliksir siły.
+
+- Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Murasem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#Zemsta).
+
+- Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
+
+Niezależnie od podjętej decyzji zadanie dobiega końca.
+
+### Zemsta
+__Zleca: Bandaro__
+
+Bandaro przekazuje nam zlecenie od Murata. Udajemy się do jaskini w pobliżu oazy, gdzie eliminujemy koczowników.
+
+Następnie prowadzimy niewolnicę do Murata, jednak ten jej nie chce. Rozmawiamy więc z nią i zabieramy ją do naszego namiotu w Mora Sul, gdzie ponownie z nią rozmawiamy.
+
+Po wszystkim wracamy do Bandaro, co kończy zadanie.
+
+>Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
+
+### Arena w Mora Sul
+__Zleca: Felipe__
+
+Rozmawiamy z Felipe i przystępujemy do walk na arenie. Pokonujemy wszystkich przeciwników, łącznie z aktualnym mistrzem.
+
+Po pokonaniu mistrza, zadanie dobiega końca.
+
+### Przysługa dla kowala
+__Zleca: Ismael__
+
+Zadanie dostępne po przyniesieniu wódy z kaktusa dla Mufrida.
+
+Musimy odnaleźć człowieka, który miał dostarczyć rudę dla Ismaela. W jednej z piwnic w ruinach znajdujemy ciało asasyna. Przeszukujemy je i zdobywamy rudę.
+
+Z materiałem wracamy do Ismaela, co kończy zadanie.
+
+### Niosący śmierć
+__Zleca: Gonzales__
+
+Gonzales zleca nam wyeliminowanie początkującego Maga Wody w okolicach Ishtar. Znajdziemy go podczas zadania [Szpieg wśród koczowników](#Szpieg-wśród-koczowników).
+
+Możemy go zabić i wrócić z wieściami do Gonzalesa. W nagrodę otrzymamy 3000 sztuk złota, duży eliksir zręczności oraz elitarny pancerz asasyna.
+
+Alternatywnie możemy zdobyć kostur od Harana i zanieść go Gonzalesowi, za co otrzymamy 500 sztuk złota.
+
+Niezależnie od podjętej decyzji zadanie dobiega końca.
 
 ## Ishtar i okolice
 
@@ -536,97 +656,3 @@ Przeklęty Starożytny Kapłan prosi nas o przyniesienie zwoju ze skarbca Zubena
 Następnie udajemy się do Regulusa w pałacu Zubena. Po rozmowie kierujemy się do Ben Sali, a stamtąd do świątyni.
 
 Przed wejściem spotykamy Basira, który otwiera świątynię i wchodzi do środka. My musimy uciekać, a zadanie dobiega końca.
-
-## Mora Sul i okolice
-
-### Puchary dusz
-__Zleca: Regulus__
-
-Podczas zadania [Najeźdźcy z Bakareshu](#Najeźdźcy-z-Bakareshu) możemy zdobyć 5 Pucharów Duszy. W Mora Sul rozmawiamy o nich z Regulusem, który sugeruje, aby sprzedać je lokalnym kupcom.
-
-Puchary możemy sprzedać następującym osobom: Ilja, Ismael, Hamid, Masil oraz Faesul.
-
-Po sprzedaniu wszystkich wracamy do Regulusa, co kończy zadanie.
-
-### Niecodzienny widok
-__Zleca: Bandaro__
-
-Bandaro mówi nam, że jego ludzie widzieli paladyna w pobliżu miasta. Okazuje się, że chodzi o Cruza. Udajemy się do niego z wiadomością.
-
-Cruz wręcza nam posążek Innosa, który pokazujemy Bandaro. Tym samym kończymy zadanie.
-
-### Naiwni złodzieje
-__Zleca: Bandaro__
-
-Bandaro opowiada nam o złodziejach, którzy okradli Ningala. Podczas eksploracji ruin Mora Sul natrafiamy na ośmiu asasynów. Eliminujemy ich i przeszukujemy ciała.
-
-Następnie wracamy do Bandaro, a potem do Ningala, co kończy zadanie.
-
-### Artefakt Adanosa
-__Zleca: Ningal__
-
-Zadanie dostępne po wykonaniu [Naiwni złodzieje](#Naiwni-złodzieje).
-
-Ningal zleca nam infiltrację świątyni w Mora Sul wraz z Ramirezem. Po zdobyciu Korony Adanosa wracamy do Ningala, co kończy zadanie.
-
-### Zaginiona karawana
-__Zleca: Masil__
-
-Masil zleca nam odnalezienie karawany, która podróżowała z Ben Sali. Ciała asasynów znajdziemy w pobliżu przejścia do Ben Sala. Obok znajduje się jaskinia, do której musimy wejść.
-
-W środku czeka nas walka z ogrami. Po ich pokonaniu rozmawiamy z Rocko, któremu przekazujemy kamień teleportacji do Mora Sul.
-
-Następnie wracamy do Masila, co kończy zadanie. Warto również odzyskać kamień teleportacji od Rocko.
-
-### Oaza
-__Zleca: Hamid__
-
-Hamid wysyła nas do oazy, gdzie spotykamy Murata. Ten zleca nam odnalezienie swoich niewolników.
-
-W jednej z jaskiń w pobliżu oazy natrafiamy na rabusiów i stajemy przed wyborem sposobu rozwiązania sytuacji:
-
-- Możemy zaatakować, wybierając dialog „Jestem łowcą koczowników. Nadeszła pora się wami zająć.” → zabijamy koczowników, a niewolnice odprowadzamy do oazy. Następnie wracamy do Hamida, otrzymując 3000 sztuk złota oraz duży eliksir siły.
-
-- Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Murasem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#Zemsta).
-
-- Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
-
-Niezależnie od podjętej decyzji zadanie dobiega końca.
-
-### Zemsta
-__Zleca: Bandaro__
-
-Bandaro przekazuje nam zlecenie od Murata. Udajemy się do jaskini w pobliżu oazy, gdzie eliminujemy koczowników.
-
-Następnie prowadzimy niewolnicę do Murata, jednak ten jej nie chce. Rozmawiamy więc z nią i zabieramy ją do naszego namiotu w Mora Sul, gdzie ponownie z nią rozmawiamy.
-
-Po wszystkim wracamy do Bandaro, co kończy zadanie.
-
->Po kilku dniach możemy odwiedzić niewolnicę i wręczyć jej kamień teleportacji do Bakareshu. Spotkamy się tam ponownie i w nagrodę otrzymamy Eliksir życia.
-
-### Arena w Mora Sul
-__Zleca: Felipe__
-
-Rozmawiamy z Felipe i przystępujemy do walk na arenie. Pokonujemy wszystkich przeciwników, łącznie z aktualnym mistrzem.
-
-Po pokonaniu mistrza, zadanie dobiega końca.
-
-### Przysługa dla kowala
-__Zleca: Ismael__
-
-Zadanie dostępne po przyniesieniu wódy z kaktusa dla Mufrida.
-
-Musimy odnaleźć człowieka, który miał dostarczyć rudę dla Ismaela. W jednej z piwnic w ruinach znajdujemy ciało asasyna. Przeszukujemy je i zdobywamy rudę.
-
-Z materiałem wracamy do Ismaela, co kończy zadanie.
-
-### Niosący śmierć
-__Zleca: Gonzales__
-
-Gonzales zleca nam wyeliminowanie początkującego Maga Wody w okolicach Ishtar. Znajdziemy go podczas zadania [Szpieg wśród koczowników](#Szpieg-wśród-koczowników).
-
-Możemy go zabić i wrócić z wieściami do Gonzalesa. W nagrodę otrzymamy 3000 sztuk złota, duży eliksir zręczności oraz elitarny pancerz asasyna.
-
-Alternatywnie możemy zdobyć kostur od Harana i zanieść go Gonzalesowi, za co otrzymamy 500 sztuk złota.
-
-Niezależnie od podjętej decyzji zadanie dobiega końca.
