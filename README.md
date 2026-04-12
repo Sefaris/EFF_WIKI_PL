@@ -36,3 +36,8 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
   - [Sebastian](https://github.com/met0rii)
   - [Deetom554](https://github.com/Deetom554)
+  
+- Inni współtwórcy:
+
+  - Delph
+  - Aldarkaen
