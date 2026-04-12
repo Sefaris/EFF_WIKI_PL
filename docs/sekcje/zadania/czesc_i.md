@@ -719,7 +719,7 @@ Pock zażąda od nas 10 kiści winogron. Po ich przyniesieniu otrzymujemy trzy o
 
 Teraz odnajdujemy Świstaka. Znajduje się na końcu drogi przy starej kopalni, ukryty w krzakach. Wspólnie sprawdzamy miejsce zasadzki. Przeszukując ciała, znajdujemy kolejną notatkę w krzakach. Po jej przeczytaniu rozmawiamy ze Świstakiem i udajemy się do Laresa.
 
-Po rozmowie kierujemy się do Starego Obozu, gdzie możemy porozmawiać z: Złym, Jessem, Grahamem, Grimem, Herekiem oraz Gravo. Jeśli pomogliśmy Gravo zdobyć amulet i zgodziliśmy się na pokój, przekaże nam cenne informacje. Następnie udajemy się do Miltena, a potem do sekciarzy. Bloodwyna znajdziemy na placu świątynnym (sposoby jego eliminacji opisane są w misji [Szpieg w Bractwie](#Szpieg-w-Bractwie)).
+Po rozmowie kierujemy się do Starego Obozu, gdzie możemy porozmawiać z: Złym, Jessem, Grahamem, Grimem, Herekiem oraz Gravo. Jeśli pomogliśmy Grimowi zdobyć amulet i zgodziliśmy się na pokój, przekaże nam cenne informacje. W przeciwnym razie informacje przekaże nam Diego. Następnie udajemy się do Miltena (tylko w przypadku uzyskania informacji od Grima), a potem do sekciarzy. Bloodwyna znajdziemy na placu świątynnym (sposoby jego eliminacji opisane są w misji [Szpieg w Bractwie](#Szpieg-w-Bractwie)).
 
 Po rozprawieniu się z Bloodwynem wracamy do Świstaka. Ten wspomina o Omidzie, więc udajemy się do zamku Magnatów i rozmawiamy z Balamem. Omida znajdziemy pod wodospadem przy moście prowadzącym do Starej Kopalni. Odsyłamy go do szpitala i tam z nim rozmawiamy, po czym wracamy do Świstaka.
 
