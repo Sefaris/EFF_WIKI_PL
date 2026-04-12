@@ -139,6 +139,10 @@ __Zleca: Spika__
 
 Gdy tylko wejdziemy do Nowego Obozu, zagaduje nas Spika. Misja ma charakter czysto informacyjny i zostaje zakończona po wykonaniu wszystkich zadań dla niej.
 
+Sporym utrudnieniem może być jej przemieszczanie się po Nowym Obozie. Dla ułatwienia można posłużyć się poniższą mapą.
+
+![akips](fotki/akips.png)
+
 ### Worki pszenicy
 __Zleca: Spika__
 
