@@ -436,7 +436,13 @@ __Zleca: Kosa__
 Podczas wykonywania zadania [Infiltrator](#Infiltrator) możemy powiedzieć Kosie „Muszę dostać się do zamku.”, co rozpocznie to zadanie. Ukończyć je możemy dopiero po przyprowadzeniu do niego Meropy w ramach misji [Fatalne konsekwencje](#Fatalne-konsekwencje).
 
 ### List ze świata zewnętrznego
-__Zleca: -__
+__Zleca: Diego__
+
+Przebieg zadania jest praktycznie taki sam jak w niezmodyfikowanej wersji gry, jednak jeśli będziemy zbyt dużo rozmawiać o liście, możemy zostać napadnięci i go stracić.
+
+Jeśli nie oddamy listu przed otrzymaniem nagrody, dostaniemy jedynie Pierścień Mocy. Natomiast gdy list będzie otwarty, otrzymamy Eliksir uzdrawiający.
+
+Najlepszym rozwiązaniem jest oddanie listu Miltenowi w trakcie rozmowy. Niezależnie od tego, czy jest otwarty, czy zamknięty.
 
 ### Polowanie w górskim lesie 
 __Zleca: -__
