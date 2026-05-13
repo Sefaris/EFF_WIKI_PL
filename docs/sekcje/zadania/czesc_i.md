@@ -776,7 +776,7 @@ Po powrocie do Hamala nasi towarzysze zostają zamienieni w kamień. Używamy ro
 ### Czas na zmiany
 __Zleca: Lee__
 
-Misja dostępna po wykonaniu zadań: [Niespodziewany gość](#Niespodziewany-gość), [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#Zatrute-ziele), [Sekrety Obozu Bractwa](#Sekrety-Obozu-Bractwa), [Plan Altarfa](#Plan-Altarfa), poprawnym ukończeniu [Szpieg](Szpieg), [Z dala od gapiów](#Z-dala-od-gapiów), [Zaginieni w górach](#Zaginieni-w-góach), [Misja ratunkowa](#Misja-ratunkowa) oraz [Wolna Kopalnia](#Wolna-Kopalnia). Wymagane jest także poznanie Regulusa.
+Misja dostępna po wykonaniu zadań: [Niespodziewany gość](#Niespodziewany-gość), [Atak węży błotnych](#Atak-węży-błotnych) lub [Zatrute ziele](#Zatrute-ziele), [Sekrety Obozu Bractwa](#Sekrety-Obozu-Bractwa), [Plan Altarfa](#Plan-Altarfa), poprawnym ukończeniu [Szpieg](#Szpieg), [Z dala od gapiów](#Z-dala-od-gapiów), [Zaginieni w górach](#Zaginieni-w-góach), [Misja ratunkowa](#Misja-ratunkowa) oraz [Wolna Kopalnia](#Wolna-Kopalnia). Wymagane jest także poznanie Regulusa.
 
 Lee przystępuje do realizacji planu. Na początku musimy porozmawiać z Regulusem, Antaresem, Aldebarem, Carlenem, Arto, Georgem oraz Thordirem. Następnie udajemy się do Altarfa, który wysyła nas do Grahama po mapy. Z mapami idziemy do Cavalorna i rozmawiamy z nim około północy. Po tym udajemy się na obrady, gdzie wybieramy jeden z planów działania:
 
