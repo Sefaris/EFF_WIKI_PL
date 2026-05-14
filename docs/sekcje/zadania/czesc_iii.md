@@ -92,7 +92,7 @@ Początek zadania może się nieznacznie różnić w zależności od przebiegu [
 
 Po dostarczeniu Regulusowi Ulu-Mulu spotykamy się z nim przy wieży za skałą obok wioski orków. Następnie razem udajemy się pod bramę wioski.
 
-Na miejscu musimy odnaleźć orka mówiącego ludzkim głosem. Jst nim Ur-Nammu. Zgodzi się nam pomóc, jeśli przyniesiemy mu skradziony posążek.
+Na miejscu musimy odnaleźć orka mówiącego ludzkim głosem. Jest nim Ur-Nammu. Zgodzi się nam pomóc, jeśli przyniesiemy mu skradziony posążek.
 
 Wracamy do Regulusa, a następnie udajemy się do obozu na bagnie i rozmawiamy z Lesterem. Okazuje się, że figurka znajduje się u Y’Beriona. Wchodzimy do środka i ją zabieramy. Od tego momentu cały obóz staje się wobec nas wrogi. Po drodze rozmawiamy jeszcze z Lesterem w jaskini.
 
