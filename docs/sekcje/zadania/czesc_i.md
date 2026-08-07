@@ -399,7 +399,7 @@ Do wyboru mamy: „Magowie Ognia”, „Ktoś z byłej straży królewskiej” l
 
 Po rozmowie musimy jak najszybciej dotrzeć do Regulusa. Na miejscu rozmawiamy z Altarfem, który informuje nas, że aby zapobiec wojnie, musimy dostarczyć list ze świata zewnętrznego do sekciarzy.
 
-Jeśli oddaliśmy już list Magom Ognia, będziemy musieli wykraść go z kieszeni Coristo. Następnie zanosimy list na bagna, przekazujemy go strażnikowi bramy i idziemy do Angara. Jeśli natomiast nadal go posiadamy, możemy od razu udać się do świrów. Po rozmowie z Cor Angarem misja dobiega końca.
+Jeśli oddaliśmy już list Magom Ognia, będziemy musieli wykraść go z kieszeni Corristo. Następnie zanosimy list na bagna, przekazujemy go strażnikowi bramy i idziemy do Angara. Jeśli natomiast nadal go posiadamy, możemy od razu udać się do świrów. Po rozmowie z Cor Angarem misja dobiega końca.
 
 ### Spokojne miejsce
 __Zleca: Altarf__
