@@ -152,35 +152,35 @@ Ur-Ashar wpuści nas do świątyni dopiero po rozprawieniu się z Obozem Bractwa
 
 Po wyjściu z miasta orków rozmawiamy z Regulusem. Następnie wieczorem spotykamy się z Lesterem w jaskini przed bagnami. Po rozmowie wracamy do wioski orków i ponownie rozmawiamy z Regulusem.
 
-Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'beriona](#Pomoc-dla-Y'beriona).
+Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#Pomoc-dla-Y'Beriona).
 
-Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'beriona](#Lecznice-zioła-dla-Y'beriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
+Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y'Beriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
 
 Regulus każe nam przeszukać laboratorium Cor Kaloma. Obok laboratorium znajdujemy notatkę, którą przynosimy Regulusowi. Po jej przeczytaniu pojawia się miniatura Śniącego. Pokonujemy ją.
 
-Wracamy do Y'beriona i rozmawiamy z nim, Angarem oraz Regulusem. Następnie udajemy się na cmentarzysko orków.
+Wracamy do Y'Beriona i rozmawiamy z nim, Angarem oraz Regulusem. Następnie udajemy się na cmentarzysko orków.
 
-Na miejscu spotykamy Baal Lukora i prowadzimy go do Varrag-Nag-Daha. Po krótkiej scenie wracamy do Cor Angara, a następnie rozmawiamy z Y'berionem.
+Na miejscu spotykamy Baal Lukora i prowadzimy go do Varrag-Nag-Daha. Po krótkiej scenie wracamy do Cor Angara, a następnie rozmawiamy z Y'Berionem.
 
 Wracamy do miasta orków i rozmawiamy z Regulusem. Przy pierwszym wejściu do świątyni nie spotykamy Cor Kaloma. Przy drugim zatrzymuje nas Tukash przy wejściu do miasta orków i informuje, że ktoś dostał się do środka świątyni. Udajemy się do wodza orków.
 
 Zadanie kończy się w momencie pokonania Cor Kaloma i jego popleczników w świątyni.
 
-### Pomoc dla Y'beriona
+### Pomoc dla Y'Beriona
 __Zleca: Cor Angar__
 
-Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'beriona](#Lecznice-zioła-dla-Y'beriona).
+Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y'Beriona).
 
-### Lecznice zioła dla Y'beriona
+### Lecznicze zioła dla Y'Beriona
 __Zleca: Cor Angar__
 
-Cor Angar prosi nas o przyniesienie ziół dla Y'beriona. Możemy po prostu je dostarczyć, jednak wtedy Y'berion umrze.
+Cor Angar prosi nas o przyniesienie ziół dla Y'Beriona. Możemy po prostu je dostarczyć, jednak wtedy Y'Berion umrze.
 
 Lepszym rozwiązaniem jest udanie się do Fortuno, którego znajdziemy w laboratorium Cor Kaloma. Opowie nam o specjalnej miksturze, do której potrzebna jest roślina o nazwie Mroczna Tajemnica.
 
 Po jej zdobyciu mamy dwie możliwości. Jeśli znamy się na alchemii, otrzymamy recepturę i sami warzymy miksturę. W przeciwnym razie przygotuje ją Fortuno.
 
-Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratować Y'beriona.
+Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratować Y'Beriona.
 
 ### Świątynia Śniącego
 __Zleca:__
