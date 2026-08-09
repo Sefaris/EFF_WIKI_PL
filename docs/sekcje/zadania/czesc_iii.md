@@ -152,9 +152,9 @@ Ur-Ashar wpuści nas do świątyni dopiero po rozprawieniu się z Obozem Bractwa
 
 Po wyjściu z miasta orków rozmawiamy z Regulusem. Następnie wieczorem spotykamy się z Lesterem w jaskini przed bagnami. Po rozmowie wracamy do wioski orków i ponownie rozmawiamy z Regulusem.
 
-Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#Pomoc-dla-Y'Beriona).
+Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#Pomoc-dla-YBeriona).
 
-Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y'Beriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
+Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-YBeriona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
 
 Regulus każe nam przeszukać laboratorium Cor Kaloma. Obok laboratorium znajdujemy notatkę, którą przynosimy Regulusowi. Po jej przeczytaniu pojawia się miniatura Śniącego. Pokonujemy ją.
 
@@ -169,7 +169,7 @@ Zadanie kończy się w momencie pokonania Cor Kaloma i jego popleczników w świ
 ### Pomoc dla Y'Beriona
 __Zleca: Cor Angar__
 
-Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-Y'Beriona).
+Zadanie informacyjne powiązane z [Lecznicze zioła dla Y'Beriona](#Lecznicze-zioła-dla-YBeriona).
 
 ### Lecznicze zioła dla Y'Beriona
 __Zleca: Cor Angar__
