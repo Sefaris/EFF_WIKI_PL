@@ -15,7 +15,7 @@ Basir prosi nas o przyniesienie 20 kaktusów. Wszystkie rośliny znajdziemy podc
 ### Serce golema
 __Zleca: Basir__
 
-Kierując się prosto od wyjścia z Ben Sali, trafimy do świątyni. W jej okolicach krąży ognisty golemm. Pokonujemy go i zabieramy jego serce. Następnie wracamy z trofeum do Basira, co kończy zadanie.
+Kierując się prosto od wyjścia z Ben Sali, trafimy do świątyni. W jej okolicach krąży ognisty golem. Pokonujemy go i zabieramy jego serce. Następnie wracamy z trofeum do Basira, co kończy zadanie.
 
 ### Kuźnia w Ben Sali
 __Zleca: Enzo__
