@@ -7,7 +7,8 @@
 - za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 - za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii.
 - warto nauczyć się górnictwa od Swineya lub Grimesa, może być przydatne w późniejszym etapie rozgrywki.
-
+- Nie zabijaj NPC-ów bez powodu, bo możesz zablokować sobie zadania lub dalszą rozgrywkę.
+  
 ### Moja własna ścieżka
 __Zleca: Diego__
 
@@ -102,7 +103,9 @@ Altarf mówi nam, że błotne węże ostatnio pożarły kilku nowicjuszy. Po wi�
 ### Zatrute ziele
 __Zleca: Altarf__
 
-Altarf mówi nam, że w obozie pojawiło się szkodliwe bagienne ziele. Po więcej informacji udajemy się do Baal Oruna, który informuje nas, że jeden z nowicjuszy już zmarł przez to ziele. Jego ciało znajdziemy na bagnie w pobliżu orkowej lampy. Przeszukujemy je, zabieramy notatkę, czytamy ją, a następnie zanosimy do Baal Oruna, co kończy zadanie.
+Altarf mówi nam, że w obozie pojawiło się szkodliwe bagienne ziele. Po więcej informacji udajemy się do Baal Oruna, który informuje nas, że jeden z nowicjuszy już zmarł w wyniku jego działania. Następnie idziemy porozmawiać z Ghorimem.
+
+Ciało zmarłego nowicjusza znajdziemy na bagnach, w pobliżu orkowej lampy. Przeszukujemy je, zabieramy notatkę i czytamy ją, a następnie zanosimy do Baal Oruna. W ten sposób kończymy zadanie.
 
 ### Skóry dla Gilberta
 __Zleca: Gilbert__
@@ -665,6 +668,11 @@ Po doprowadzeniu Bliźny do Antaresa używamy na nim kolejnego zaklęcia, przez 
 
 Po udanym rytuale wychodzimy z kopalni. Przed wejściem rozmawiamy z Antaresem i Carlenem, co kończy misję.
 
+### Astronomia
+__Zleca: Azomim__
+
+Azomim, jeden z kretów, którego spotkamy w Wolnej Kopalni, zleca nam odnalezienie swojej książki o astronomii. Podczas eksploracji kopalni możemy ją znaleźć i zanieść Azomimowi, co kończy zadanie.
+
 ### Ostatnia przysługa
 __Zleca: Carlen__
 
@@ -689,7 +697,7 @@ Z paczką i roślinami wracamy do Kreta, co kończy zadanie.
 ### Pancerz dla samotnika
 __Zleca: Regulus__
 
-Po dołączeniu do Regulusa musimy zdobyć dla siebie pancerz. W tym celu udajemy się do obozu sekciarzy i rozmawiamy ze Shratem. Ten wspomina o Gor Na Tothu, któremu musimy wykraść klucz do magazynu.
+Po dołączeniu do Regulusa musimy zdobyć dla siebie pancerz. W tym celu udajemy się do obozu sekciarzy i rozmawiamy z Lesterem, a następnie ze Shratem. Ten wspomina o Gor Na Tothu, któremu musimy wykraść klucz do magazynu.
 
 Magazyn znajduje się niedaleko placu treningowego i jest pilnowany przez strażnika. Aby się do niego dostać, zagadujemy strażnika dwukrotnie, a wieczorem częstujemy go skrętem z bagiennego ziela. Następnie otwieramy magazyn i zabieramy zbroję.
 
