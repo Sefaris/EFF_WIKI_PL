@@ -617,7 +617,7 @@ Po rozdaniu Zewów Nocy wracamy do zleceniodawcy, co kończy zadanie.
 ### Pierścień niewolnika
 __Zleca: Zaira__
 
-Zaira zleca nam wykradzenie jej pierścienia ze skarbca Zubena. Mamy dwa sposoby rozwiązania zadania"
+Zaira zleca nam wykradzenie jej pierścienia ze skarbca Zubena. Mamy dwa sposoby rozwiązania zadania:
 
 - Możemy ukraść klucz Zubena i splądrować skarbiec. Przy wyjściu spotkamy Zubena, który pozwoli nam zachować łupy, ale w zamian odbierze nam 10 siły, 10 zręczności, 25 punktów życia oraz 10 many. Pierścień zanosimy do Zairy, która nagradza nas napojem potęgi oraz dużym eliksirem życia.
 
