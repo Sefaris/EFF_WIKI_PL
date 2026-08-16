@@ -480,7 +480,7 @@ Na końcu wracamy do Lee i rozmawiamy z Denebem, co kończy zadanie.
 ### Droga do zamku
 __Zleca: Regulus__
 
-Regulus wyjaśnia nam, jak dostać się do zamku. Misję możemy rozpocząć dopiero po osiągnięciu co najmniej 10 poziomu doświadczenia.
+Regulus wyjaśnia nam, jak dostać się do zamku. Misję możemy rozpocząć dopiero po osiągnięciu co najmniej 10 poziomu doświadczenia (jednak zaleca się wbić około 15 poziom lub mieć około 120 siły).
 
 Po jej rozpoczęciu udajemy się do Świstaka. Od niego dowiadujemy się, że aby dostać się do składowiska, musimy otworzyć kratę za pomocą przycisku znajdującego się w magazynie Fiska.
 
