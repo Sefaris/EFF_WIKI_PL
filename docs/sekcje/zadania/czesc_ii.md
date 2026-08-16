@@ -383,7 +383,7 @@ Możemy też najpierw wrócić do Yussufa i nie wydawać go Faesulowi. W takim p
 
 Udajemy się do Fasima, który opowiada nam o pustynnych bestiach po drugiej stronie świątyni. Eliminujemy je, wracamy do grubasa i po kilku dniach otrzymujemy paczkę z artefaktami.
 
-Z paczką wracamy do Faesula. Nagrodą jest Duży eliksir siły oraz Ekstrakt ducha.
+Z paczką wracamy do Faesula. Nagrodą jest Duży eliksir siły oraz Duży eliksir życia.
 
 ### Niecodzienny widok
 __Zleca: Bandaro__
