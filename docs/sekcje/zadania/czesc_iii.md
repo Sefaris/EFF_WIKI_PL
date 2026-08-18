@@ -20,6 +20,8 @@ Zależnie od wybranej opcji jest inny przebieg zadania [Lekarstwo dla Spiki](#Le
 ### Zawalenie Starej Kopalni
 __Zleca: Strażnik bramy__
 
+Wymagane jest wykonanie zadania [Czas na zmiany.](/#/sekcje/zadania/czesc_i?id=czas-na-zmiany)
+
 Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
 
 Kolejno udajemy się do Diego, a po rozmowie z nim do Chirona. Następnie wracamy do Lee i ponownie do Chirona, co kończy zadanie.
