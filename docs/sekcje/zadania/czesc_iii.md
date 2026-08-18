@@ -20,7 +20,7 @@ Zależnie od wybranej opcji jest inny przebieg zadania [Lekarstwo dla Spiki](#Le
 ### Zawalenie Starej Kopalni
 __Zleca: Strażnik bramy__
 
-Wymagane jest wykonanie zadania [Czas na zmiany.](/#/sekcje/zadania/czesc_i?id=czas-na-zmiany)
+Wymagane jest wykonanie zadania [Czas na zmiany.](sekcje/zadania/czesc_i?id=czas-na-zmiany)
 
 Rozmawiamy z Sadalsuudem, następnie z Lee oraz ze strażnikiem bramy w Starym Obozie.
 
