@@ -530,9 +530,21 @@ Emet wspomina o asasynie kręcącym się w pobliżu domu Delazara. Musimy ukraś
 
 W środku znajdujemy trzy pierścienie teleportacyjne. Każdy z nich przenosi nas na inną wieżę strażniczą, gdzie musimy pokonać nieumarłego. Jeden z trupów posiada również paczkę z zielem.
 
-Z paczką wracamy do Ugrasala, który wysyła nas wraz z Emetem na wartę w jednej z wież. Podczas służby zauważamy grupę koczowników. Teleportujemy się do Ishtar i przekazujemy informacje Ugrasalowi.
+Z paczką wracamy do Ugrasala. Następnie otrzymujemy wybór:
 
-Teraz zbieramy bezimiennych asasynów i ruszamy rozprawić się z najeźdźcami. Po walce wracamy do Ugrasala, następnie do Emeta i ponownie do Ugrasala, co kończy zadanie.
+- „Bardzo żałuję tego...”
+
+Ugrasal wysyła nas wraz z Emetem na wartę do jednej z wież. Podczas służby zauważamy grupę koczowników. Teleportujemy się do Ishtar i przekazujemy Ugrasalowi informacje o ich obecności.
+
+Następnie zbieramy bezimiennych asasynów i ruszamy rozprawić się z najeźdźcami. Po walce wracamy do Ugrasala, a następnie udajemy się do Emeta i ponownie do Ugrasala, co kończy zadanie.
+
+- „Czy możemy coś zrobić...” (Dostępne po wykonaniu zadania [Ucieczka niewolników](#Ucieczka-niewolników))
+
+Ugrasal zleca nam zabicie niewolników, którzy uciekli. Wracamy do Emeta, który wysyła nas do Surusa po kopię pierścienia. Z duplikatem wracamy do Emeta i wraz z nim teleportujemy się do jaskini.
+
+Na miejscu eliminujemy wszystkich niewolników, zbieramy ich głowy i wracamy do Ugrasala, a następnie do Emeta.
+
+Niezależnie od podjętej decyzji zadanie zostaje zakończone.
 
 ### Szpieg wśród koczowników
 __Zleca: Surus__
