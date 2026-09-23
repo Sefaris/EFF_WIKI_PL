@@ -17,21 +17,21 @@ Basir ma problem z szakalami. Pierwszą grupę znajdziemy, idąc prosto od wyjś
 
 **Zleca:** Basir
 
-Basir prosi nas o przyniesienie 20 kaktusów. Wszystkie rośliny znajdziemy podczas eksploracji pustyni. Po zebraniu wymaganej ilości wracamy do Basira, co kończy zadanie.
+Basir prosi nas o przyniesienie 20 kwiatów kaktusa. Wszystkie rośliny znajdziemy podczas eksploracji pustyni. Po zebraniu wymaganej ilości wracamy do Basira, co kończy zadanie.
 
 ### Serce golema {#serce-golema}
 
 **Zleca:** Basir
 
-Kierując się prosto od wyjścia z Ben Sali, trafimy do świątyni. W jej okolicach krąży ognisty golem. Pokonujemy go i zabieramy jego serce. Następnie wracamy z trofeum do Basira, co kończy zadanie.
+Kierując się prosto od wyjścia z Ben Sali, trafimy do świątyni. W jej okolicach krąży ognisty golem. Pokonujemy go i zabieramy jego serce (rdzeń). Następnie wracamy z trofeum do Basira, co kończy zadanie.
 
 ### Kuźnia w Ben Sali {#kuznia-w-ben-sali}
 
 **Zleca:** Enzo
 
-Enzo prosi nas o pomoc z dostawą materiałów. W kopalniach Ben Sali znajdziemy skrzynki ze stalą, a jedną sztukę otrzymamy od Miguela.
+Enzo prosi nas o pomoc z dostawą materiałów. W dwóch kopalniach Ben Sali znajdziemy skrzynki ze stalą, a jedną sztukę otrzymamy od Miguela.
 
-Dodatkowo musimy zdobyć 50 rud żelaza oraz 20 kawałków bryłek żelaza. Surowce możemy wydobyć w kopalniach w Ben Sali oraz Lago.
+Dodatkowo musimy zdobyć 50 rud żelaza oraz 20 kawałków bryłek żelaza. Surowce możemy wydobyć w kopalniach w Ben Sali oraz Lago, w których znajdziemy kilka złóż żelaza.
 
 Po zebraniu wszystkich materiałów wracamy do Enzo, co kończy zadanie.
 
@@ -49,23 +49,29 @@ Znajdziemy go, kierując się cały czas w prawo od wyjścia z kopalni, za duży
 
 - **„Nie byłbym tego taki pewien.”** → rozpoczynamy zadanie [Więzień](#wiezien).
 
-Po wykonaniu jednego z powyższych zadań oraz zebraniu 1000 samorodków i 500 bryłek złota (część możemy zdobyć w kopalniach), wracamy do Juno, co kończy zadanie.
+Po wykonaniu jednego z powyższych zadań oraz zebraniu 1000 samorodków i 500 bryłek złota (część możemy zdobyć w kopalniach), wracamy do Julio, co kończy zadanie.
 
 ### Osobliwy prezent {#osobliwy-prezent}
 
 **Zleca:** Basir
 
-Basir wysyła nas do Vahida po niewolnicę. W drodze powrotnej do Ben Sali zaczepia nas Jane i prosi, abyśmy zaprowadzili ją do jaskini Sinikara (w pobliżu przejścia do Bakareshu). Stajemy przed wyborem:
+:::info Warunek rozpoczęcia
 
-- Pierwsza opcja to pomoc Jane i zaprowadzenie jej do koczowników oraz okłamanie Basira. Po okłamaniu Basira przy jaskini Sinikara spotkamy łowców głów. Co prowadzi do kolejnych decyzji:
+Zadanie jest dostępne po dostarczeniu Julio samorodków i bryłek złota w ramach zadania [Danina](#danina).
 
-- **„Rozumiem. Nikt was już więcej nie zobaczy.”** → zabijamy asasynów i udajemy się do Sinikara.
+:::
 
-- **„Myślę, że tak. Wydaje mi się, że wiem, dlaczego tu jesteście.”** → prowadzimy ich do Sinikara, gdzie dochodzi do walki z koczownikami. Po wszystkim możemy przyznać się asasynom (**co trwale obniży nasze statystyki**) lub ich zaatakować. Możemy też pominąć rozmowę przed jaskinią i wraz z Sinikarem od razu ich wyeliminować.
+Basir wysyła nas do oazy Vahida po niewolnicę. W drodze powrotnej do Ben Sali prowadzona przez nas Jane zaczepia nas i prosi, abyśmy zaprowadzili ją do jaskini Sinikara (w pobliżu przejścia do Bakareshu). Stajemy przed wyborem:
+
+- Pierwsza opcja to pomoc Jane i zaprowadzenie jej do koczowników oraz okłamanie Basira. Po okłamaniu Basira przy jaskini Sinikara spotkamy łowców głów, co prowadzi do kolejnych decyzji:
+
+  - **„Rozumiem. Nikt was już więcej nie zobaczy.”** → zabijamy asasynów i udajemy się do Sinikara.
+
+  - **„Myślę, że tak. Wydaje mi się, że wiem, dlaczego tu jesteście.”** → prowadzimy ich do Sinikara, gdzie dochodzi do walki z koczownikami. Po wszystkim możemy przyznać się asasynom (**co trwale obniży nasze statystyki**) lub ich zaatakować. Możemy też pominąć rozmowę przed jaskinią i wraz z Sinikarem od razu ich wyeliminować.
 
 - Druga opcja to zaprowadzenie Jane do Basira. Przed wioską zaczyna uciekać, więc musimy ją dogonić i ogłuszyć. Jeśli nam ucieknie, znajdziemy ją u Sinikara. Tam możemy zabić koczowników i sprowadzić ją do Basira albo wycofać się i poprosić Basira o wsparcie. Wyśle on łowców głów, którzy będą czekać w pobliżu jaskini Sinikara. Po pokonaniu koczowników odprowadzamy Jane do Ben Sali.
 
-Jeśli zarówno łowcy głów, jak i koczownicy zginą, możemy zaprowadzić Jane do paladyna w okolicach Mora Sul.
+Jeśli zarówno łowcy głów, jak i koczownicy zginą, możemy zaprowadzić Jane do paladyna Cruza w okolicach Mora Sul.
 
 Niezależnie od wybranej ścieżki zadanie dobiega końca.
 
@@ -107,17 +113,17 @@ Nasif zaprowadza nas do koczowników, którzy porwali Adbę. Na miejscu stajemy 
 
 Oddajemy wszystkie bryłki i opuszczamy ruiny. Kawałek dalej zatrzyma nas Nasif i pojawią się kolejne opcje:
 
-- **„Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.”** → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój potęgi. Z wieściami udajemy się do Juno, a potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+- **„Spróbuję sam sobie z nimi poradzić. Poczekaj tu na mnie.”** → wracamy i samotnie eliminujemy koczowników. Następnie odprowadzamy Adbę do Nasifa i otrzymujemy napój potęgi. Z wieściami udajemy się do Julio, a potem do kopalni do Nasifa.
 
-- **„Zaatakujmy ich we dwoje.”** → wspólnie z Nasifem atakujemy koczowników. Po walce możemy zdecydować się zabić Adbę (otrzymamy napój władzy) lub odesłać ją do Ben Sali. Następnie udajemy się do Juno, potem do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy dostaniemy duży eliksir ducha.
+- **„Zaatakujmy ich we dwoje.”** → wspólnie z Nasifem atakujemy koczowników. Po walce możemy zdecydować się zabić Adbę (otrzymamy napój władzy) lub odesłać ją do Ben Sali. Następnie udajemy się do Julio, potem do kopalni do Nasifa.
 
-- **„Pójdę do Ben Sali i porozmawiam z Regulusem.”** → sprowadzamy Regulusa i wracamy z nim do Nasifa. Dalej przebieg jest taki sam. Możemy zabić Adbę lub odesłać ją do Ben Sali, a następnie udajemy się do Juno i do kopalni. W nocy możliwa jest wizyta u Adby z taką samą nagrodą.
+- **„Pójdę do Ben Sali i porozmawiam z Regulusem.”** → sprowadzamy Regulusa i wracamy z nim do Nasifa. Dalej przebieg jest taki sam. Możemy zabić Adbę lub odesłać ją do Ben Sali, a następnie udajemy się do Julio i do kopalni.
 
 **„Chcesz złota? To będziesz musiał wyrwać je z naszych rąk.”**
 
-Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę, czy odesłać ją do Ben Sali. Następnie udajemy się do Juno i do kopalni do Nasifa. W nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy, otrzymamy duży eliksir ducha.
+Decydujemy się na walkę z koczownikami. Po zwycięstwie wybieramy, czy Nasif ma zabić Adbę, czy odesłać ją do Ben Sali. Następnie udajemy się do Julio i do kopalni do Nasifa.
 
-Niezależnie od wyboru dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
+Niezależnie od wyboru, w nocy możemy odwiedzić Adbę. Jeśli jej nie wykorzystamy dostaniemy duży eliksir ducha. Dalszy przebieg zadania pozostaje podobny i prowadzi do jego zakończenia.
 
 ### Ogry {#ogry}
 
@@ -153,13 +159,19 @@ Sugut zleca nam pozbycie się grupy koczowniczych rabusiów. Wychodząc z Ben Sa
 
 :::tip Wskazówka
 
-Nie warto ich eliminować. Lepiej wykonać [Niespodziewane spotkanie](#niespodziewane-spotkanie).
+Nie warto ich eliminować, bardziej opłacalne jest wykonanie zadania [Niespodziewane spotkanie](#niespodziewane-spotkanie). Po jego zrealizowaniu można zgłosić Sugutowi zajęcie się problemem.
 
 :::
 
 ### Niespodziewane spotkanie {#niespodziewane-spotkanie}
 
 **Zleca:** Cronos
+
+:::info Warunek rozpoczęcia
+
+Enzo zaczepi nas i opowie o mieczu po rozpoczęciu zadania [Skrzynia Julio](#skrzynia-julio).
+
+:::
 
 Po rozmowie z Enzo o mieczu Adanosa, w jednej z jaskiń przy świątyni możemy spotkać Cronosa. Wyprowadzamy go na zewnątrz, a następnie udajemy się do Regulusa i razem wracamy do Cronosa.
 
@@ -171,9 +183,21 @@ Wracamy następnie do piedestału i przeprowadzamy rytuał. Po jego zakończeniu
 
 Na koniec wracamy do kryjówki Vardara, otwieramy skrzynię i z jej zawartością udajemy się do Julio, co kończy zadanie.
 
+:::tip Warto wiedzieć
+
+Po zwróceniu Julio skradzionych mu kosztowności opowie on nam o piorunach, które zaobserwował ostatniej nocy nad miejscem rytuału teleportacji Cronosa. Mają one związek z pojawieniem się miecza Adanosa w jaskini, w której po raz pierwszy spotkaliśmy Cronosa.
+
+:::
+
 ### Niewolnicy z Lago {#niewolnicy-z-lago}
 
 **Zleca:** Shakyor
+
+:::info Warunek rozpoczęcia
+
+Shakyor zleci nam to zadanie po wykonaniu zadania [Niespodziewane spotkanie](#niespodziewane-spotkanie).
+
+:::
 
 Shakyor prosi nas o pomoc w uwolnieniu niewolników z kopalni w Lago. Udajemy się tam razem z nim i zabijamy dwóch strażników.
 
@@ -181,7 +205,7 @@ Następnie rozmawiamy z niewolnikami i podążamy za Shakyorem. W trakcie uciecz
 
 :::info Nagroda
 
-Ostateczna nagroda zależy od liczby ocalałych niewolników. Jeśli wszyscy zginą, otrzymamy Wyciąg ducha. Jeśli przeżyje przynajmniej jeden, dostaniemy Wyciąg życia. Jeśli wszyscy przeżyją, nagrodą będzie napój władzy.
+Ostateczna nagroda zależy od liczby ocalałych niewolników. Jeśli wszyscy zginą, otrzymamy wyciąg ducha. Jeśli przeżyje przynajmniej jeden, dostaniemy wyciąg życia. Jeśli wszyscy przeżyją, nagrodą będzie napój władzy.
 
 :::
 
@@ -189,7 +213,7 @@ Ostateczna nagroda zależy od liczby ocalałych niewolników. Jeśli wszyscy zgi
 
 **Zleca:** Vardar
 
-Vardar prosi nas o przyniesienie paczki bagiennego ziela. Możemy ją zdobyć za darmo, wykonując zadanie [Uciążliwi krwiopijcy](#uciazliwi-krwiopijcy).
+Vardar prosi nas o przyniesienie paczki bagiennego ziela. Możemy ją zdobyć za darmo, wykonując zadanie [Uciążliwi krwiopijcy](#uciazliwi-krwiopijcy), lub kupić od Rasula.
 
 Po dostarczeniu paczki do Vardara zadanie dobiega końca.
 
@@ -211,18 +235,18 @@ Rasul w Lago zleca nam pozbycie się krwiopijców, które niszczą jego uprawy. 
 
 Po pokonaniu Mamuka na arenie proponuje nam on wspólne polowanie na pająki skalne. W trakcie wyprawy możemy zebrać sporą ilość żuwaczek, które następnie możemy sprzedać wybranemu kupcowi:
 
-- Fabio oferuje 1500 złotych monet.
-- Delazar zapłaci 1000 złotych monet oraz da ekstrakt ducha.
-- Aldo oferuje 800 złotych monet oraz da duży eliksir życia.
+- Fabio oferuje 1500 złotych monet,
+- Delazar zapłaci 1000 złotych monet oraz da ekstrakt ducha,
+- Aldo oferuje 800 złotych monet oraz da duży eliksir życia,
 - Ningal zapłaci 1000 złotych monet oraz da duży eliksir ducha.
 
-Niezależnie od wybranego kupca zadanie dobiega końca.
+Niezależnie od wybranego kupca, zadanie dobiega końca.
 
 ### Dziwne sny Sibura {#dziwne-sny-sibura}
 
 **Zleca:** Sibur Narad
 
-Sibur prosi nas o dostarczenie skóry pustynnego cieniostwora. Po przyniesieniu trofeum zadanie dobiega końca.
+Sibur prosi nas o dostarczenie skóry pustynnego cieniostwora. Kilka osobników możemy znaleźć w ruinach obok Bakareshu i w kilku jaskiniach w Varancie. Po przyniesieniu trofeum zadanie dobiega końca.
 
 ### Ruiny Ben Sali {#ruiny-ben-sali}
 
@@ -232,7 +256,7 @@ Z notatką udajemy się do Regulusa, który poleci nam zanieść ją do Amula w 
 
 :::tip Wskazówka
 
-Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolicach Ben Sala. Każde użycie przywoła przeciwników — po ich pokonaniu możemy otworzyć skrzynię z nagrodami.
+Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolicach Ben Sala. Jest ona także wymagana do ukończenia zadania [Niespodziewane spotkanie](#niespodziewane-spotkanie). Każde użycie w pobliżu ruin przywoła przeciwników — po ich pokonaniu i zdobyciu kluczy możemy otworzyć skrzynie z nagrodami.
 
 :::
 
@@ -240,11 +264,31 @@ Otrzymaną od niego runę możemy wykorzystać przy dziewięciu ruinach w okolic
 
 **Zleca:** Shakyor
 
+:::tip Porada
+
+Zaleca się unikać rozmowy z Nadzorcą w Lago do czasu wysłania nas do Shakyora przez Vardara w trakcie zadania [Niespodziewane spotkanie](#niespodziewane-spotkanie), aby uniknąć niżej opisanych błędów.
+
+:::
+
+:::warning Możliwe problemy przy wykonywaniu zadania
+
+Jeżeli zainteresujemy się niewolnicą przed poznaniem Shakyora i porozmawiamy z Nadzorcą, nie będziemy mogli porozmawiać z Shakyorem w trakcie wykonywania zadania [Niespodziewane spotkanie](#niespodziewane-spotkanie). Przyczyną jest fakt, iż opisywane zadanie będzie już uznane za rozpoczęte.
+
+Idąc dalej, taki tok wydarzeń **może** sprawić, że kradzież klucza Fabio będzie niemożliwa. Wtedy należy użyć polecenia `insert ITKE_FABIO` w celu przywołania klucza do więzienia, a następnie postępować dalej zgodnie z solucją i przyprowadzić niewolnicę do Shakyora.
+
+:::
+
 W jaskini w pobliżu Lago spotykamy Shakyora, który prosi nas o uwolnienie niewolnicy z wioski.
 
 Najpierw musimy wykraść klucz od Fabio. Następnie rozmawiamy z nadzorcą stojącym przed celą oraz z samym Fabio, który zażąda od nas dwóch butelek wina. Po wręczeniu mu wina, udajemy się do Rasula, a potem ponownie do nadzorcy. Gdy dowie się o winie, również będzie go chciał.
 
-Około 00:30 strażnik odchodzi spod więzienia i kieruje się do namiotu, to nasza szansa. Otwieramy celę i wyprowadzamy niewolnicę pod daszek obok chaty Sibura. Następnie udajemy się do namiotu i wręczamy wino asasynowi.
+:::warning Uwaga
+
+Gdy Nadzorca zainteresuje się winem, musimy mu je dostarczyć najbliższej nocy po uwolnieniu niewolnicy i zaprowadzeniu do miejsca obok domu Sibura. Jeżeli będziemy zwlekali z wykonaniem zadania, Nadzorca uzna, że jesteśmy odpowiedzialni za ucieczkę niewolnicy, nawet jeśli wykonamy wszystko zgodnie z instrukcjami w solucji.
+
+:::
+
+Około 00:30 strażnik odchodzi spod więzienia i kieruje się do namiotu, to nasza szansa. Otwieramy celę (klucz do drzwi więzienia działa od godziny 00:36) i wyprowadzamy niewolnicę pod daszek obok chaty Sibura, uważając jednocześnie na kilku patrolujących asasynów. Następnie udajemy się do namiotu i wręczamy wino asasynowi.
 
 Po wszystkim wracamy do niewolnicy i odprowadzamy ją do Shakyora, co kończy zadanie.
 
@@ -254,9 +298,9 @@ Po wszystkim wracamy do niewolnicy i odprowadzamy ją do Shakyora, co kończy za
 
 Fabio mówi nam o krokodylu, który zadomowił się w przystani. Możemy go zabić lub spróbować mu pomóc.
 
-Jeśli wybierzemy drugą opcję, „rozmawiamy” z krokodylem, a następnie udajemy się do Rasula. Ten informuje nas, że zwierzęciu może pomóc roślina zwana Krwawą Trzciną. Ptrzebujemy 3 sztuk.
+Jeśli wybierzemy drugą opcję, „rozmawiamy” z krokodylem, a następnie udajemy się do Rasula. Ten informuje nas, że zwierzęciu może pomóc roślina zwana krwawą trzciną. Ptrzebujemy 3 sztuk.
 
-Po zdobyciu roślin karmimy nimi krokodyla, a następnie prowadzimy go do Rasula. Ten powie nam, że w pobliżu oazy Vahida znajduje się więcej krokodyli. Udajemy się tam razem z naszym podopiecznym, co kończy zadanie.
+Po zdobyciu roślin karmimy nimi krokodyla, a następnie prowadzimy go do Rasula. Ten powie nam, że w pobliżu oazy Vahida znajduje się więcej krokodyli. Po dotarciu do oazy z naszym podopiecznym, udajemy się w stronę morza do grupy krokodyli na wybrzeżu, co kończy zadanie.
 
 ### Koczownicy i dezerterzy {#koczownicy-i-dezerterzy}
 
@@ -386,6 +430,12 @@ Akrabor wspomina, że Aschnu oferuje nagrodę za pozbycie się topielców. Po ic
 
 **Zleca:** Amul
 
+:::info Warunek rozpoczęcia
+
+Czarny mag zleca nam to zadanie po ukończeniu zadania [Arena w Bakareshu](#arena-w-bakareshu) i zapytanie go o trolla na arenie.
+
+:::
+
 Amul informuje nas o artefakcie znajdującym się na wyspie w pobliżu Bakareshu. Udajemy się tam, pokonujemy nieumarłych i zabieramy zawartość skrzyni.
 
 Następnie wracamy do Amula, co kończy zadanie.
@@ -398,6 +448,12 @@ Po opowiedzeniu Amulowi, jak dostaliśmy się do Varantu, kieruje nas on do Regu
 
 Najpierw musimy dotrzeć w okolice Mora Sul. Po drodze spotkamy paladyna Cruza, który prosi nas o dowiedzenie się, co stało się z Magiem Ognia pojmanym przez asasynów.
 
+:::tip Warto wiedzieć
+
+Pojmanego Maga Ognia znajdziemy w Mora Sul, w klatce dla niewolników. Tuż przed śmiercią wręczy on nam Ognisty Puchar, który będzie można odnieść Cruzowi. Ponadto, Masil zaoferuje nam rzeczy maga za 10000 złotych monet.
+
+:::
+
 Przed dotarciem do celu możemy zdecydować się na krótki pobyt w Mora Sul. Stamtąd możemy udać się do Mezira lub od razu ruszyć do Ishtar.
 
 Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
@@ -406,7 +462,7 @@ Ostatecznie po dotarciu do Ishtar zadanie dobiega końca.
 
 **Zleca:** Murak
 
-Murak, niewolnik ze świątyni, prosi nas o przyniesienie 20 kawałków pieczonego mięsa, 20 jabłek, bananów i gruszek, 5 butelek wódy z kaktusa oraz 3 paczek broni. Paczki broni znajdziemy w namiotach obok Silvio.
+Murak, niewolnik ze świątyni, prosi nas o przyniesienie 20 kawałków pieczonego mięsa, 20 jabłek, bananów i gruszek, 5 butelek wódy z kaktusa oraz 3 paczek broni. Paczki broni znajdziemy w jednym z namiotów obok Silvio.
 
 Po zebraniu wszystkich przedmiotów wracamy do Muraka, co kończy zadanie.
 ## Mora Sul i okolice {#mora-sul-i-okolice}
@@ -439,9 +495,9 @@ Yussuf opowiada o swojej umowie z koczownikami. Po drugiej stronie świątyni, w
 
 Następnie mamy dwie możliwości:
 
-Możemy udać się do Faesula z paczką i wydać Yussufa. Wtedy musimy go przyprowadzić do kupca. Następnego dnia wracamy po nagrodę: Duży eliksir siły, Duży eliksir zręczności oraz Duży eliksir ducha.
+- Możemy udać się do Faesula z paczką i wydać Yussufa. Wtedy musimy go przyprowadzić do kupca. Następnego dnia wracamy po nagrodę: Duży eliksir siły, Duży eliksir zręczności oraz Duży eliksir ducha.
 
-Możemy też najpierw wrócić do Yussufa i nie wydawać go Faesulowi. W takim przypadku otrzymamy 2000 sztuk złota oraz Napój potęgi lub władzy.
+- Możemy też najpierw wrócić do Yussufa i nie wydawać go Faesulowi. W takim przypadku otrzymamy 2000 sztuk złota oraz Napój potęgi lub władzy.
 
 **„No tak, nadal czeka na artefakty.”**
 
@@ -503,7 +559,7 @@ W jednej z jaskiń w pobliżu oazy natrafiamy na rabusiów i stajemy przed wybor
 
 - Możemy zaatakować, wybierając dialog „Jestem łowcą koczowników. Nadeszła pora się wami zająć.” → zabijamy koczowników, a niewolnice odprowadzamy do oazy. Następnie wracamy do Hamida, otrzymując 3000 sztuk złota oraz duży eliksir siły.
 
-- Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Murasem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#zemsta).
+- Możemy też powiedzieć „Asasyni twierdzą, że ukradliście ich niewolników.” → wówczas wykupujemy niewolnice za 9000 sztuk złota. Jedna z nich nie będzie chciała odejść. Rozmawiamy z Muratem i mamy wybór: zaatakować koczowników (nagroda jak wyżej) lub odpuścić. Jeśli przyprowadzimy tylko dwie niewolnice, otrzymamy 2000 sztuk złota, ale Bandaro zleci nam później zadanie [Zemsta](#zemsta).
 
 - Trzecią opcją jest wybór dialogu „Wpadłem tu przypadkiem, może potrzebujecie pomocy?” → wtedy pomagamy koczownikom, wyprowadzając trzy niewolnice z Mora Sul i przyprowadzając je do nich. W nagrodę otrzymamy eliksir zręczności, jednak ludzie w oazie staną się wobec nas wrogo nastawieni.
 
@@ -512,6 +568,12 @@ Niezależnie od podjętej decyzji zadanie dobiega końca.
 ### Zemsta {#zemsta}
 
 **Zleca:** Bandaro
+
+:::info Warunek rozpoczęcia
+
+Zadanie otrzymamy od Bandaro tylko jeśli przyprowadziliśmy dwie niewolnice podczas wykonywania zadania [Oaza](#oaza).
+
+:::
 
 Bandaro przekazuje nam zlecenie od Murata. Udajemy się do jaskini w pobliżu oazy, gdzie eliminujemy koczowników.
 
@@ -539,7 +601,7 @@ Po pokonaniu mistrza, zadanie dobiega końca.
 
 :::info Warunek rozpoczęcia
 
-Zadanie dostępne po przyniesieniu wódy z kaktusa dla Mufrida.
+Zadanie dostępne po przyniesieniu wódy z kaktusa dla Mufrida, któremu uprzednio musimy pochwalić się wykopanym fragmentem pancerza paladyna na pobojowisku. Znajdziemy go na polu bitwy przed przejściem do Bakareshu.
 
 :::
 
@@ -652,7 +714,7 @@ Niezależnie od podjętej decyzji zadanie zostaje zakończone.
 
 **Zleca:** Surus
 
-Surus zleca nam odnalezienie koczownika, który zabił posłańca. Udajemy się do Delazara, który odprawia rytuał i informuje nas, że przed miastem czeka jego człowiek. Zaprowadzi nas on do celu.
+Surus zleca nam odnalezienie koczownika, który zabił posłańca. Udajemy się do Delazara, który odprawia rytuał i informuje nas, że przed miastem czeka jego sługa. Zaprowadzi nas on do celu.
 
 Na miejscu mamy kilka możliwości:
 
@@ -801,3 +863,9 @@ Przeklęty Starożytny Kapłan prosi nas o przyniesienie zwoju ze skarbca Zubena
 Następnie udajemy się do Regulusa w pałacu Zubena. Po rozmowie kierujemy się do Ben Sali, a stamtąd do świątyni.
 
 Przed wejściem spotykamy Basira, który otwiera świątynię i wchodzi do środka. My musimy uciekać, a zadanie dobiega końca.
+
+:::tip Warto wiedzieć
+
+Po ucieczce do Bakareshu możemy wrócić do Ben Sali, aby wybić wszystkich nieumarłych w okolicy świątyni. Co więcej, Julio wręczy nam eliksir siły na pożegnanie.
+
+:::

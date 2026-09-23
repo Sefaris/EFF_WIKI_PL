@@ -52,3 +52,4 @@ Zachowuj metadane na początku dokumentów, kotwice, warianty zadań i odnośnik
 
 - Delph
 - Aldarkaen
+- [Kormic](https://github.com/Kormic1)

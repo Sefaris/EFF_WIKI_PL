@@ -10,8 +10,9 @@ slug: /solucja/gornicza-dolina/
 :::info Ważne informacje
 
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
-- Nie zaleca się picia Esencji siły ani Esencji zręczności. W Varancie można nauczyć się wytwarzania z nich Napojów potęgi.
-- Za zjedzenie 5 plastrów miodu dostaniemy +5PN.
+- Nie zaleca się picia esencji siły i esencji zręczności. W Varancie u Aldo i u Xardasa można kupić recepturę napoju potęgi (+4 do siły i zręczności), do której potrzebne są te mikstury.
+- Nie zaleca się również spożywania mechów nagrobnych, velais, dragrotów, ogniocierni, trolestów i czarnych ziół, ponieważ mogą one posłużyć jako składniki do napoju władzy (+6 do siły i zręczności). Recepturę tej mikstury można zakupić u Wash-Kana w podziemnym mieście orków.
+- Za zjedzenie 5 plastrów miodu dostaniemy dodatkowe 5 punktów nauki.
 - Za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 - Za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii.
 - Warto nauczyć się górnictwa od Swineya lub Grimesa, może być przydatne w późniejszym etapie rozgrywki.
@@ -31,7 +32,7 @@ Ostatecznie, wykonując zadanie [Uprzejmy złodziej](#uprzejmy-zlodziej), poznaj
 
 ## Dziwna rzecz {#dziwna-rzecz}
 
-Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni możemy znaleźć fragment pancerza. Idąc dalej w górę drogi, przy wejściu do kopalni spotkamy Maię, której oddajemy fragment. Za przekazanie płytki otrzymamy nóż.
+Mijając posterunek strażników i kierując się kawałek prosto, przy skrzyni możemy znaleźć fragment pancerza. Idąc dalej w górę drogi, przy zawalonym wejściu do kopalni spotkamy Maię, której oddajemy fragment. Za przekazanie płytki otrzymamy nóż.
 
 ## Zaginiona siostra {#zaginiona-siostra}
 
@@ -47,11 +48,17 @@ Na tym etapie należy wykonać zadania [Infiltrator](#infiltrator) oraz [Uprzejm
 
 W trakcie wykonywania misji [Droga do zamku](#droga-do-zamku) uwalniamy Meropę i wracamy do kryjówki Regulusa. Po poznaniu jej stanu udajemy się z wiadomością do Mai.
 
-Opcjonalnie możemy udać się do Gilberta po amulet odwagi. Warto także porozmawiać z Lee, a następnie z Aldebarem, który stoi przy drodze niedaleko Lewusa.
+Opcjonalnie możemy udać się do Gilberta po amulet odwagi. Warto także porozmawiać z Lee, co pozwoli na rozpoczęcie zadania [Z dala od gapiów](#z-dala-od-gapiow).
 
 ## Uprzejmy złodziej {#uprzejmy-zlodziej}
 
 **Zleca:** Gor Na Drak
+
+:::tip Warto wiedzieć
+
+Warto wykonać pomyślnie to zadanie przed przekradnięciem się do zamku, ponieważ potencjalnie może nam to ułatwić ucieczkę z niego.
+
+:::
 
 Przy obozowisku Draxa i Ratforda spotykamy Gor Na Draka, który został okradziony. Rozmawiamy z Draxem, który kieruje nas do Gilberta. Jeśli przyznamy się Gilbertowi, że przysłał nas Drax, otrzymamy dodatkowe zadanie ([Skóry dla Gilberta](#skory-dla-gilberta)) oraz więcej informacji.
 
@@ -59,13 +66,27 @@ Następnie udajemy się kolejno do: Aidana, Jarvisa, Baal Kagana, Kosy, Wilka, L
 
 Po zebraniu informacji możemy udać się w stronę orkowej areny. Przed drzwiami znajdziemy zwój przemiany w chrząszcza. Używamy go, aby przedostać się pod drzwiami do kryjówki Regulusa.
 
-Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości: oddać wyposażenie, skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone) lub powiedzieć, że Regulus został najemnikiem orków. Niezależnie od wyboru wracamy z informacją do Regulusa.
+:::warning Uwaga
+
+Jeżeli nie porozmawiamy ze wszystkimi wymienionymi wyżej osobami, nie znajdziemy przed drzwiami kryjówki Regulusa wspomnianego zwoju.
+
+:::
+
+Regulus daje nam nową zbroję oraz miecz i wysyła z powrotem do Gor Na Draka. Na miejscu mamy trzy możliwości:
+
+- oddać wyposażenie,
+
+- skłamać, że Regulus nie żyje (zadanie zostaje niezaliczone!),
+
+- powiedzieć, że Regulus został najemnikiem orków.
+
+Niezależnie od wyboru wracamy z informacją do Regulusa.
 
 ## Mapy dla Ratforda {#mapy-dla-ratforda}
 
 **Zleca:** Ratford
 
-Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Grahama. Ewentualnie można mu zanieść mapę Saturasa. Mapa drogi do starej kopalni oraz mapa Y’beriona nie nadają się, ale zapewniają dodatkowe punkty doświadczenia.
+Ratford potrzebuje mapy Kolonii. Jedną z nich można ukraść ze skrzyni Grahama. Ewentualnie można mu zanieść mapę Saturasa. Mapa drogi do Starej Kopalni oraz mapa Y’beriona nie nadają się, ale zapewniają dodatkowe punkty doświadczenia.
 
 ## Mapa orkowych terenów {#mapa-orkowych-terenow}
 
@@ -77,7 +98,7 @@ Zadanie można rozpocząć między godziną 12:00 a 15:00.
 
 :::
 
-Polega ono na podążaniu za Grahamem przez tereny orków. Po powrocie należy odczekać do następnego dnia, aby odebrać od Grahama mapę oraz nagrodę.
+Polega ono na podążaniu za Grahamem przez ziemie orków, bez walki z orkami i występującą tam fauną. Po powrocie należy odczekać do następnego dnia, aby odebrać od Grahama nagrodę, w tym kompletną mapę Kolonii.
 
 ## Dłużnik {#dluznik}
 
@@ -85,7 +106,7 @@ Polega ono na podążaniu za Grahamem przez tereny orków. Po powrocie należy o
 
 Fletcher ma dług u Scatty’ego, który pomagamy mu spłacić. W tym celu udajemy się na bagna do Melvina i przekazujemy mu pozdrowienia od Fletchera. Na miejscu stajemy przed wyborem:
 
-- **„To za mało.”** → Melvin wskazuje nam miejsce z dobrym ekwipunkiem na start. Znajdującą się tam roślinę możemy sprzedać Fortuno za 300 bryłek rudy, a od Fletchera otrzymamy dodatkowe 200.
+- **„To za mało.”** → Melvin wskazuje nam miejsce z dobrym ekwipunkiem na start. Należy jednak uważać, ponieważ znajdziemy tam także orka-zwiadowcę. Znajdującą się tam roślinę możemy sprzedać Fortuno za 300 bryłek rudy, a od Fletchera otrzymamy dodatkowe 200.
 
 - **„Umowa stoi.”** → Otrzymujemy bezpośrednio 200 bryłek od Melvina oraz 300 od Fletchera.
 
@@ -101,7 +122,7 @@ Po odzyskaniu broni wracamy do zleceniodawcy, kończąc zadanie.
 
 **Zleca:** Nowicjusz
 
-Obok Baal Cadara zaczepiają nas dwaj nowicjusze, którzy opowiadają o mężczyźnie zajmującym ich chatę. Znajdziemy go niedaleko chaty Caine. Po rozmowie zgodzi się ją opuścić, jednak musimy znaleźć mu nowe lokum. Odpowiednią opcją okaże się chata wskazana przez Guya w Starym Obozie. Informację przekazujemy Altarfowi, który przebywa w chacie obok Fortuno.
+Obok Baal Cadara zaczepiają nas dwaj nowicjusze, którzy opowiadają o mężczyźnie zajmującym ich chatę. Znajdziemy ją niedaleko chaty Caine'a. Po rozmowie zgodzi się ją opuścić, jednak musimy znaleźć mu nowe lokum. Odpowiednią opcją okaże się chata wskazana przez Guya przy arenie w Starym Obozie. Informację przekazujemy Altarfowi, który przebywa w chacie obok Fortuno.
 
 Po zaprowadzeniu go na miejsce wracamy na bagna do nowicjuszy. Następnie możemy odwiedzić Altarfa w Starym Obozie, gdzie dowiadujemy się, że przeprowadził gruntowny remont i nie odpowiada mu ta chata. Musimy więc znaleźć mu inne mieszkanie. Tym razem będzie to chata Krzykacza, do której go odprowadzamy.
 
@@ -109,9 +130,9 @@ Po kilku dniach, wchodząc do obozu, zagaduje nas Jarvis. Musimy udać się do b
 
 Na tym etapie zadanie rozgałęzia się na dwie ścieżki:
 
-- jeśli spotkamy nowicjuszy w chacie, Altarf zamieszka obok Fortuno, a po kilku dniach zleci nam zadanie [Atak węży błotnych](#atak-wezy-blotnych)
+- jeśli zastaniemy nowicjuszy w chacie, Altarf zamieszka obok Fortuno, a po kilku dniach zleci nam zadanie [Atak węży błotnych](#atak-wezy-blotnych),
 
-- jeśli ich nie spotkamy, Altarf zamieszka w ich chacie, a po kilku dniach zleci nam zadanie [Zatrute ziele](#zatrute-ziele)
+- jeśli ich nie spotkamy, Altarf zamieszka w ich chacie, a po kilku dniach zleci nam zadanie [Zatrute ziele](#zatrute-ziele).
 
 Niezależnie od sytuacji, misja dobiega końca.
 
@@ -147,7 +168,7 @@ Gilbert prosi nas o zaniesienie ziół dla Gravo. Po ich dostarczeniu otrzymujem
 
 Zabijając szantażystów na moście prowadzącym do Nowego Obozu, możemy zabrać z jednego z nich notatkę. Po jej przeczytaniu udajemy się do obozu Quentina, który zleca nam zaniesienie listu do kotła w Wolnej Kopalni dla Calasha.
 
-Jeśli otworzymy list i zapoznamy się z jego treścią, możemy wrócić do Quentina i poinformować go o tym. Wówczas zleci nam nowe zadanie. Musimy zdobyć znak bractwa. Jeden z nich znajduje się w skrzyni Kaloma. Po jego zdobyciu odnosimy go do Quentina.
+Jeśli otworzymy list i zapoznamy się z jego treścią, możemy wrócić do Quentina i poinformować go o tym. Wówczas zleci nam nowe zadanie. Musimy zdobyć znak Bractwa Śniącego. Jeden z nich znajduje się w skrzyni Cor Kaloma. Po jego zdobyciu odnosimy go do Quentina.
 
 Następnie udajemy się do Gilberta po duplikat klucza, który otrzymujemy bez problemu, po czym oddajemy go zleceniodawcy. Kolejnym krokiem jest uwolnienie Alexa z więzienia. W tym celu potrzebujemy mapy Starego Obozu, którą sprzedaje Graham. Wchodzimy do lochów, otwieramy drzwi i wyprowadzamy Alexa.
 
@@ -181,7 +202,7 @@ Spika zleca nam kradzież worków ze zbożem ze składowiska zamku w Starym Oboz
 
 :::tip Dodatkowa nagroda
 
-Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci Esencji Siły.
+Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w postaci esencji siły.
 
 :::
 
@@ -189,7 +210,7 @@ Jeśli przyniesiemy więcej niż 7 worków, otrzymujemy dodatkową nagrodę w po
 
 **Zleca:** Spika
 
-Jeśli spotkamy Spikę u Jeremiasza, zleci nam rozprawienie się z Ryżowym Księciem. W pierwszej kolejności rozmawiamy z Jeremiaszem, który odsyła nas do Horacego.
+Jeśli spotkamy Spikę w karczmie, u Jeremiasza, zleci nam rozprawienie się z Ryżowym Księciem. W pierwszej kolejności rozmawiamy z Jeremiaszem, który odsyła nas do Horacego.
 
 Po rozmowie z Horacym, udajemy się do Księcia. Po rozmowie z Ryżowym Księciem będziemy zmuszeni stoczyć walkę z nim oraz Lewusem.
 
@@ -205,7 +226,7 @@ Zadanie dostępne po ukończeniu [Zamieszki na polu ryżowym](#zamieszki-na-polu
 
 :::
 
-Jeśli spotkamy Spikę u Jeremiasza, poprosi nas o przyniesienie 15 alkojagód. Najwięcej tych roślin znajdziemy w górach, w okolicach Wolnej Kopalni.
+Jeśli ponownie spotkamy Spikę u Jeremiasza, poprosi nas o przyniesienie 15 alkojagód. Najwięcej tych roślin znajdziemy w górach okalających Wolną Kopalnię.
 
 Po zebraniu roślin wracamy do zleceniodawcy. Następnie musimy odczekać 2 dni i ponownie porozmawiać ze Spiką.
 
@@ -235,13 +256,13 @@ Niezależnie od wyboru, misja zostaje zakończona.
 
 Jeśli spotkamy Spikę przy młynach, zleci nam ich naprawę. W pierwszej kolejności należy wejść na oba młyny i pociągnąć za dźwignie. Następnie schodzimy na dół i rozmawiamy ze Spiką, która wyśle nas do Starej Kopalni po koło zębate.
 
-W kopalni rozmawiamy z Santino i wyruszamy na poszukiwania. Możliwych lokacji koła jest pięć i każda wybierana jest losowo. Przybliżone miejsca występowania:
+W kopalni rozmawiamy z Santino i wyruszamy na poszukiwania. Możliwych lokacji koła jest pięć, wybierana jest losowo jedna z nich. Przybliżone miejsca występowania:
 
-- obok Ashgana na beczce
-- obok orka-niewolnika przy młocarni
-- obok Gor Na Vida między beczkami
-- w szopie Ulberta
-- obok Santino za skrzynką
+- obok Ashgana na beczce,
+- obok orka-niewolnika przy młocarni,
+- obok Gor Na Vida między beczkami,
+- w szopie Ulberta,
+- obok Santino, za skrzynką.
 
 Z kołem wracamy do Spiki i naprawiamy młyny, co kończy zadanie.
 
@@ -249,9 +270,17 @@ Z kołem wracamy do Spiki i naprawiamy młyny, co kończy zadanie.
 
 **Zleca:** Spika
 
-Jeśli spotkamy Spikę w wodnym młynie, poprosi nas o znalezienie rzemieślnika w Starym Obozie. Okazuje się, że odpowiednią osobą jest Kyle, jednak potrzebuje on narzędzi.
+Jeśli zastaniemy Spikę w wodnym młynie, poprosi nas o znalezienie rzemieślnika w Starym Obozie. Okazuje się, że odpowiednią osobą jest Kyle, jednak potrzebuje on narzędzi.
 
-Aby je zdobyć, musimy ukraść klucz Bullitowi, a następnie otworzyć jego skrzynię. Z narzędziami wracamy do Kyla. Jeśli posiadamy pierścień teleportacji, możemy mu go przekazać, co pozwoli zaoszczędzić czas.
+Aby je zdobyć, musimy ukraść klucz Bullitowi, a następnie otworzyć jego skrzynię w pomieszczeniu, w którym mogliśmy go znaleźć w podstawowej wersji gry.
+
+:::tip Wskazówka
+
+Z racji tego, że rutyna Bullita to jedynie stanie przy ognisku i spanie w nocy pośród kilku czuwających strażników, kradzież klucza może okazać się wyzwaniem. Dobrym sposobem jest zatrzymanie go rano w budynku na tyle długo (na przykład rozmową lub blokowaniem drogi), aby reszta strażników spokojnie wyszła na zewnątrz. Dalej, można użyć na nim zaklęcia snu i okraść, gdy zaklęcie przestanie działać.
+
+:::
+
+Z narzędziami wracamy do Kyla. Jeśli posiadamy pierścień teleportacji, możemy mu go przekazać, co pozwoli zaoszczędzić czas i uniknąć zadania zlecanego przez strażników bramy Starego Obozu (patrz: [Mapa Starego Obozu](#mapa-starego-obozu).
 
 Następnie udajemy się do Nowego Obozu i rozmawiamy z Kylem oraz Spiką, co kończy zadanie.
 
@@ -263,7 +292,7 @@ Jeśli spotkamy Spikę przy chatach zbieraczy między godziną 22:00 a 01:30, zl
 
 Surowce możemy zdobyć samodzielnie lub skorzystać z pomocy myśliwych:
 
-- Aidan daje nam 20 sztuk mięsa oraz ma na sprzedaż 10 skór za 150 bryłek rudy. Warto powiedzieć mu, że nie mamy rudy, wtedy zleci nam krótkie zadanie i przekaże 15 skór za darmo. Aby je zdobyć, musimy udać się do starej krypty i przynieść mu stamtąd notatkę.
+- Aidan daje nam 20 sztuk mięsa oraz ma na sprzedaż 10 skór za 150 bryłek rudy. Warto powiedzieć mu, że nie mamy rudy. Wtedy zleci nam on krótkie zadanie i przekaże 15 skór za darmo. Aby je zdobyć, musimy udać się do starej krypty i przynieść mu stamtąd notatkę.
 - U Ratforda i Draxa otrzymamy 10 sztuk mięsa, ponieważ jakaś bestia żeruje na ich terenie. Musimy ją zabić. Znajdziemy ją w tunelu prowadzącym do Starej Kopalni. Po jej pokonaniu i zebraniu trofeów wracamy do Draxa, który daje nam 20 skór za darmo. Dodatkowo możemy kupić u niego 30 skór za 400 bryłek rudy.
 Po dwóch dniach możemy odebrać od myśliwych dodatkowe 40 sztuk mięsa.
 - Mięso można także kupić u Cavalorna.
@@ -353,7 +382,7 @@ Nie powinniśmy jednak oddawać mu przedmiotów z własnej kieszeni. Zamiast teg
 
  Po dostarczeniu jej Baloro informujemy o wszystkim Regulusa.
 
-Następnie możemy udać się do szpitala i spotkać Baloro w wychodku.
+Następnie możemy udać się do szpitala i spotkać Baloro w wychodku, niedaleko za Alistairem.
 
 ## Bestia {#bestia}
 
@@ -371,7 +400,7 @@ Kolejnym krokiem jest zdobycie dodatkowych 4 demonicznych grzybów oraz udanie s
 - **„Och, naprawdę?!”** → pojawia się bestia (najlepszy wybór)
 - **„To pocałuj mnie w dupę!”** → kłótnia, zadanie niezaliczone
 
-Jeśli dojdzie do walki z bestią i ją wygramy, a Kaus przeżyje, możemy odwiedzić go później w karczmie w Nowym Obozie. Dowiemy się tam, że został handlarzem i skupuje specjalne trofea. W tym momencie misja dobiega końca.
+Jeśli dojdzie do walki z bestią i ją wygramy, a Kaus przeżyje, możemy odwiedzić go później w karczmie w Nowym Obozie. Dowiemy się tam, że został handlarzem i skupuje specjalne trofea, które możemy pozyskać od rzadkich zwierząt rezydujących w lesie nad miastem orków. W tym momencie misja dobiega końca.
 
 ## Stado ścierwojadów {#stado-scierwojadow}
 
@@ -391,9 +420,9 @@ Kolejnym zadaniem od Kausa jest zebranie roślin z listy. Po ich zebraniu zanosi
 
 **Zleca:** Kaus
 
-Kaus informuje nas, że w pobliżu obozu na bagnie pojawiły się wargi. Jest ich łącznie dziesięć, a ich przybliżone lokalizacje są zaznaczone na poniższej mapie.
+Kaus informuje nas, że w pobliżu obozu na bagnie pojawiły się wargi. Jest ich łącznie dziesięć, a ich przybliżone lokalizacje są zaznaczone na poniższej mapie. Punkt najbliższy górskiej fortecy wskazuje jaskinię czarnych goblinów z Almanachem, znaną nam z oryginalnej wersji gry.
 
-Po wybiciu wszystkich i zebraniu skór udajemy się do Gor Na Totha po nagrodę, a następnie wracamy do Kausa w Wieży Mgieł, co kończy zadanie.
+Po wybiciu wszystkich wargów i zebraniu skór udajemy się do Gor Na Totha po nagrodę, a następnie wracamy do Kausa w Wieży Mgieł, co kończy zadanie.
 
 ![Mapa lokalizacji wargów na bagnach](fotki/warg.png)
 
@@ -437,7 +466,8 @@ W momencie, w którym Lee mówi nam, gdzie szukać Regulusa, wręcza nam równie
 
 **Zleca:** Deneb
 
-Za Wolną Kopalnią, wysoko w górach, spotykamy Deneba. Informację o jego odnalezieniu przekazujemy Lee, który wręcza nam zwój teleportacji. Zanosimy go Denebowi, a następnie wracamy do Lee, aby zakończyć misję.
+Za Wolną Kopalnią, wysoko w górach, spotykamy Deneba. Ścieżka do niego składa się ze skał, po których należy się wspinać w przełęczy nad miastem orków opisanej w zadaniu [Wolna Kopalnia](#wolna-kopalnia).
+Informację o jego odnalezieniu przekazujemy Lee, który wręcza nam zwój teleportacji. Zanosimy go Denebowi, a następnie wracamy do Lee, aby zakończyć misję.
 
 ## Wolna Kopalnia {#wolna-kopalnia}
 
@@ -461,7 +491,7 @@ Zadanie rozpoczyna się po poznaniu Regulusa, a naszym celem jest zdobycie infor
 
 Pierwszą osobą, która może nam coś powiedzieć, jest Gor Na Drak, pod warunkiem że powiemy mu, iż to Regulus ukradł jego pancerz. Kolejną osobą jest Thordir, jeśli uratujemy go podczas zadania [Misja ratunkowa](#misja-ratunkowa). W nagrodę otrzymamy od niego klucz do skrzyni w koszarach, znajdującej się na piętrze nad Bullitem. Po przeczytaniu książki ze skrzyni udajemy się do Lee.
 
-Lee poleci nam odnalezienie ostatniego tomu. Znajduje się on w kuźni w zamku, więc musimy wykraść klucz ze skrzyni, otworzyć drzwi do magazynu i zabrać książkę ze skrzyni. Po jej przeczytaniu wracamy do Regulusa.
+Lee poleci nam odnalezienie ostatniego tomu. Znajduje się on w kuźni w zamku, więc musimy wykraść klucz ze skrzyni Skipowi, otworzyć drzwi do magazynu i zabrać książkę ze skrzyni. Po jej przeczytaniu wracamy do Regulusa.
 
 Kolejne informacje zdobędziemy od Al-Shemali w ramach misji [Poszukiwania asasynów](#poszukiwania-asasyna). Na końcu ponownie rozmawiamy z Regulusem, co kończy zadanie.
 
@@ -509,10 +539,10 @@ Cor Angar prosi nas o odnalezienie szpiega ze Starego Obozu. Aby poznać jego to
 
 - Rozmawiamy z Angarem i jeśli daliśmy zwój teleportacji Bloodwynowi: między 23:30 a 04:30 rozmawiamy z nim na placu świątynnym. Gdy zacznie używać teleportacji, zabijamy go.
 - Rozmawiamy z Angarem i jeśli nie rozmawialiśmy wcześniej z Bloodwynem i nie daliśmy mu zwoju: podchodzimy do niego, wyprowadzamy go poza obóz i zabijamy.
--  Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i nie rozmawialiśmy z nim wcześniej: mówimy Bloodwynowi, że Tondral chce się z nim spotkać w swojej chacie wieczorem. W godzinach 22:30–06:30 spotykamy go tam i zabijamy.
--  Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i wcześniej z nim rozmawialiśmy: Angar wyśle go na bagna, w okolice Baloro. Tam go zabijamy.
+- Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i nie rozmawialiśmy z nim wcześniej: mówimy Bloodwynowi, że Tondral chce się z nim spotkać w swojej chacie wieczorem. W godzinach 22:30–06:30 spotykamy go tam i zabijamy.
+- Rozmawiamy z Angarem i jeśli o Bloodwynie dowiadujemy się od Diego i wcześniej z nim rozmawialiśmy: Angar wyśle go na bagna, w okolice Baloro. Tam go zabijamy.
 
-Niezależnie od wybranej metody, po pozbyciu się Bloodwyna wracamy do Cor Angara.
+Niezależnie od wybranej metody, po pozbyciu się Bloodwyna i jego teleportacji wracamy do Cor Angara.
 
 ## Infiltrator {#infiltrator}
 
@@ -540,13 +570,13 @@ Przebieg zadania jest praktycznie taki sam jak w niezmodyfikowanej wersji gry, j
 
 Jeśli nie oddamy listu przed otrzymaniem nagrody, dostaniemy jedynie Pierścień Mocy. Natomiast gdy list będzie otwarty, otrzymamy Eliksir uzdrawiający.
 
-Najlepszym rozwiązaniem jest oddanie listu Miltenowi w trakcie rozmowy. Niezależnie od tego, czy jest otwarty, czy zamknięty.
+Najlepszym rozwiązaniem jest oddanie listu Miltenowi w trakcie rozmowy, niezależnie od tego czy jest otwarty, czy zapieczętowany.
 
 ## Polowanie w górskim lesie {#polowanie-w-gorskim-lesie}
 
 W lesie, który odwiedzaliśmy m.in. w misji [Zaginieni w górach](#zaginieni-w-gorach), możemy pokonać kilku minibossów. Ostatnim z nich jest Duch Lasu.
 
-Trofea może od nas kupić Kaus, ale dopiero po odpowiednim wykonaniu zadania [Bestia](#bestia).
+Trofea może od nas kupić Kaus, ale dopiero po pomyślnym wykonaniu zadania [Bestia](#bestia).
 
 ## Zaginieni w górach {#zaginieni-w-gorach}
 
@@ -554,9 +584,9 @@ Po sprowadzeniu Deneba do Lee dowiadujemy się, że musimy odnaleźć jego towar
 
 Po upływie 2 dni odwiedzamy go ponownie. Gunok informuje nas o „wielkim wojowniku Morra”, jednak aby nas do niego zaprowadził, potrzebujemy zwoju teleportacji, który otrzymamy od Lee. Ze zwojem wracamy do Gunoka i podążamy za nim do starej cytadeli. W ruinach naciskamy przełącznik na ścianie i zjeżdżamy na dół, gdzie spotykamy Rolanda i wręczamy mu zwój teleportacji. Aby opuścić to miejsce, używamy rogu otrzymanego od Gunoka.
 
-Następnie odsyłamy orka do Nowego Obozu i udajemy się do szpitala, gdzie rozmawiamy z Denebem i Rolandem. Po odczekaniu jednego dnia ponownie rozmawiamy z Denebem. Lee i Deneb udają się do lasu, a my rozmawiamy z Okylem, po czym również tam wyruszamy. Miejsce spotkania znajduje się w tym samym miejscu co notatki z misji [Wolna Kopalnia](#wolna-kopalnia).
+Następnie odsyłamy orka do Nowego Obozu i udajemy się do szpitala, gdzie rozmawiamy z Denebem i Rolandem. Po odczekaniu jednego dnia ponownie rozmawiamy z Denebem. Lee i Deneb udają się do lasu, a my rozmawiamy z Okylem, po czym również tam wyruszamy. Miejsce spotkania znajduje się w namiocie, w tym samym miejscu co notatki z misji [Wolna Kopalnia](#wolna-kopalnia).
 
-Na miejscu rozmawiamy z towarzyszami i czekamy do północy. Następnie musimy odeprzeć atak bestii.
+Na miejscu rozmawiamy z towarzyszami i czekamy do północy. Następnie musimy odeprzeć atak wargów i cieniostworów.
 
 :::danger Uwaga
 
@@ -564,13 +594,19 @@ Ważne jest, aby nikt nie zginął, ponieważ zablokuje to dalszy postęp zadani
 
 :::
 
- Jeśli nadal jest noc (między 00:00 a 04:00), możemy porozmawiać z towarzyszami i przemienić się w orkowego psa. W tej formie podążamy za nimi do orkowych lochów.
+Jeśli nadal jest noc (między 00:00 a 04:00), możemy porozmawiać z towarzyszami i przemienić się w orkowego psa. W tej formie podążamy za nimi do orkowych lochów.
 
 Lochy okazują się puste, dlatego rozmawiamy z Denebem i czekamy. Po pewnym czasie orkowie przyprowadzają człowieka, musimy ich zabić i uwolnić więźnia. Teraz z nim rozmawiamy. Okazuje się, że zwoje Lee zamokły, więc trzeba zdobyć nowe. Korzystając z przenośnego ogniska, czekamy do godziny 19:00, rozmawiamy z Javierem i używamy na nim zwoju kontroli.
 
-Następnie zakradamy się do orka i kradniemy zwoje przemiany w orkowego psa. Ze zwojami wracamy do Bezimiennego i oddajemy Javierowi kontrolę nad ciałem. Po powrocie do towarzyszy rozmawiamy z nimi, a następnie pokonujemy grupę orków. Ponownie przemieniamy się w psy i uciekamy z orkowych terenów.
+Następnie zakradamy się do wyróżniającego się wyglądem orkowego szamana i kradniemy zwoje przemiany w orkowego psa. Ze zwojami wracamy do Bezimiennego i oddajemy Javierowi kontrolę nad ciałem. Po powrocie do towarzyszy rozmawiamy z nimi, a następnie pokonujemy grupę orków. Ponownie przemieniamy się w psy i uciekamy z orkowych terenów.
 
-Po rozmowie z towarzyszami wracamy do siedziby Lee i rozmawiamy z nim. Ostatnim etapem jest uratowanie Korta. W tym celu ponownie, jako orkowy pies, udajemy się na tereny orków, do sali tronowej, gdzie w skrzyni znajdujemy klucz do wieży. Wieża znajduje się w pobliżu starej krypty. W środku odnajdujemy Korta. Rozmawiamy z nim, pokonujemy go i odsyłamy do Nowego Obozu.
+Po rozmowie z towarzyszami niedaleko miejsca pobytu Pacho wracamy do siedziby Lee i rozmawiamy z nim. Ostatnim etapem jest uratowanie Korta. W tym celu ponownie, jako orkowy pies (lub dowolne inne zwierzę nieprzyciągające uwagi orków, np. wilk), udajemy się na tereny orków, do sali tronowej, gdzie w skrzyni znajdujemy klucz do wieży. Wieża znajduje się w pobliżu starej krypty z kamieniem ogniskującym. W środku odnajdujemy Korta. Rozmawiamy z nim, pokonujemy go i odsyłamy do Nowego Obozu.
+
+:::tip Warto wiedzieć
+
+W wieży z Kortem spotkamy także orka-myśliwego, który będzie miał klucz do innej wieży. Możemy znaleźć łącznie 5 takich wież na terenach orków, a w każdej z nich będzie ork-myśliwy z kluczem do następnej wieży. Warto je ograbić ze względu na dużą ilość znajdujących się w nich rzadkich roślin, mikstur i broni.
+
+:::
 
 Na końcu wracamy do Lee i rozmawiamy z Denebem, co kończy zadanie.
 
@@ -596,7 +632,7 @@ Następnie rozmawiamy z niewolnicą i używamy na niej zwoju kontroli. Kierujemy
 
 Z kluczem wracamy do Bezimiennego i udajemy się do kuchni. Na miejscu podnosimy drabinę i ustawiamy ją pod kominem, po czym wspinamy się na górę.
 
-Na jednym z pięter czeka nas walka z falami nieumarłych. Po ich pokonaniu oraz przestawieniu trzech dźwigni wspinamy się na platformę przy suficie. Tam pokonujemy kolejnego szkieleta i idziemy jeszcze wyżej.
+Na jednym z pięter czeka nas walka z falami nieumarłych. Po ich pokonaniu oraz przestawieniu trzech dźwigni wspinamy się po klatkach na platformę przy suficie. Tam pokonujemy kolejnego szkieleta i idziemy jeszcze wyżej.
 
 Na końcu spotykamy Antaresa. Po krótkiej rozmowie udajemy się wyżej, co kończy zadanie.
 
@@ -674,35 +710,32 @@ Zadanie kończy się po uwolnieniu Meropy i powrocie do Regulusa.
 
 **Zleca:** Maia
 
-Aby pomóc Meropie z efektami izolacji, musimy udać się do Spiki. Ta chce spotkać się z nami wieczorem w jej wodnym młynie. Nie otrzymujemy od niej wielu informacji. Znacznie więcej dowiadujemy się od Antaresa po wykonaniu zadania [Miłość aż po grób](#milosc-az-po-grob). Alrishe możemy znaleźć w podwodnej jaskini w pobliżu zatopionej wieży Xardasa.
+Aby pomóc Meropie z efektami izolacji, musimy udać się do Spiki. Ta chce spotkać się z nami wieczorem w jej wodnym młynie. Nie otrzymujemy od niej wielu informacji. Znacznie więcej dowiadujemy się od Antaresa po wykonaniu zadania [Miłość aż po grób](#milosc-az-po-grob). Alrishę możemy znaleźć w podwodnej jaskini w pobliżu zatopionej wieży Xardasa.
 
 Na tym etapie pojawiają się trzy rozgałęzienia:
 
 **„Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”**
 
-Alrisha ucieka i trafia pod wodospad obok Nowego Obozu. Rozmawiamy z nią, a następnie spotykamy ją w szpitalu. Przekazuje nam 2 zwoje teleportacji dla Mai i Merope. Po ich dostarczeniu wracamy do szpitala i ponownie rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Merope zostaje uratowana, więc udajemy się do Spiki, która wręcza nam nową sukienkę dla Merope. Zanosimy ją do niej, po czym rozmawiamy z Merope, a następnie z Maią. Zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Następnie spotykamy się z Maią, która zaprasza nas wieczorem do karczmy. Wcześniej musimy znaleźć dla niej kwiat, który rośnie na przełęczy Wolnej Kopalni (blisko Crowa). Maię możemy odwiedzić w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+Alrisha ucieka i trafia pod wodospad obok Nowego Obozu. Rozmawiamy z nią, a następnie spotykamy ją w szpitalu. Przekazuje nam 2 zwoje teleportacji dla Mai i Meropy. Po ich dostarczeniu wracamy do szpitala i ponownie rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Meropa zostaje uratowana, więc udajemy się do Spiki, która wręcza nam nową sukienkę dla Meropy. Zanosimy ją do niej, po czym rozmawiamy z Meropą, a następnie z Maią.
 
 **„Spika przesyła Ci pozdrowienia.”**
 
-Alrisha trafia przed bramę Nowego Obozu. Stamtąd prowadzimy ją do szpitala. Na miejscu rozmawiamy ze Spiką. Ta wręcza nam 2 zwoje teleportacji dla Mai i Merope. Po ich dostarczeniu wracamy do szpitala i rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Merope zostaje uratowana, po czym udajemy się do Spiki, która daje nam nową sukienkę dla Merope. Zanosimy ją jej, następnie rozmawiamy z Merope i Maią, po czym zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Następnie spotykamy się z Maią, która zaprasza nas wieczorem do karczmy. Wwcześniej musimy znaleźć kwiat na przełęczy Wolnej Kopalni (blisko Crowa). Maię odwiedzamy w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+Alrisha trafia przed bramę Nowego Obozu. Stamtąd prowadzimy ją do szpitala. Na miejscu rozmawiamy ze Spiką. Ta wręcza nam 2 zwoje teleportacji dla Mai i Meropy. Po ich dostarczeniu wracamy do szpitala i rozmawiamy z Alrishą. Następnie czekamy 3 dni i ponownie z nią rozmawiamy. Meropa zostaje uratowana, po czym udajemy się do Spiki, która daje nam nową sukienkę dla Meropy. Zanosimy ją jej, następnie rozmawiamy z Meropą i Maią.
 
 **„Potrzebuję twojej pomocy.”**
 
-Alrisha udaje się do Regulusa. Leczenie trwa 5 dni. Po jego zakończeniu prowadzimy Alrishę do szpitala w Nowym Obozie. Tam rozmawiamy ze Spiką i Maią. Następnie zabieramy Merope do Kosy i ponownie z nią rozmawiamy. Potem spotykamy Maię, która zaprasza nas wieczorem do karczmy. Wcześniej musimy zdobyć kwiat z przełęczy Wolnej Kopalni (blisko Crowa). Maię odwiedzamy w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
+Alrisha udaje się do Regulusa. Leczenie trwa 5 dni. Po jego zakończeniu prowadzimy Alrishę do szpitala w Nowym Obozie. Tam rozmawiamy ze Spiką i Maią.
 
-:::tip Dodatkowe zadanie
 
-Wybór **„Jeśli tak...to teraz będę jeszcze bliżej...i głębiej.”** oraz **„Spika przesyła Ci pozdrowienia.”** odblokowuje zadanie [Duchy przyszłości](#duchy-przyszlosci).
-
-:::
+Niezależnie od wybranej opcji dialogowej, zabieramy Meropę do Kosy i ponownie z nią rozmawiamy. Dalej, spotykamy się z Maią, która zaprasza nas wieczorem do karczmy. Wcześniej musimy znaleźć dla niej kwiat, który rośnie na przełęczy Wolnej Kopalni (blisko Crowa). Maię możemy odwiedzić w godzinach 21:00–02:00. Po spotkaniu zadanie dobiega końca.
 
 ## Duchy przyszłości {#duchy-przyszlosci}
 
 **Zleca:** Alrisha
 
-Po zaprowadzeniu Meropy do Kosy, w szpitalu zaczepia nas Alrisha i mówi, że chce spotkać się na wieży strażniczej. Musimy pojawić się tam około północy. Następnie prowadzimy ją do swojej chaty, po czym teleportuje się z powrotem na wieżę. Wracamy tam, przekazujemy jej 10 butelek wina oraz 10 Mroków Północy.
+Po zaprowadzeniu Meropy do Kosy, w szpitalu zaczepia nas Alrisha i mówi, że chce spotkać się na wieży strażniczej. Musimy pojawić się tam około północy. Następnie prowadzimy ją do swojej chaty, po czym teleportuje się z powrotem na wieżę. Wracamy tam, przekazujemy jej 10 butelek wina i 10 Mroków Północy.
 
-Alrisha opowiada nam, że widziała orka w jaskini przed Nowym Obozem. Udajemy się tam, jednak znajdujemy jedynie lodowy kwarc. Wracamy do Alrishy, która postanawia stworzyć z niego magiczną runę. Między godziną 01:00 a 04:00 w szpitalu możemy spotkać Myxira i poprosić go o pomoc. Zleca nam zdobycie kamienia runicznego, który znajdziemy na półce w domku Deneba.
+Alrisha opowiada nam, że widziała orka w jaskini przed Nowym Obozem. Udajemy się do jaskini na prawo od jaskini z wytwórnią bagiennego ziela, jednak znajdujemy tam jedynie lodowy kwarc. Wracamy do Alrishy, która postanawia stworzyć z niego magiczną runę. Między godziną 01:00 a 04:00 w szpitalu możemy spotkać Myxira i poprosić go o pomoc. Zleca nam zdobycie kamienia runicznego, który znajdziemy na półce w domu Deneba, gdzie spotkaliśmy go po raz pierwszy.
 
 Z kamieniem wracamy do Myxira, czekamy jeden dzień i odbieramy runę. Następnie przekazujemy ją Alrishy i podążamy za nią. Po krótkim dialogu na plaży przenosimy się w okolice Nowego Obozu z przyszłości.
 
@@ -714,7 +747,7 @@ Naszym pierwszym celem jest odnalezienie Alrishy, która znajduje się na poddas
 
 Po incydencie w zamku Świstak chce dołączyć do Nowego Obozu. Udajemy się więc do Laresa i prosimy go o zgodę, którą otrzymujemy.
 
-Wracamy z wiadomością do chaty Świstaka, jednak nie zastajemy go na miejscu. Na stole znajduje się jedynie wiadomość, którą należy przeczytać.
+Wracamy z wiadomością do chaty Świstaka, jednak nie zastajemy go na miejscu. Na stole w chacie znajduje się jedynie wiadomość, którą należy przeczytać.
 
 Świstaka znajdziemy w lochach zamku. Do samego zamku dostaniemy się w trakcie wykonywania zadania [Alarm w Starym Obozie](#alarm-w-starym-obozie).
 
@@ -750,15 +783,15 @@ Po rozmowie ze Skorpionem wracamy do Polluxa. Ten odsyła nas do obozu na bagnie
 
 Aby móc z nim porozmawiać, musimy wykonać szereg zadań dla Kausa i Guru: [Stado ścierwojadów](#stado-scierwojadow), [Dary natury](#dary-natury), [Zagrożenie na bagnach](#zagrozenie-na-bagnach), Nowi wyznawcy dla Bractwa, Zbiory bagiennego ziela, użycie zwoju snu na nowicjuszu Baal Cadara, zaaranżowanie rozmowy z Lesterem przy Baal Namibie.
 
-Następnie rozmawiamy z Lesterem i udajemy się do Y’Beriona. Powie nam, że potrzebuje przedmiotu należącego do zaginionej osoby.
+Następnie rozmawiamy z Lesterem i udajemy się do Y’Beriona. Jaśnie Oświecony powie nam, że potrzebuje przedmiotu należącego do zaginionej osoby.
 
-Polluxa spotkamy po drodze z Obozu Śniącego, otrzymamy od niego amulet Kastora. Z tym przedmiotem wracamy do Y’Beriona. Po krótkiej wizji ponownie udajemy się do Polluxa i przekazujemy mu informacje.
+Polluxa spotkamy przy drodze do Obozu Bractwa, otrzymamy od niego amulet Kastora. Z tym przedmiotem wracamy do Y’Beriona. Po krótkiej wizji ponownie udajemy się do Polluxa i przekazujemy mu informacje.
 
 Kolejnym krokiem jest wizyta u Magów Ognia w Starym Obozie. W rozmowie z Miltenem mamy wybór:
 
-- **„Skąd mam to wiedzieć?”** → odblokowuje dodatkowe zadanie [Ruda dla magów](#ruda-dla-magow); dopiero po jego wykonaniu mamy zaplanowane spotkanie z Drago nocą w zawalonej wieży
+- **„Skąd mam to wiedzieć?”** → odblokowuje dodatkowe zadanie [Ruda dla magów](#ruda-dla-magow); dopiero po jego wykonaniu mamy zaplanowane spotkanie z Drago nocą w zawalonej wieży,
 
-- **„Ten człowiek jest jednym z byłych królewskich strażników.”** → Drago od razu będzie czekał na nas nocą w zawalonej wieży
+- **„Ten człowiek jest jednym z byłych królewskich strażników.”** → Drago od razu będzie czekał na nas nocą w zawalonej wieży.
 
 Po spotkaniu z Drago wracamy do Polluxa (przebywa w jaskini obok mostu przy północnej bramie). Po napisaniu listu przez Polluxa teleportujemy się do siedziby Magów Ognia.
 
@@ -790,7 +823,7 @@ Zadanie dostępne po wykonaniu [Zaginiona siostra](#zaginiona-siostra) i rozmowi
 
 Lee zleca nam odnalezienie Antaresa. W tym celu udajemy się do Aldebara, który stoi przy Ryżowym Księciu. Otrzymujemy od niego koło zębate i zostajemy wysłani do Opuszczonej Kopalni. Podczas eksploracji natrafiamy na nieumarłego strażnika, który informuje nas, że przebywali tu jedynie nekromanta i sekciarz, a także wspomina o skorpionie.
 
-Wracamy do Aldebara, który tym razem znajduje się w Wolnej Kopalni. Okazuje się, że nie sprawdził on dokładnie miejsca, więc musimy zrobić to sami. Udajemy się do Okyla po klucz, a po wejściu do kopalni zagaduje nas Acrux. W środku rozmawiamy również z Rice, który wspomina o dziwnym owadzie.
+Wracamy do Aldebara, który tym razem znajduje się przy wejściu do Kotła Wolnej Kopalni. Okazuje się, że nie sprawdził on dokładnie miejsca, więc musimy zrobić to sami. Udajemy się do Okyla po klucz, a po wejściu do kopalni zagaduje nas Acrux. W środku rozmawiamy również z Ricem, który wspomina o dziwnym owadzie.
 
 Podczas wykonywania zadania [Problemy w Wolnej Kopalni](#problemy-w-wolnej-kopalni) znajdujemy notatkę Antaresa. Z nią udajemy się do Gacruxa, a następnie do Aldebara. Najemnik wyrusza do Magów Wody, a my mamy sprawdzić Starą Kopalnię. Na miejscu Drake wręcza nam kolejną notatkę od Antaresa.
 
@@ -824,7 +857,7 @@ Azomim, jeden z kretów, którego spotkamy w Wolnej Kopalni, zleca nam odnalezie
 
 **Zleca:** Carlen
 
-Carlen w Nowym Obozie prosi nas o pomoc w załatwieniu kilku spraw. Wystarczy podążać za nim aż na plażę.
+Carlen w Nowym Obozie prosi nas o pomoc w załatwieniu kilku spraw. Wystarczy podążać za nim aż na plażę z wrakiem statku przy Wieży Mgieł.
 
 Na miejscu wysłuchujemy jego historii, co kończy zadanie.
 
@@ -854,7 +887,7 @@ Magazyn znajduje się niedaleko placu treningowego i jest pilnowany przez straż
 
 Po wszystkim wracamy do Shrata. Najlepiej oddać mu ciężki pancerz. Następnie udajemy się do Regulusa.
 
-Regulus może ulepszyć ten pancerz oraz wykonać hełm, jeśli dostarczymy mu 15 płytek pełzaczy. Umiejętności ich pozyskiwania nauczy nas Wilk, a same pełzacze znajdziemy w Wolnej Kopalni (dostępnej w ramach misji [Z dala od gapiów](#z-dala-od-gapiow)). Płytki można również wykraść z magazynów kupców.
+Regulus może ulepszyć ten pancerz oraz wykonać hełm, jeśli dostarczymy mu 15 płytek pełzaczy. Umiejętności ich pozyskiwania nauczy nas Wilk, a same pełzacze znajdziemy w Opuszczonej Kopalni i Wolnej Kopalni (dostępnych w ramach misji [Z dala od gapiów](#z-dala-od-gapiow)). Płytki można również wykraść z magazynów kupców.
 
 Po dostarczeniu płytek musimy odczekać jeden dzień, a następnie odebrać gotowe wyposażenie od Regulusa, co kończy zadanie.
 
@@ -884,13 +917,13 @@ Kolejnym krokiem jest wizyta w karczmie i rozmowa z Silasem, który wskazuje nam
 
 Pock zażąda od nas 10 kiści winogron. Po ich przyniesieniu otrzymujemy trzy opcje dialogowe. Najlepiej wybrać „Czego jeszcze chcesz?”. Następnie udajemy się do Myxira po lekarstwo i zanosimy je Pockowi. W kolejnym kroku musimy przynieść mu 3 smocze korzenie. W zamian poda nam jedynie pierwszą literę imienia szpiega. Następnego dnia możemy odebrać od niego miksturę siły.
 
-Teraz odnajdujemy Świstaka. Znajduje się na końcu drogi przy starej kopalni, ukryty w krzakach. Wspólnie sprawdzamy miejsce zasadzki. Przeszukując ciała, znajdujemy kolejną notatkę w krzakach. Po jej przeczytaniu rozmawiamy ze Świstakiem i udajemy się do Laresa.
+Teraz odnajdujemy Świstaka. Znajduje się on przy niewielkim krzaku, na końcu drogi przy Starej Kopalni, przed zawalonym przejściem do Górniczej Doliny znanym z intra gry. Wspólnie sprawdzamy miejsce zasadzki. Przeszukując ciała, znajdujemy kolejną notatkę w krzakach. Po jej przeczytaniu rozmawiamy ze Świstakiem i udajemy się do Laresa.
 
 Po rozmowie kierujemy się do Starego Obozu, gdzie możemy porozmawiać z: Złym, Jessem, Grahamem, Grimem, Herekiem oraz Gravo. Jeśli pomogliśmy Grimowi zdobyć amulet i zgodziliśmy się na pokój, przekaże nam cenne informacje. W przeciwnym razie informacje przekaże nam Diego. Następnie udajemy się do Miltena (tylko w przypadku uzyskania informacji od Grima), a potem do sekciarzy. Bloodwyna znajdziemy na placu świątynnym (sposoby jego eliminacji opisane są w misji [Szpieg w Bractwie](#szpieg-w-bractwie)).
 
 Po rozprawieniu się z Bloodwynem wracamy do Świstaka. Ten wspomina o Omidzie, więc udajemy się do zamku Magnatów i rozmawiamy z Balamem. Omida znajdziemy pod wodospadem przy moście prowadzącym do Starej Kopalni. Odsyłamy go do szpitala i tam z nim rozmawiamy, po czym wracamy do Świstaka.
 
-Przed wejściem ponownie zatrzyma nas Roscoe. Informuje, że Pock nas szuka. Idziemy więc do Pocka, a następnie wracamy do Świstaka. Kolejno udajemy się do Okyla, który wspomina o Krecie. Znajdziemy go na wieży strażniczej. Po rozmowie z Arto wracamy do Laresa, a następnie do Lee.
+Przed wejściem ponownie zatrzyma nas Roscoe. Informuje, że Pock nas szuka. Idziemy więc do Pocka, a następnie wracamy do Świstaka. Kolejno udajemy się do Okyla, który wspomina o Krecie, który nas szukał. Znajdziemy go na drewnianej wieży strażniczej przy wejściu do Kotła. Po rozmowie z Arto wracamy do Laresa, a następnie do Lee.
 
 Lee zgadza się przyjąć Arto, więc udajemy się do karczmy, aby go o tym poinformować. W tym momencie misja dobiega końca.
 
@@ -902,13 +935,13 @@ Arto opowiada nam o obawach Magnatów dotyczących asasynów. W związku z tym u
 
 Cavalorn informuje nas, że coś wydarzyło się w pobliskim obozie myśliwskim. Udajemy się na miejsce, gdzie spotykamy Brzytwę oraz ciała włóczęgów. Po pokonaniu potwora zbieramy fragment materiału i wracamy z nim do Cavalorna.
 
-Następnie musimy odnaleźć dwóch asasynów. Pierwszego znajdziemy w podwodnej jaskini obok północnej bramy Starego Obozu. Po rozmowie sam uda się do Regulusa. Drugiego odnajdziemy, kierując się od bramy obozu na bagnie w stronę polany z jaszczurami. Znajduje się po lewej stronie, we wnęce blisko rzeki, Rozmawiamy z nim, a następnie prowadzimy go do kryjówki Regulusa, co kończy zadanie.
+Następnie musimy odnaleźć dwóch asasynów. Pierwszego znajdziemy w podwodnej jaskini obok północnej bramy Starego Obozu. Po rozmowie sam uda się do Regulusa. Drugiego odnajdziemy, kierując się od bramy obozu na bagnie w stronę polany z jaszczurami. Znajduje się po lewej stronie, we wnęce blisko rzeki. Rozmawiamy z nim, a następnie prowadzimy go do kryjówki Regulusa, co kończy zadanie.
 
 ## Polowanie z Hamalem {#polowanie-z-hamalem}
 
 **Zleca:** Hamal
 
-Spotykając Hamala obok Cor Angara, możemy udać się z nim na wspólne polowanie.
+Spotykając Hamala na placu treningowym, obok Cor Angara, możemy udać się z nim na wspólne polowanie.
 
 Najpierw wyruszamy na bagna, gdzie eliminujemy węże błotne. Po ich wybiciu rozmawiamy z Hamalem i ruszamy do lasu. Tam naszym celem jest pokonanie trzech starych cieniostworów.
 
@@ -920,9 +953,19 @@ Chromaniny najlepiej zbierać podczas wyprawy z Hamalem. Ich lokalizacje są tak
 
 Następnie Hamal poleci nam przyprowadzić Al-Shemaliego. Po doprowadzeniu go na miejsce wspólnie przeprowadzamy rytuał, po którym zadanie dobiega końca.
 
+:::tip Wskazówka
+W związku z tym, że większość lokalizacji Chromaninów jest łatwo dostępna dzięki pierścieniowi obieżyświata, który otrzymujemy w nagrodę po ukończeniu zadania [Zaginiony brat](#zaginiony-brat), można je zebrać bez pomocy Hamala. Po zebraniu wszystkich sześciu części wystarczy z nim porozmawiać na placu treningowym w Obozie Bractwa i poprosić o podążanie za nami. W tym momencie zostaną odtworzone wszystkie kwestie dialogowe tak, jakby asasyn towarzyszył nam w odnajdywaniu ich.
+:::
+
 ## Mroczne rytuały {#mroczne-rytualy}
 
-Po zakończeniu rytuału spotykamy się z asasynami na wieży obok miasta orków, a następnie udajemy się przed most prowadzący do miasta. Po przemianie rozmawiamy z Hamalem i podążamy za Al-Shemalim. W jaskiniach orków ponownie z nim rozmawiamy.
+:::info Warunek rozpoczęcia
+
+Zadanie jest kontynuacją wątku rozpoczętego w zadaniu [Nieznajomy](#nieznajomy).
+
+:::
+
+Po zakończeniu rytuału spotykamy się z asasynami na wieży przed wejściem do miasta orków, a następnie udajemy się przed most prowadzący do miasta. Po przemianie rozmawiamy z Hamalem i podążamy za Al-Shemalim. W jaskiniach orków ponownie z nim rozmawiamy.
 
 Przy orkowym tronie znajdujemy kamień i róg, które pokazujemy Al-Shemaliemu. Następnie schodzimy do lochów, gdzie odnajdujemy dziewczynę. Rozmawiamy z Al-Shemalim, próbujemy użyć przycisku (bez skutku), po czym ponownie z nim rozmawiamy. Po otwarciu krat rozmawiamy jeszcze raz z Al-Shemalim oraz z dziewczyną. Następnie spotykamy się z nimi obok chaty Fortuno.
 
@@ -958,7 +1001,7 @@ Po rozmowie z Chironem ponownie udajemy się do niego. Znajdziemy go w kuchni za
 
 **„Plan Regulusa.”**
 
-Wręczamy zbroje Georgowi i Thordirowi, po czym rozmawiamy z Regulusem. Spotykamy się z nim nocą w pobliżu chaty Świstaka. Następnie wspinamy się na dach i przy użyciu zwoju przemiany w chrząszcza dostajemy się do komnaty Gomeza. Usypiamy Velayę i zabijamy Gomeza. Po chwili pojawia się Chiron. Przekazujemy mu ekwipunek Gomeza, przejmujemy nad nim kontrolę i zabijamy Kruka. Wracamy do komnaty Gomeza, rozmawiamy z Chironem i teleportujemy się na zewnątrz. Następnie udajemy się do Lee, Arto i Carstena, potem do Regulusa, ponownie do Lee i rekrutujemy Arto oraz Carstena. Na końcu wracamy do zamku na spotkanie z Chironem.
+Wręczamy zbroje Georgowi i Thordirowi, po czym rozmawiamy z Regulusem. Spotykamy się z nim nocą w pobliżu chaty Świstaka. Następnie wspinamy się na dach i przy użyciu zwoju przemiany w chrząszcza dostajemy się po długiej, cienkiej belce przez okno do komnaty Gomeza. Usypiamy Velayę w dialogu i zabijamy Gomeza. Po chwili pojawia się Chiron. Przekazujemy mu ekwipunek Gomeza, przejmujemy nad nim kontrolę i zabijamy Kruka. Wracamy do komnaty Gomeza, rozmawiamy z Chironem i teleportujemy się na zewnątrz. Następnie udajemy się do Lee, Arto i Carstena, potem do Regulusa, ponownie do Lee i rekrutujemy Arto oraz Carstena. Na końcu wracamy do zamku na spotkanie z Chironem.
 
 **„Plan Altarfa.”**
 
@@ -986,7 +1029,7 @@ Regulus zleca nam sprawdzenie jaskiń w Kolonii i wręcza w tym celu mapę. Nasz
 
 ## Strażnicy grobowców {#straznicy-grobowcow}
 
-Podczas wykonywania zadania [Jaskinie w Kolonii](#jaskinie-w-kolonii) natkniemy się na nieumarłych orków. Po ich pokonaniu wracamy do Regulusa.
+Podczas wykonywania zadania [Jaskinie w Kolonii](#jaskinie-w-kolonii) natkniemy się na nieumarłych orków. Większość strażników jest podatna tylko na jeden rodzaj obrażeń (cięte, obuchowe, dystansowe, od ognia, od magii), więc warto się zaopatrzyć przed eksploracją jaskiń w różne bronie i zwoje/runy. Po ich pokonaniu wracamy do Regulusa.
 
 ## Orkowe lekarstwo {#orkowe-lekarstwo}
 
@@ -1008,10 +1051,10 @@ Schodzimy na dół, pokonujemy orków, otwieramy kratę i zabieramy fragment zwo
 
 Po teleportacji kontynuujemy eksplorację cmentarzyska. W pewnym momencie pojawi się nieumarły kapłan. Pokonujemy go i zabieramy kostur z ołtarza. Następnie kierujemy się do wyjścia, jednak kołowrót okazuje się uszkodzony. Regulus go naprawia, po czym ponownie z nim rozmawiamy.
 
-Udając się na górne piętro, spotykamy Varrag-Nag-Daha. Po rozmowie z nim wracamy do Regulusa i podążamy za nim. Przy wyjściu stajemy przed wyborem:
+Udając się na górne piętro, spotykamy Varrag-Nag-Daha. Po rozmowie z nim wracamy do Regulusa i podążamy za nim, przebijając się przez zastępy nieumarłych orków. Przy wyjściu stajemy przed wyborem:
 
-- **„Nie mam już siły. Wynośmy się stąd.”** → opuszczamy cmentarzysko
-- **„Dobrze. Powiedz mi, co trzeba zrobić.”** → Regulus pokazuje nam sekretne miejsce z miniaturką Śniącego
+- **„Nie mam już siły. Wynośmy się stąd.”** → opuszczamy cmentarzysko,
+- **„Dobrze. Powiedz mi, co trzeba zrobić.”** → Regulus pokazuje nam sekretne miejsce z miniaturką Śniącego.
 
 Po opuszczeniu cmentarzyska zadanie dobiega końca. Pozostaje wrócić do kryjówki Regulusa.
 
@@ -1029,6 +1072,12 @@ Po dwóch dniach zgłaszamy się po gotowy pancerz. Możemy wybrać jego właśc
 
 **Zleca:** Regulus
 
+:::warning Uwaga
+
+W rozmowie z Lesterem należy podjąć wybór, czy kontynuujemy wątek fabularny modyfikacji, czy też decydujemy się na standardowy scenariusz znany z oryginalnej wersji gry.
+
+:::
+
 Musimy poznać plany sekciarzy, dlatego udajemy się do Lestera. Opowiada nam o Nyrasie, który wyruszył po kamień ogniskujący.
 
 Odnajdujemy Nyrasa i podczas rozmowy mamy wybór: możemy go zaatakować lub wybrać drugą opcję i wykraść kamień bez zabijania go. Po zdobyciu kamienia zanosimy go do Regulusa, co kończy zadanie.
@@ -1038,6 +1087,12 @@ Odnajdujemy Nyrasa i podczas rozmowy mamy wybór: możemy go zaatakować lub wyb
 **Zleca:** Regulus
 
 Wraz z Regulusem musimy odnaleźć cztery kamienie ogniskujące. Do każdej lokacji możemy udać się samodzielnie, poprosić Regulusa o poprowadzenie lub samemu pełnić rolę przewodnika.
+
+:::info Informacja
+
+Do lokacji z kamieniami ogniskującymi możemy udać się w dowolnej kolejności.
+
+:::
 
 Pierwszym miejscem jest Kanion Trolli. Na miejscu możemy zdecydować się na pokonanie trolla lub jego ominięcie. Następnie naprawiamy kołowrót i zabieramy kamień.
 
@@ -1055,7 +1110,7 @@ Po zebraniu wszystkich kamieni informujemy o tym Regulusa i spotykamy się z nim
 
 Musimy zdobyć Almanach dla Regulusa od Magów Ognia. W tym celu udajemy się do Corristo, który informuje nas, że Cor Kalom już wykupił księgę. Przy okazji zapyta nas, czy rozważamy ucieczkę przy pomocy planu Magów Wody. Możemy odpowiedzieć „Tak” lub „Nie”. Jeśli wcześniej dostarczyliśmy list do Miltena, pojawi się dodatkowa opcja dialogowa: „Wszystko jest o wiele bardziej skomplikowane niż się wydaje”, dzięki której możemy powiedzieć prawdę o Śniącym.
 
-Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzącym do siedliska goblinów spotykamy Talasa i z nim rozmawiamy. Następnie eliminujemy gobliny, odnajdujemy Almanach i zanosimy go do Regulusa, co kończy zadanie.
+Niezależnie od wyboru kierujemy się do obozu na bagnie. Przy moście prowadzącym do jaskini czarnych goblinów spotykamy Talasa i z nim rozmawiamy. Następnie eliminujemy gobliny, odnajdujemy Almanach i zanosimy go do Regulusa, co kończy zadanie.
 
 ## Ucieczka od wolności {#ucieczka-od-wolnosci}
 
@@ -1067,4 +1122,4 @@ Zaleca się zakończenie wszystkich rozpoczętych zadań przed jej rozpoczęciem
 
 :::
 
-Po przyniesieniu Almanachu musimy odczekać kilka dni i spotkać się z Regulusem. Ten chce przeprowadzić rytuał teleportacji, jednak coś go blokuje. Idziemy porozmawiać z golemem. Po rozmowie ponawiamy rytuał i wchodzimy w portal. Przenosimy się do Varantu. Po krótkiej rozmowie udajemy się do Ben Sali, gdzie spotykamy Julio. Następnie rozmawiamy z Regulusem, który wręcza nam kamień teleportacji do Ben Sali. Po dotarciu do Bakareshu i rozmowie z Benito otrzymujemy kolejny wpis. Po dotarciu do Ishtar z Regulusem i rozmowie z Zubenem otrzymujemy następny wpis. Następnie wraz z Regulusem udajemy się do Bakareshu, aby porozmawiać z Czarnymi Magami. Strażnik świątyni przepuszcza nas do środka, gdzie rozmawiamy z Tizgarem, a następnie z Sigmorem i Amulem. Po wejściu do wieży przygoda z Varantem dobiega końca, a wraz z nią ta misja.
+Po przyniesieniu Almanachu musimy odczekać kilka dni i spotkać się z Regulusem. Ten chce przeprowadzić rytuał teleportacji, jednak coś go blokuje. Idziemy porozmawiać z golemem. Po rozmowie ponawiamy rytuał i wchodzimy w portal. Przenosimy się do Varantu. Po krótkiej rozmowie udajemy się do Ben Sali, gdzie spotykamy Julio. Następnie rozmawiamy z Regulusem, który wręcza nam kamień teleportacji do Ben Sali. Po dotarciu do Bakareshu i rozmowie z Benito otrzymujemy kolejny wpis. Po dotarciu do Ishtar z Regulusem i rozmowie z Zubenem otrzymujemy następny wpis. Następnie wraz z Regulusem udajemy się do Bakareshu, aby porozmawiać z Czarnymi Magami. Strażnik świątyni przepuszcza nas do środka, gdzie rozmawiamy z Tizgarem, a następnie z Sigmorem i Amulem. Po wejściu do wieży świątynnej i teleportacji przygoda z Varantem dobiega końca, a wraz z nią ta misja.
