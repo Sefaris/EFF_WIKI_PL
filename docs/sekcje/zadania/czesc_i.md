@@ -10,8 +10,9 @@ slug: /solucja/gornicza-dolina/
 :::info Ważne informacje
 
 - Kradzież kieszonkowa jest potrzebna w kilku zadaniach, więc warto się jej nauczyć jak najszybciej.
-- Nie zaleca się picia Esencji siły ani Esencji zręczności. W Varancie można nauczyć się wytwarzania z nich Napojów potęgi.
-- Za zjedzenie 5 plastrów miodu dostaniemy +5PN.
+- Nie zaleca się picia esencji siły i esencji zręczności. W Varancie u Aldo i u Xardasa można kupić recepturę napoju potęgi (+4 do siły i zręczności), do której potrzebne są te mikstury.
+- Nie zaleca się również spożywania mechów nagrobnych, velais, dragrotów, ogniocierni, trolestów i czarnych ziół, ponieważ mogą one posłużyć jako składniki do napoju władzy (+6 do siły i zręczności). Recepturę tej mikstury można zakupić u Wash-Kana w podziemnym mieście orków.
+- Za zjedzenie 5 plastrów miodu dostaniemy dodatkowe 5 punktów nauki.
 - Za wykonanie [Misja ratunkowa](#misja-ratunkowa) otrzymamy przenośny stół alchemiczny. Warto zgodzić się na pomoc.
 - Za wykonanie [Zaginiony brat](#zaginiony-brat) zdobędziemy pierścień teleportacji w najważniejsze miejsca w Kolonii.
 - Warto nauczyć się górnictwa od Swineya lub Grimesa, może być przydatne w późniejszym etapie rozgrywki.
@@ -1121,4 +1122,4 @@ Zaleca się zakończenie wszystkich rozpoczętych zadań przed jej rozpoczęciem
 
 :::
 
-Po przyniesieniu Almanachu musimy odczekać kilka dni i spotkać się z Regulusem. Ten chce przeprowadzić rytuał teleportacji, jednak coś go blokuje. Idziemy porozmawiać z golemem. Po rozmowie ponawiamy rytuał i wchodzimy w portal. Przenosimy się do Varantu. Po krótkiej rozmowie udajemy się do Ben Sali, gdzie spotykamy Julio. Następnie rozmawiamy z Regulusem, który wręcza nam kamień teleportacji do Ben Sali. Po dotarciu do Bakareshu i rozmowie z Benito otrzymujemy kolejny wpis. Po dotarciu do Ishtar z Regulusem i rozmowie z Zubenem otrzymujemy następny wpis. Następnie wraz z Regulusem udajemy się do Bakareshu, aby porozmawiać z Czarnymi Magami. Strażnik świątyni przepuszcza nas do środka, gdzie rozmawiamy z Tizgarem, a następnie z Sigmorem i Amulem. Po wejściu do wieży przygoda z Varantem dobiega końca, a wraz z nią ta misja.
+Po przyniesieniu Almanachu musimy odczekać kilka dni i spotkać się z Regulusem. Ten chce przeprowadzić rytuał teleportacji, jednak coś go blokuje. Idziemy porozmawiać z golemem. Po rozmowie ponawiamy rytuał i wchodzimy w portal. Przenosimy się do Varantu. Po krótkiej rozmowie udajemy się do Ben Sali, gdzie spotykamy Julio. Następnie rozmawiamy z Regulusem, który wręcza nam kamień teleportacji do Ben Sali. Po dotarciu do Bakareshu i rozmowie z Benito otrzymujemy kolejny wpis. Po dotarciu do Ishtar z Regulusem i rozmowie z Zubenem otrzymujemy następny wpis. Następnie wraz z Regulusem udajemy się do Bakareshu, aby porozmawiać z Czarnymi Magami. Strażnik świątyni przepuszcza nas do środka, gdzie rozmawiamy z Tizgarem, a następnie z Sigmorem i Amulem. Po wejściu do wieży świątynnej i teleportacji przygoda z Varantem dobiega końca, a wraz z nią ta misja.

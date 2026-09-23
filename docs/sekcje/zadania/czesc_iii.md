@@ -61,6 +61,12 @@ W środku rozmawiamy z Drake’iem i Corristo. Mag wręcza nam pierścienie tele
 
 Możemy uratować łącznie 13 osób: Brandicka, Alepha, Snipesa, Ulberta, Grimesa, Alberto, Iana, orka-niewolnika, Gor Na Vida, Węża, Strażnika, Garpa oraz Ashgana.
 
+:::info Ratunek orka-niewolnika
+
+Orka odnajdziemy w prawym korytarzu na samym dole kopalni. Należy jednak mieć na uwadze, że może się on tam nie pojawić lub zostać zabity od razu przez pełzacze. W tej sytuacji można przywołać go przy pomocy polecenia `insert orc_2001_sklave2`.
+
+:::
+
 Po uratowaniu wszystkich wracamy do Corristo. W trakcie rozmowy pojawia się demon blokujący wyjście.  Magowie zajmują się nim, a my musimy uciekać z kopalni.
 
 Na zewnątrz rozmawiamy z ocalałymi, a następnie wracamy do Chirona, co kończy zadanie.
@@ -129,11 +135,11 @@ Od tego momentu cały obóz staje się wobec nas wrogi.
 
 :::
 
- Po drodze rozmawiamy jeszcze z Lesterem w jaskini.
+Po drodze rozmawiamy jeszcze z Lesterem w jaskini.
 
 Wracamy do Regulusa, oddajemy posążek orkowi i otwieramy bramę do wioski.
 
-Następnie razem z Regulusem udajemy się pod wieżę Xardasa. Klucz do niej posiadają golemy strażnicy. Zabijamy je, zabieramy klucz i otwieramy drzwi.
+Następnie razem z Regulusem udajemy się pod wieżę Xardasa. Klucz do niej posiadają golemy strażnicy. Zabijamy je, zabieramy klucz od lodowego golema i otwieramy drzwi.
 
 W wieży rozmawiamy z demonem, wręczamy mu trzy serca golemów i używamy runy teleportacji. Po rozmowie z Xardasem wracamy do wioski orków.
 
@@ -157,15 +163,19 @@ Regulus teleportuje nas z celi. Spotykamy się z nim przed wieżą Xardasa, uży
 
 Jeśli w zadaniu [Wioska orków](#wioska-orkow) uciekliśmy z lochów, pomijamy cały wątek związany z orkami. W takim przypadku po prostu wybijamy mieszkańców miasta. Z ciała przywódcy orków zabieramy klucz i otwieramy kratę prowadzącą do świątyni. Koniec zadania.
 
-Jeśli dostaliśmy się do miasta pokojowo, na moście zagaduje nas Tukash, który kieruje nas do Hosh-Kara. Znajdziemy go za mostem, po prawej stronie, w jednym z pomieszczeń.
+Jeśli dostaliśmy się do miasta pokojowo, na moście zagaduje nas Tukash, który kieruje nas do Hosh-Kara. Znajdziemy go za mostem, po prawej stronie, w pomieszczeniu z kuźnią.
 
-Po rozmowie z nim musimy odnaleźć Hosh-Paka. Wracamy do Regulusa, a następnie wyruszamy na poszukiwania Hosh-Paka. Po rozmowie z nim ponownie wracamy do Regulusa.
+Po rozmowie z nim musimy odnaleźć Hosh-Paka. Wracamy do Regulusa, a następnie wyruszamy na poszukiwania Hosh-Paka. Znajdziemy go przy wielkiej arenie - należy zejść na nią po schodach (lub użyć teleportu), a następnie wybrać drugie przejście od prawej. Po rozmowie z nim ponownie wracamy do Regulusa.
 
-Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-Arasha. Ur-Arash zleca nam trzy zadania: [Orkowe mikstury](#orkowe-mikstury), [Orkowa stal](#orkowa-stal) oraz [Sekta](#sekta).
+Kolejnym krokiem jest spotkanie z Varrag-Grash-Shatem, który odsyła nas do Ur-Arasha. Ten drugi znajduje się w sali tronowej, do której wejście ze strażnikiem znajdziemy po prawej stronie, przechodząc przez główną bramę miasta. Ur-Arash zleca nam trzy zadania: [Orkowe mikstury](#orkowe-mikstury), [Orkowa stal](#orkowa-stal) oraz [Sekta](#sekta).
 
 Po wykonaniu zadań związanych ze stalą i miksturami skupiamy się na zadaniu [Sekta](#sekta) i realizujemy je aż do powrotu do miasta.
 
 Po powrocie Regulus informuje nas, że wódz przekazał klucz i pozwolił wejść do świątyni. Podążamy za Regulusem, otwieramy kratę i przy wejściu do świątyni rozmawiamy z nim, co kończy zadanie.
+
+W przypadków problemów ze znajdywaniem wymienionych wyżej orków, można śmiało posłużyć się niżej załączoną mapą, na której zaznaczono przybliżone pozycje orków potrzebnych do zadań opisanych w solucji.
+
+![Mapa podziemnego miasta orków z lokacjami ważniejszych orków](fotki/miastoorkow.png)
 
 ## Orkowe mikstury {#orkowe-mikstury}
 
@@ -193,7 +203,7 @@ Po wyjściu z miasta orków rozmawiamy z Regulusem. Następnie wieczorem spotyka
 
 Razem udajemy się do naszej kryjówki, gdzie na stole znajdujemy notatkę. Czytamy ją. Dowiadujemy się, że Cor Angar przebywa u Cavalorna. Po rozmowie otrzymujemy zadanie [Pomoc dla Y'Beriona](#pomoc-dla-yberiona).
 
-Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#lecznicze-ziola-dla-yberiona). Po wykonaniu zadania wracamy do Regulusa na bagnach.
+Udajemy się na bagna, gdzie Angar zleca nam [Lecznicze zioła dla Y'Beriona](#lecznicze-ziola-dla-yberiona). Po wykonaniu zadania wracamy do Regulusa, którego znajdziemy przy orkowej lampie na bagnach.
 
 Regulus każe nam przeszukać laboratorium Cor Kaloma. Obok laboratorium znajdujemy notatkę, którą przynosimy Regulusowi. Po jej przeczytaniu pojawia się miniatura Śniącego. Pokonujemy ją.
 
@@ -233,11 +243,23 @@ Z gotową miksturą wracamy do Cor Angara, co kończy zadanie i pozwala uratowa�
 
 Zadanie ma liniowy przebieg, a wszystkie rozwiązania zagadek znajdują się w dzienniku.
 
+:::warning Uwaga
+
+Po zjechaniu windą na dół do zalanego pomieszczenia z Regulusem i przekręceniu przełączników może okazać się, że krata blokująca przejście do wielkiego mostu się nie podniesie. Należy to zignorować i przenieść naszą postać oraz Regulusa na drugą stronę kraty.
+
+:::
+
 ## Magiczny miecz URIZIEL {#magiczny-miecz-uriziel}
 
 Wraz z Regulusem pokazujemy Uriziel Xardasowi. Ten wręcza nam klucz do skrzyni w swojej zatopionej wieży.
 
 Udajemy się tam i znajdujemy pancerz z magicznej rudy. Następnie wracamy do Xardasa, który daje nam zwój transferu energii.
+
+:::warning Uwaga
+
+Można spotkać się z błędem, w wyniku którego pancerza nie ma w skrzyni. Należy wtedy użyć polecenia `insert ore_armor_m` i podnieść zbroję, po czym Regulus nas zaczepi i wróci do wieży Xardasa.
+
+:::
 
 Rozmawiamy z Saturasem, jednak ten odmawia pomocy. W związku z tym udajemy się do Sadalsuuda, który zgadza się nam pomóc.
 
@@ -247,7 +269,7 @@ Po wszystkim wracamy do Regulusa, który czeka w karczmie na jeziorze.
 
 :::tip Wskazówka
 
-Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni wręczny nam hełm z magicznej rudy.
+Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Shat, który mieszka w górach w pobliżu Wolnej Kopalni, wręczy nam hełm z magicznej rudy.
 
 :::
 
@@ -256,6 +278,12 @@ Warto odwiedzić Golema na arenie, który wzmocni nam pancerz. Natomiast Grah-Sh
 Po naładowaniu Uriziela możemy wraz z Regulusem wrócić do świątyni. Rozmawiamy z nim w karczmie na jeziorze i spotykamy się przed wejściem.
 
 Dalszy przebieg zadania jest liniowy, więc nie wymaga szczegółowego opisu.
+
+:::warning Uwaga
+
+Jeżeli Regulus zginie podczas walki ze Śniącym, należy wczytać ostatni zapis lub go wskrzesić, ponieważ jego śmierć uniemożliwia ukończenie modyfikacji.
+
+:::
 
 ---
 
