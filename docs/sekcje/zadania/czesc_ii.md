@@ -288,7 +288,7 @@ Gdy Nadzorca zainteresuje się winem, musimy mu je dostarczyć najbliższej nocy
 
 :::
 
-Około 00:30 strażnik odchodzi spod więzienia i kieruje się do namiotu, to nasza szansa. Otwieramy celę (klucz do drzwi więzienia działa od godziny 00:36) i wyprowadzamy niewolnicę pod daszek obok chaty Sibura, uważając jednocześnie na kilku patrolujących asasynów. Następnie udajemy się do namiotu i wręczamy wino asasynowi.
+Około 00:30 strażnik odchodzi spod więzienia i kieruje się do namiotu, to nasza szansa. Otwieramy celę (klucz do drzwi więzienia działa od godziny 00:33 do 01:00) i wyprowadzamy niewolnicę pod daszek obok chaty Sibura, uważając jednocześnie na kilku patrolujących asasynów. Następnie udajemy się do namiotu i wręczamy wino asasynowi.
 
 Po wszystkim wracamy do niewolnicy i odprowadzamy ją do Shakyora, co kończy zadanie.
 
